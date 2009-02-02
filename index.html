@@ -1,0 +1,17 @@
+---
+layout: default
+title: paperplanes. software development that flies.
+---
+  {% for post in site.posts limit:5%}
+  <div class="item">
+      <div class="item_details">
+          <h3><a href="{{ post.url }}">{{ post.title }}</h3>
+          <h4>Posted  on <a href="{{ post.url }}" title="Permalink for this post">{{ post.date | date_to_string }}</a></h4>
+      </div>
+      <div class="item_content">
+          {{ post.content }}
+      </div>
+      <br/>
+  </div>
+  {% endfor %}
+</ul>
