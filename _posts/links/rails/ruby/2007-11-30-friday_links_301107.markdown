@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Friday Links (30.11.07)"
+---
+* [QuickLook and TextMate](http://ciaranwal.sh/2007/11/15/quicklook-and-textmate), sitting in a tree. Makes QuickLook even better. It integrates the TextMate syntax highlighting into QuickLook, and integrates QuickLook into TextMate. Looks pretty neat.
+![TextMate in QuickLook](http://myskitch.com/mattie/picture_1-20071130-154106.jpg)
+
+* [Ruby Tool Survey](http://www.tbray.org/ongoing/When/200x/2007/11/26/Ruby-Tool-Survey)  
+  It's official (as far as this survey goes): TextMate is the number one development tool for Ruby and Rails. That's what I tried to tell the students during the lecture I gave last weekend, but the die-hard Linux fans wouldn't believe me ;)
+
+* [Nginx and Mongrel for Rails](http://www.railsjitsu.com/installing-and-configuring-nginx-and-mongrel-for-rails)  
+  Nice tutorial on how to set up Nginx for Rails deployment. I'm using it on one of my current projects and it's pretty neat. [RailsJitsu](http://www.railsjitsu.com/) is well worth keeping an eye on.
+
+* [Scripting the Leopard Termina](http://www.onrails.org/articles/2007/11/28/scripting-the-leopard-terminal)  
+  Tired of having to open four terminal session each time you open Terminal to work on your Rails applications? Get some nice hints on how to script Terminal with AppleScript to ease the pain on your fingers.
+
+* [Inject Ruby into a Running OS X Application](http://www.rubyinside.com/inject-ruby-into-any-running-os-x-application-659.html)  
+  Just cool. Nuff said.

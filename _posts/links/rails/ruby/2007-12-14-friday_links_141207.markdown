@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Friday Links (14.12.07)"
+---
+Friday's tab sweep for a little weekend reading.
+
+* [Rails, and how the opinion can keep back Rails EE](http://almaer.com/blog/rails-and-how-the-opinion-can-keep-back-rails-ee)  
+  Interesting opinion on plugin-overflow and blind framework switching.
+
+* [Tab Switching in Terminal](http://ciaranwal.sh/2007/12/10/tab-switching-in-terminal)  
+  Nice InputManager hack to enable Cmd-1 to 9 for directly switching to tabs.
+
+* [BackgrounDRb is growing up](http://backgroundrb.rubyforge.org/)  
+  Well, who woulda thought. The new team switched the communication with the BackgrounDRb server to the more reliable [Packet library](http://code.google.com/p/packet/). More information about the changes for the upcoming 1.0 release on the [mailing list](http://rubyforge.org/pipermail/backgroundrb-devel/2007-December/001089.html).
+
+* [Rendering with Erubis and Rails 2.0](http://railspikes.com/2007/12/10/rendering-erubis-and-rails-2-0)  
+
+* [Utility Belt](http://utilitybelt.rubyforge.org/)  
+  Extension kit for IRB, shortcuts for S3, using the clipboard in OS X, using Pastie, and much more.
+
+* [Declarative exception handling in your controllers with Rails 2.0](http://blog.codefront.net/2007/12/10/declarative-exception-handling-in-your-controllers-rails-20-a-feature-a-day-2/)  
+  Neat!

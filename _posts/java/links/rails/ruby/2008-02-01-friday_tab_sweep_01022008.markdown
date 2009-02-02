@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Friday Tab Sweep (01.02.2008)"
+---
+ * [Routes recognition in rails and why speed matters](http://novemberain.com/2008/1/17/routes-recognition)
+
+ * [Baking those "Special" Kind of Cookies](http://aaronbedra.com/2008/1/13/baking-the-special-kind-of-cookies). A more secure alternative to the base64 based cookie session storage in Rails 2.
+
+ * [Rubular](http://www.rubular.com/). A Ruby regular expression editor.
+
+ * [Dave Thomas on the Joys of Life-long Learning](http://www.infoq.com/news/2008/01/dave-thomas-agile-passion)
+
+ * [The Road to Merb 1.0](http://www.infoq.com/news/2008/01/road-to-merb). An interview with Ezra Zygmuntowicz.
+
+ * [Evan Phoenix on Rubinius](http://www.infoq.com/interviews/evan-phoenix-rubinius)
+
+ * [Scala Tutorials for Java Developers](http://www.infoq.com/news/2008/01/scala-tutorials)
+
+ * [Ruby Concurrency, Actors, and Rubinius](http://www.infoq.com/articles/actors-rubinius-interview). An interview with MenTaLguY.
+
+ * [The case of the plane and conveyer belt](http://www.kottke.org/06/02/plane-conveyor-belt). Plane? Conveyor belt? Yep.
+
+ * [Announcing: SimpleServices](http://www.relevancellc.com/2008/1/18/announcing-simpleservices). Yes, the enterprise is finally coming to Rails. About time given that Grails already has Spring, and therefore is more enterprisey than Rails.
