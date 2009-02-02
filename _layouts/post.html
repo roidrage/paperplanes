@@ -4,13 +4,17 @@ layout: default
 <div class="item_perma">
     <div class="item_details">
         <h3>{{ page.title }}</h3>
-        <h4>Posted  on <a href="{{ post.url }}" title="Permalink for this post">{{ page.date | date_to_string }}</a></h4>
+        <h4>Posted  on <a href="{{ page.url }}" title="Permalink for this post">{{ page.date | date_to_string }}</a></h4>
     </div>
     <div class="item_content">
         {{ content }}
     </div>
     <div class="item_meta">
-        <div class="item_tags">Tags: <a href="http://www.paperplanes.de/archives/tags/continuousintegration" title="View posts tagged with &quot;continuousintegration&quot;">continuousintegration</a>, <a href="http://www.paperplanes.de/archives/tags/rails" title="View posts tagged with &quot;rails&quot;">rails</a>, <a href="http://www.paperplanes.de/archives/tags/ruby" title="View posts tagged with &quot;ruby&quot;">ruby</a></div>
+        <div class="item_tags">Tags:
+          {% for topic in page.topics %}
+          <a href="http://www.paperplanes.de/archives/tags/{{ topic }}" title="View posts tagged with &quot;{{ topic }}&quot;">{{ topic }}</a>
+          {% endfor %}
+        </div>
         <div class="item_hierarchy">Hierarchy: <a href="http://www.paperplanes.de/archives/2009/1/26/new_tools_for_my_toolbox/" title="Previous post">previous</a></div>
     </div>
 </div>
