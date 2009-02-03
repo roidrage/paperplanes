@@ -63,13 +63,21 @@
           <div id="menu_right_pad"></div>
         </div>
     
-        <!-- content -->
         <div id="content">
           {{ content }}
+          <a href="/archives.html">&lt;&lt; Archives</a> | <a href="#" onclick="Element.toggle('search_content');return false;">Search</a> | <a href="http://feeds.feedburner.com/Paperplanes" title="Full-text RSS feed">RSS Feed</a> 
+
+
+          <div id="search_content" style="display:none; margin-top:10px"> 
+            <form action="http://www.google.com/search" id="search_form" method="get">
+              <div id="search"> 
+                <b>Search:</b>&nbsp;&nbsp;<input type="text" name="q" id="q" value="Enter your terms, hit enter" onfocus="searchFocus()"/> 
+              </div> 
+            </form>
+          </div>    
         </div>
-        <!-- end content -->
-    
-        <!-- footer -->
+
+        
         <div id="footer">
           <div id="footer">
             <div id="footer_text">&copy; 2007-2009 Mathias Meyer, PAPERPLANES <a href="/imprint.html">Imprint/Impressum</a></div>
