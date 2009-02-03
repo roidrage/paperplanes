@@ -11,6 +11,13 @@ title: software development that flies.
       <div class="item_content">
           {{ post.content }}
       </div>
+      <div class="item_meta">
+        <span class="item_tags">
+          Tags: 
+          {% for topic in post.topics %}
+          <a href="http://www.paperplanes.de/archives/tags/{{ topic }}" title="View posts tagged with &quot;{{ topic }}&quot;">{{ topic }}</a>{% if forloop.last != true %}, {% endif %}
+          {% endfor %}
+        </span>
       <br/>
   </div>
   {% endfor %}

@@ -12,7 +12,7 @@ layout: default
     <div class="item_meta">
         <div class="item_tags">Tags:
           {% for topic in page.topics %}
-          <a href="http://www.paperplanes.de/archives/tags/{{ topic }}" title="View posts tagged with &quot;{{ topic }}&quot;">{{ topic }}</a>
+          <a href="http://www.paperplanes.de/archives/tags/{{ topic }}" title="View posts tagged with &quot;{{ topic }}&quot;">{{ topic }}</a>{% if forloop.last != true %}, {% endif %}
           {% endfor %}
         </div>
         <div class="item_hierarchy">Hierarchy: <a href="http://www.paperplanes.de/archives/2009/1/26/new_tools_for_my_toolbox/" title="Previous post">previous</a></div>
