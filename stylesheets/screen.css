@@ -1,0 +1,370 @@
+/* @override 
+  http://www.paperplanes.de/themes/paperplanes/stylesheets/screen.css
+  http://localhost:3000/themes/paperplanes/stylesheets/screen.css
+  http://192.168.2.106:3000/themes/paperplanes/stylesheets/screen.css
+*/
+
+/**
+ * =Body
+ ***************************/
+body {
+  font: normal 11px Lucida Grande, Verdana;
+  margin: 0px;
+  padding: 0px;
+  color: #4c4c4c;
+  background-color: #8a8a8a;
+  text-align: center;
+}
+
+/**
+ * =Layout
+ ***************************/
+#box {
+  margin: 20px auto;
+  background-color: #fff;
+  text-align: left;
+    width: 577px;
+}
+
+html>body #box {
+  max-width: 577px;
+  padding-right: 0px;
+  margin-bottom: 20px;
+}
+
+#content {
+    width: 542px;
+  float: right;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  margin: 0px 10px 1px 0px;
+}
+
+html>body #content {
+    width: 542px;
+}
+
+#menu {
+  height: 35px;
+  max-height: 35px;
+  max-width: 577px;
+  width: 577px;
+}
+
+/* @group Menu */
+
+#menu div {
+  height: 30px;
+  min-height: 30px;
+  float: left;
+}
+
+#above_menu {
+  height: 5px;
+  max-height: 5px;
+  width: 577px;
+  background: url(../images/above_menu.png) no-repeat;
+  font-size:4px;
+}
+
+#menu_left_pad {
+  width: 25px;
+  min-width: 25px;
+  background: url(../images/menu_left_pad.png);
+}
+
+#menu_work {
+  background: url(../images/work_inactive.png);
+  width: 85px;
+}
+
+#menu_work_active {
+  background: url(../images/work_active.png);
+  width: 85px;
+}
+
+#menu_sep_1 {
+  background: url(../images/menu_separator_1.png);
+  width: 8px;
+}
+
+#menu_about {
+  background: url(../images/about_inactive.png);
+  width: 85px;
+}
+
+#menu_about_active {
+  background: url(../images/about_active.png);
+  width: 85px;
+}
+
+#menu_sep_2 {
+  background: url(../images/menu_separator_2.png);
+  width: 7px;
+}
+
+#menu_journal {
+  background: url(../images/journal_inactive.png);
+  width: 85px;
+}
+
+#menu_journal_active {
+  background: url(../images/journal_active.png);
+  width: 85px;
+}
+
+#menu_sep_3 {
+  background: url(../images/menu_separator_3.png);
+  width: 7px;
+}
+
+#menu_contact {
+  background: url(../images/contact_inactive.png);
+  width: 85px;
+}
+
+#menu_contact_active {
+  background: url(../images/contact_active.png);
+  width: 85px;
+}
+
+#menu_right_pad {
+  background: url(../images/menu_right_pad.png);
+  width: 190px;
+}
+
+/* @end */
+
+
+#sidebar {
+    float: right;
+    width: 244px;
+    background-color: #f0f0f0;
+  padding: 18px 18px 2px 18px;
+  margin-top: 18px;
+  color: #777;
+}
+
+html>body #sidebar {
+    width: 260px;
+    padding-top: 2px;
+}
+#footer {
+  clear: both;
+  background: url(../images/bottom.png);
+  height: 21px;
+  min-height: 21px;
+}
+
+#footer_text {
+  padding-left: 25px;
+  padding-top: 6px;
+}
+
+#tags, #authors, #search_results {
+  display: none;
+}
+
+/**
+ * =Search
+ ***************************/
+#search, #search_results {
+  padding-bottom: 6px;
+}
+input[id=q],
+#login input[type=text],
+#login input[type=password] {
+  font: normal 11px Arial, Verdana, Sans-serif;
+  padding: 2px;
+  width: 250px;
+  color: #48453c;
+}
+input[id=q] {
+    width: 170px;
+}
+#results {
+  display: inline;
+}
+#results ol li {
+  padding-bottom: 3px;
+}
+
+/**
+ * =Posts and comments
+ ***************************/
+.item_tags {
+    clear: both;
+    font-size: 11px;
+}
+
+.item_comments {
+  font-size: 11px;
+}
+table#comment_form {
+    margin-top: 10px;
+}
+table#comment_form td {
+    padding: 2px 2px 2px 0;
+}
+table#comment_form td.labels {
+    width: 130px;
+}
+#comments h4 { }
+#comments .comment_content {
+    margin-top: 16px;
+    width: auto;
+}
+#comments .approval_required {
+    color: #209d20;
+    font-size: 11px;
+    padding: 10px;
+  border: 1px solid #209d20;
+}
+#comments .comment {
+  width: 100%;
+  clear: both;
+}
+#comments .comment_author {
+  font-weight: bold;
+}
+#comments .comment_details {
+  margin-bottom: -10px;
+  font-size: 11px;
+  color: gray;
+}
+#comments .gravatar {
+  float: right;
+  width: 40px;
+  height: 40px;
+  padding: 0;
+  margin: 4px 6px 0 0;
+  border: 1px solid #777;
+  background: #fff url(../images/default_gravatar.gif) no-repeat top left;
+}
+#comments h3#post {
+  clear: both;
+  padding-top: 30px;
+}
+
+/**
+ * =Headers
+ ***************************/
+#masthead {
+  margin: 0px 0px 0px 0px;
+  height: 167px;
+  min-height: 167px;
+  width: 577px;
+  min-width: 577px;
+  background-color: #348fbc;
+  background: url(../images/top.png);
+}
+
+h1 {
+  font-size: 32px;
+  font-weight: normal;
+  padding: 0;
+  margin: 0;
+}
+h2, h3, h4 {
+    margin: 0;
+    padding: 0;
+}
+h2 {
+  font-size: 12px;
+  padding-top: 2px;
+  color: #93c5de;
+  font-weight: normal;
+}
+h3 {
+    font-size: 15px;
+    padding-bottom: 3px;
+}
+h4, .item_meta {
+    font-size: 10px;
+    color: #777;
+    font-weight: normal;
+}
+.item_meta {
+    padding-bottom: 40px;
+}
+
+/**
+ * =Links
+ ***************************/
+a {
+  color: #2B7598;
+  text-decoration: none;
+}
+a:hover {
+  color: #000;
+  text-decoration: underline;
+}
+h1 a, h1 a:hover {
+    color: #fff;
+    text-decoration: none;
+    background: none;
+    padding: 0;
+    margin: 0;
+}
+h1 a:hover {
+    color: #fff;
+    text-decoration: underline;
+}
+
+/**
+ * =Misc
+ ***************************/
+br {
+  clear: both;
+}
+code {
+  font-family: Monaco, 'Courier New', Courier;
+  font-size: 10px;
+  color: #000;
+}
+blockquote {
+  color: #000;
+}
+
+/**
+ * =Errors
+ ***************************/
+.ror_error {
+  font-size: 10px;
+  color: red;
+}
+#comments .errorExplanation {
+    font-size: 11px;
+    line-height: 16px;
+    color: #bd0200;
+    padding: 10px;
+  border: 1px solid #bd0200;
+  margin: 5px 0;
+  background-color: #fffaf9;
+}
+#comments .errorExplanation h2 {
+  font-size: 14px;
+  margin-top: 0;
+  color: #bd0200;
+  font-weight: bold;
+}
+#comments .errorExplanation ul {
+  margin: 0;
+}
+
+/**
+ * =Warn Bad Browsers
+ ***************************/
+#warn_bad_browsers {
+  padding: 8px;
+  background-color: #990000;
+  width: 100%;
+  margin: 0;
+  font-size: 11px;
+  color: #fff;
+  border-bottom: 1px solid #000;
+}
+#warn_bad_browsers b {
+  font-weight: bold;
+}
