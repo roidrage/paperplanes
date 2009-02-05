@@ -15,6 +15,14 @@ layout: default
       <a href="http://www.paperplanes.de/archives/tags/{{ topic }}" title="View posts tagged with &quot;{{ topic }}&quot;">{{ topic }}</a>{% if forloop.last != true %}, {% endif %}
       {% endfor %}
     </div>
-    <div class="item_hierarchy">Hierarchy: <a href="http://www.paperplanes.de/archives/2009/1/26/new_tools_for_my_toolbox/" title="Previous post">previous</a></div>
+    <div class="item_hierarchy">Hierarchy:
+      {% if previous %}
+        <a href="{{ previous.url }}" title="Previous post">previous</a>
+      {% endif %}
+      
+      {% if next %}
+        {% if previous %}, {% endif %}<a href="{{ next.url }}" title="Next post">next</a>
+      {% endif %}
+      </div>
   </div>
 </div>
