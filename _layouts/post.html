@@ -26,3 +26,24 @@ layout: default
       </div>
   </div>
 </div>
+
+<div id="comments">
+  <a href="{{ page.url }}#disqus_thread">View Comments</a>
+  <div id="disqus_thread"></div>
+  <script type="text/javascript" src="http://disqus.com/forums/paper-planes/embed.js"></script>
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {
+		var links = document.getElementsByTagName('a');
+		var query = '?';
+		for(var i = 0; i < links.length; i++) {
+			if(links[i].href.indexOf('#disqus_thread') >= 0) {
+				query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
+			}
+		}
+		document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/paper-planes/get_num_replies.js' + query + '"></' + 'script>');
+	})();
+//]]>
+</script>
