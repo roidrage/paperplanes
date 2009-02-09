@@ -26,6 +26,10 @@ namespace :deploy do
   task :stop, :roles => :app do
     # nothing
   end
+  
+  task :finalize_update do
+    # nothing
+  end
 end
 
 task :blablu do
