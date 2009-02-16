@@ -1,0 +1,54 @@
+---
+layout: post
+title: "Friday Tab Sweep (21.03.2008)"
+categories: links macosx rails ruby
+---
+Lots of open tabs to be swept. Brace yourselves.
+
+**Git**
+
+* [Git - SVN Crash Course](http://git.or.cz/course/svn.html). Coming from Subversion? Lookie here.
+
+* [Using git with Django Screencast](http://oebfare.com/blog/2008/jan/23/using-git-django-screencast/)
+
+* [Learning git-svn in 5 minutes](http://tsunanet.blogspot.com/2007/07/learning-git-svn-in-5min.html)
+
+* [gitnub](http://github.com/Caged/gitnub/wikis/home). I was really apalled by gitk (but then again, I'm appalled by most tools written in Tk), so this more Mac-style repository browser comes in quite handy.
+
+* [Git SVN Workflow](http://andy.delcambre.com/2008/3/4/git-svn-workflow)
+
+* [Railscast - Git on Rails](http://railscasts.com/episodes/96)
+
+* [Git Peepcode](https://peepcode.com/products/git). Of course.
+
+Can you tell I'm looking into Git right now?
+
+**Ruby**
+
+* [Matz' Google Tech Talk on Ruby 1.9](http://youtube.com/watch?v=oEkJvvGEtB4). Damn, Google employees have it all.
+
+* [MacRuby - Ruby running on Objective-C](http://macdevnet.com/index.php/articles/ruby/918-ruby/216-macrubyarticle). A Ruby project by Apple. Awesome.
+
+* [Ruby, an AppleScript Alternative](http://macdevelopertips.com/ruby/ruby-an-applescript-alternative-part-1.html). Part [#2](http://macdevelopertips.com/ruby/ruby-an-applescript-alternative-part-2.html) and [#3](http://macdevelopertips.com/ruby/ruby-an-applescript-alternative-part-3.html).
+
+* [Scripting with RubyOSA](http://maczealots.com/tutorials/rubyosa/)
+
+* [Castanaut: Ruby-powered OS X Screencasting DSL](http://www.rubyinside.com/castanaut-ruby-powered-os-x-screencasting-dsl-774.html)
+
+* [Ruby 1.9 with Symbol#to___proc and (soon) curried Procs](http://www.infoq.com/news/2008/02/to_proc-currying-ruby19). You know it from Rails, now this is Ruby standard: `:attributes.to_proc`.
+
+* [Rush - OOP shell in Ruby](http://www.infoq.com/news/2008/02/rush-oop-shell)
+
+**Rails**
+
+* [Tarantula vs. your Rails app](http://blog.thinkrelevance.com/2008/2/26/tarantula-vs-your-rails-app). Think of it as heckle for your application.
+
+* [count vs. length vs. size](http://blog.hasmanythrough.com/2008/2/27/count-length-size). A small tidbit on how each of these methods work on ActiveRecord association proxies.
+
+* [Rails is the best thing that ever happened to Python](http://antoniocangiano.com/2008/03/04/rails-is-the-best-thing-that-ever-happened-to-python/)
+
+**Mac OS X**
+
+* [Secrets](http://secrets.textdriven.com/preferences/list). An ever-growing list of hidden preferences. Comes with a handy-dandy preference pane.
+
+

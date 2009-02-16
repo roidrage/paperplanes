@@ -1,0 +1,14 @@
+---
+layout: post
+title: "A Busy Month"
+categories: rails ruby thedailygrind
+---
+That's what it's been. And who needs to work when there's so many nice projects to work on, eh? Well actually, I did work, but in my free time I also worked on some other things, a new one, and existing projects.
+
+I started wrapping up [Macistrano](http://github.com/mattmatt/macistrano/tree/master) for a first release. It's looking good so far, but I still need some new icons, so that it won't look like you have two instances of CCMenu running in your menu bar. If you're wondering what it is: It's a small desktop frontend written in RubyCocoa (so yes, it's Mac only) to monitor deployments running on [Webistrano](http://labs.peritor.com/webistrano). Webistrano in turn is an enhanced web frontend for Capistrano. So as you can see, there's lots of meta involved here. I basically built a tool to access a tool that runs a tool. Neat stuff, eh? If your deployment is finished in Webistrano, Macistrano will notify you through the convenience of your desktop. You can also fire off deployments with it.
+
+Speaking of Webistrano, I had good fun working on it too. Mainly some stuff that I wanted to see in it, like code preview for recipes, syntax check, versioning. But something that really scratched my itch was import for existing Capfiles, so I just had to try implementing it. As Jonathan will no doubt confirm, it was one of the first questions that pop up, when you tell people about Webistrano: Can it import my Capfile? Fret no more, it might just do that in the near future. Nice experience, because your definitely have to have a look at the Capistrano source to find out, how it actually stores the configuration internally.
+
+Then there's [ActiveMessaging](http://code.google.com/p/activemessaging), a small library I have a certain knack for. I wanted to see support for storing messages in case the message broker is down. JMS has something similar, so why can't ActiveMessaging? I built the initial code in February, but didn't get around to actually finishing it until recently. What it does is save your message through ActiveRecord if there's an error that indicates your broker is down. That way your application most likely won't be harmed if your messaging infrastructure has a problem. To recover them you can simply run a daemon that will regularly poll the storage and try to deliver the messages. The code didn't make it to the trunk of ActiveMessaging yet, but you can have a go at it on [GitHub](http://github.com/mattmatt/activemessaging/tree/master).
+
+I also read "The Ruby Programming Language", a highly recommended book. A detailed review will follow. But first I'm off to my well-deserved honeymoon.
