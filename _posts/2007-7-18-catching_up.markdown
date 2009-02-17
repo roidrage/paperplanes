@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Catching Up"
-categories: miscellany
+topics: miscellany
 ---
 So I spent some time off in Bergen (in Norway), and had a wonderful time. We went hiking in the mountains, in a lot of snow, of course, and had a good time there, and made new friends.
 

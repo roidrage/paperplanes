@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CruiseControl in your Menu Bar"
-categories: continuousintegration cruisecontrol macosx
+topics: continuousintegration cruisecontrol macosx
 ---
 Now here's a little gem I've been waiting for a long time, and that I just discovered today. Usually i just implemented custom scripts that would check the build status in CruiseControl and use Growl to notify me of build errors. I don't like having my email client open all the time just to see if the build failed, so this is a god-given.
 

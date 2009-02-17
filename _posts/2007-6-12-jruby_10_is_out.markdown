@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "JRuby 1.0 is out"
-categories: rails ruby
+topics: rails ruby
 ---
 If that's not exciting, then I don't know what is. Original Ruby finally has got competition. I tip my hat to the team that developed JRuby in such a short time frame and now fully conforms with Ruby 1.8.x. Though I'm not keen to run JRuby in Glassfish, it's nice to have the option to integrate a Rails application with J2EE services. Think of that <a href="http://en.wikipedia.org/wiki/Enterprise_application_integration">EAI</a> buzzword that came up a few years ago. 
 

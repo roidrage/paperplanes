@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "When Will the Web 2.0 Bubble Burst?"
-categories: web
+topics: web
 ---
 Every day a load of new start-ups appears on the scene. Every day is full of announcements of new Web-2.0-like tools, platforms, and whatnot. Every day another start-up gets new funding, sometimes in ridiculous amounts. [TechCrunch](http://www.techcrunch.com/) is full of news like that. And every day I ask myself: Haven&rsquo;t I seen all this before? Before the new millennium millions, if not billions of investor and stock money went down the drain with the crash of the first wave of web start-ups. Venture capitalists invested without questioning business plans, if such a thing even existed. Personally I crashed rather soft. I was still a student, and I found a new job without any problems. I switched from new economy to old economy for a while.
 

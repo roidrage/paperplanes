@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Film is the new Black"
-categories: photography thedailygrind
+topics: photography thedailygrind
 ---
 Okay, maybe that statement is a slight exaggeration. I started getting into photography about a year ago, and that was mainly thanks to my girlfriends [diploma thesis](http://www.glimpsemagazine.net). I started with a simple point & shoot, but it soon gets annoying to be held back by its restrictions, especially when there's a Nikon D80 in the same household.
 

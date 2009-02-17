@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Merb's run_later Coming to a Thread-safe Rails Near You"
-categories: rails ruby
+topics: rails ruby
 ---
 At RailsConf Europe, Yehuda Katz showed off a small yet totally useful feature of Merb. A method called `run_later` that does nothing more than queue the block it receives as an argument to be executed after the request is done.
 

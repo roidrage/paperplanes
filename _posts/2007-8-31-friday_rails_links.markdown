@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Friday Rails Links"
-categories: links rails ruby
+topics: links rails ruby
 ---
 It's been a week full of Rails joy, and a little pain as well, but that's not to looked for in Rails itself, but just some code.
 

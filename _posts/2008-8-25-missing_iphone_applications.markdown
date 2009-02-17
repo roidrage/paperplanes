@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Missing iPhone Applications"
-categories: iphone
+topics: iphone
 ---
 Instead of disco balls, the 100th todo list application (I'm using OmniFocus, thank you very much) a coin flipper (just use a quarter, will ya?) or a face melter, how about something useful for a change?
 

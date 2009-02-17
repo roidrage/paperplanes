@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Paul Tuckfield on Scaling MySQL"
-categories: mysql
+topics: mysql
 ---
 Paul Tuckfield (YouTube's MySQL administrator) gave a nice talk on do's and don'ts when it comes to scaling MySQL. He held it at last year's MySQL Conference, so it's not that recent, but it's still very much worth it.
 

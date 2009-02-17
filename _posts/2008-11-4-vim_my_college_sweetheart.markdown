@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vim - My College Sweetheart"
-categories: macosx rails thedailygrind
+topics: macosx rails thedailygrind
 ---
 It's true, I did write my [diploma thesis](https://github.com/mattmatt/deception_toolkit/tree) using Vim. Old-school with LaTeX and C++. When I came to the Mac five years ago I was still using the now pretty much dead [Carbon version of MacVim](http://www.macvim.org). And well, it just didn't feel right. I'm very comfortable on the command line, but on the Mac I wanted something that integrated well with the rest of that system, that behave like a real Mac application.
 

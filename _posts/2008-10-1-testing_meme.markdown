@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Testing Meme"
-categories: bestpractices testing
+topics: bestpractices testing
 ---
 I'm not religious about anything, but if there's one thing I adopted and applied rigorously over the last years it's testing. Out of that habit I've developed using some principles that drive my writing of tests.
 

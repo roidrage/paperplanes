@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "IDEA still makes Java Fun"
-categories: java thedailygrind
+topics: java thedailygrind
 ---
 Since I've started freelancing I worked less and less in a Java environment. Which is quite a good thing for me, since I get to do what I enjoy. I worked in a J2EE environment for three years. Though I never got to feel the pain of using entity beans, I still started loathing it over time. It just felt too heavy-weight. Testing is a pain, deployment takes ages, and it just can get frustrating what with all the waiting and the complexity involved.
 

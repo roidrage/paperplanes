@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Smalltalk on Git"
-categories: git
+topics: git
 ---
 It's been quite around here. That's mainly due to the fact that I had visitors from Canada over, and led them and two more visitors from Norway around beautiful Berlin and Potsdam. Being a tour guide sure is a full-time job.
 

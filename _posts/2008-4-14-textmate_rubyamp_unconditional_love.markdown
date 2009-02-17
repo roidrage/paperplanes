@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TextMate + RubyAMP = Unconditional Love"
-categories: rails rspec ruby textmate
+topics: rails rspec ruby textmate
 ---
 This is the bundle that'll make TextMate almost as good as warm apple pie. [RubyAMP](http://code.leadmediapartners.com/tools/rubyamp/) comes along with a few additions to Ruby coding in TextMate, but boy do they rock.
 

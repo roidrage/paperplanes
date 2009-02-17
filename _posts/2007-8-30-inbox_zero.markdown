@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Inbox Zero"
-categories: productivity
+topics: productivity
 ---
 A while ago I picked up [Merlin Mann's](http://www.merlinmann.com/) (of [43 Folders](http://www.43folders.com/) fame) [Inbox Zero](http://www.43folders.com/izero/) philosophy and since, have been recommending it to friends. It's a great way to deal with your daily load of email, still one of the biggest distractions in the digital life.
 

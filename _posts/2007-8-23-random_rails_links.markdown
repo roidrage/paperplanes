@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Random Rails Links"
-categories: links rails ruby
+topics: links rails ruby
 ---
 * Chad Fowler and Marcel Molina are holding a [full-day Rails testing tutorial](http://www.chadfowler.com/2007/8/21/railsconf-europe-full-day-testing-tutorial) on the day before the sessions of RailsConf Europe. That would be September 17th. You're expected to fork over $75 for the entry, but fear not, the money is for a good cause and the donation is tax-deductible.
 * A while ago [Ola Bini called](http://ola-bini.blogspot.com/2007/04/activehibernate-any-takers.html) for an implementation of [Hibernate](http://www.hibernate.org) for [JRuby](http://jruby.codehaus.org/). [Johan Andries](http://rubymatic.blogspot.com/) is giving it a try: [ActiveHibernate](http://code.google.com/p/activehibernate/) on Google Code (via [InfoQ](http://www.infoq.com/news/2007/08/jruby-active-hibernate))

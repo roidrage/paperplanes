@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The iPhone AppStore"
-categories: miscellany
+topics: miscellany
 ---
 A lot has been said about Apple's AppStore. There are mixed opinions, and I'm sort of in both camps, if that's possible. While I think it's probably the best part about the new iPhone (just like [Bill de h&Oacute;ra](http://www.dehora.net/journal/2008/07/16/link-up/)), building and distributing your application doesn't come without sacrifices.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "For The Love Of Light: The Book"
-categories: books photography polaroid
+topics: books photography polaroid
 ---
 [Jenifer Altman](http://www.jeniferaltman.com/) did it. She finished the book for our Polaroid project. 25 Polaroid photographers from all over the world say farewell to a piece of photographic history. Here's a sneaky peek at the cover:
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Friday Links (14.12.07)"
-categories: links rails ruby
+topics: links rails ruby
 ---
 Friday's tab sweep for a little weekend reading.
 

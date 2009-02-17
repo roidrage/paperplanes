@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Merlin Mann on the recent Gmail Outage"
-categories: productivity
+topics: productivity
 ---
 I have nothing to add. Great to have one distraction less for a while.
 

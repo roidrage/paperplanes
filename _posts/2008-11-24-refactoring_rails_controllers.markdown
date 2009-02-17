@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Refactoring Rails Controllers"
-categories: bestpractices rails refactoring ruby testing
+topics: bestpractices rails refactoring ruby testing
 ---
 This post has been lying in my drafts folder for a while now, and since I'm trying out new approaches to shrink oversized controllers, it's about time to put this out, and get ready for describing alternatives.
 

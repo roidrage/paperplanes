@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Things to Do in 2009"
-categories: miscellany
+topics: miscellany
 ---
 So you're still looking for things to do in the new year, eh?
 

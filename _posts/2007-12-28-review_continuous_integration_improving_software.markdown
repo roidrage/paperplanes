@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: \"Continuous Integration: Improving Software Quality and Reducing Risks\""
-categories: books continuousintegration
+topics: books continuousintegration
 ---
 I've been a fan and user of continuous integration for quite a while now, yet I've been keen to pick up the book ["Continuous Integration: Improving Software Quality and Reducing Risk"](http://www.informit.com/title/0321336380) by Paul M. Duvall et. al. to see, if it can live up to be the first book dealing exclusively with the topic. They don't have to sell me on the idea anymore, but still, there's always something to learn.
 

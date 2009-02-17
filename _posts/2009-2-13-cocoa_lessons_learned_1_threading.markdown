@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cocoa Lessons Learned #1: Threading is Hard"
-categories: iphone cocoa objective-c
+topics: 
 ---
 While working on iMacistrano (or iWebistrano if you fancy, either way my little iPhone toy project) I started moving things into background tasks and to use timers to fire off requests on a regular basis, specifically to create a deployment, and then to monitor its state.
 

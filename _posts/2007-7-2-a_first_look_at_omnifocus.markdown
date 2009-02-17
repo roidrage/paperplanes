@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A First Look at OmniFocus"
-categories: productivity
+topics: productivity
 ---
 I&rsquo;m a big fan of <a href="http://www.kinkless.com/">Kinkless GTD</a>, or better yet, I was a big fan. Recently I got my invitation for the alpha program for the newest kid on the GTD tools block, <a href="http://www.omnigroup.com/applications/omnifocus/">OmniFocus</a>, and now I don&rsquo;t look back anymore.
 

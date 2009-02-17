@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Serializing Data with ActiveMessaging and Filters"
-categories: activemessaging asynchronous rails ruby
+topics: activemessaging asynchronous rails ruby
 ---
 I've been playing around with [ActiveMessaging](http://code.google.com/p/activemessaging/) recently. Well, actually more than that. I integrated it into a project for asynchronous processing. It's a pretty neat plugin. We're using [StompServer](http://stompserver.rubyforge.org/) as a message broker, and therefore the [Stomp](http://stomp.codehaus.org/) protocol to publish and poll the messages.
 

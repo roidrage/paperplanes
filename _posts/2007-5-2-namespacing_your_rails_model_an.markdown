@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Namespacing Your Rails Model - An Afterthought"
-categories: rails ruby
+topics: rails ruby
 ---
 In an earlier post I wrote about <a href="http://www.paperplanes.de/archives/2007/4/27/namespace_your_rails_model/">namespacing your Rails model</a>. There's an additional issue that must be thought of when doing so. Rails (of course) has conventions dealing with namespaces.
 

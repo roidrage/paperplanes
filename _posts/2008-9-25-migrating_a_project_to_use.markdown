@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Migrating a Project to use Rails UTC-based Migrations"
-categories: rails
+topics: rails
 ---
 A confusing title, I know. But I recently upgraded a rather big project to use Rails 2.1. Everything went pretty smoothly, but one thing bugged me, since it's not really documented anywhere: What happens if you migrate from the old numbered migration scheme to the new one using UTC timestamps?
 

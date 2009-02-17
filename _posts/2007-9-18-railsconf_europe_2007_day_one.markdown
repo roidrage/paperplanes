@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "RailsConf Europe 2007 Day One"
-categories: rails railsconf ruby thedailygrind
+topics: rails railsconf ruby thedailygrind
 ---
 Day one of the RailsConf Europe is over (for me anyway), and so here's my summary of what I've seen and heard today.
 

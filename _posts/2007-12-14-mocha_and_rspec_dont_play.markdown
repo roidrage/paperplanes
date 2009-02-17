@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mocha and RSpec Don't Play Nice"
-categories: mocks rails rspec ruby testing
+topics: mocks rails rspec ruby testing
 ---
 [Mocking](http://www.mockobjects.com/) is a great part of [RSpec](http://rspec.rubyforge.org/), and from the [documentation](http://rspec.rubyforge.org/documentation/mocks/index.html) it looks insanely easy. What had me frustrated on a current project is the fact that the mocks and stubs wouldn't always do what I'd expect them to do. No errors when methods weren't invoked, and, the worst part, mocks wouldn't be cleaned up between examples which resulted in rather weird errors. They only occurred when run as a whole with `rake spec` but not when I ran the specs through TextMate.
 

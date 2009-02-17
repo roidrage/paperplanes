@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Best Practices on Rails"
-categories: bestpractices rails railsconf ruby
+topics: bestpractices rails railsconf ruby
 ---
 This morning, on day two, Marcel Molina and Michael Koziarski did a little Best Practices session, a welcome change to the keynotes and sessions. It was very code-oriented. I did even take something out of it I didn't know before. Though I wish it would've gone into a little bit more detail (which I actually wish for a lot of the other sessions as well, but more on this in a later post), it was something that you could relate to on a practical level.
 

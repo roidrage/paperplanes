@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Amazon Elastic Block Storage"
-categories: miscellany
+topics: miscellany
 ---
 Well, they had it coming. Neither S3 nor SimpleDB could've been the final storage solution for EC2.
 

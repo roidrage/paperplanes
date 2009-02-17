@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Web Design Survey"
-categories: web
+topics: web
 ---
 They wanted me to spread the word, so that's what I'll do.
 

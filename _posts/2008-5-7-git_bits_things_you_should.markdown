@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Git Bits: Things you should know about git svn dcommit"
-categories: git thedailygrind
+topics: git thedailygrind
 ---
 While working with git-svn over the last week I ran into some minor things that weren't really problems, but still kept my mulling them over every time they happened.
 

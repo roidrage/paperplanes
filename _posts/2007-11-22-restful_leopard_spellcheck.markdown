@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "RESTful Leopard Spell-Check"
-categories: macosx
+topics: macosx
 ---
 The Mac OS X spell checker offers the weirdest suggestions. Restm&uuml;ll means residual waste.
 

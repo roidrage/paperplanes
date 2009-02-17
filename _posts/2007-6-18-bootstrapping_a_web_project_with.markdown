@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bootstrapping a Web Project with Java and Rails"
-categories: java rails
+topics: java rails
 ---
 For a current gig I had to set up a Java web project from scratch. The set-up isn't that unusual:
  * Spring 1.2 (yes, it's rather old, but the project uses a portlet framework which used to work with Spring 1.1, and I don't want to make the big jump just yet, the upgrade to Spring 1.2 went just fine though)

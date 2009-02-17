@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Busy Month"
-categories: rails ruby thedailygrind
+topics: rails ruby thedailygrind
 ---
 That's what it's been. And who needs to work when there's so many nice projects to work on, eh? Well actually, I did work, but in my free time I also worked on some other things, a new one, and existing projects.
 

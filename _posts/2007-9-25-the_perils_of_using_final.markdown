@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Perils of Using final"
-categories: java thedailygrind
+topics: java thedailygrind
 ---
 I'm currently working with a proprietary framework. Which is not bad per se. Compared to others I've worked with it's a nice framework to work with. It uses Spring heavily which is a plus and makes working with it quite flexible.
 

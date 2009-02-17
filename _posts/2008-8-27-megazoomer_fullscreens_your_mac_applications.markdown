@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Megazoomer Full-Screens your Mac Applications"
-categories: macosx
+topics: macosx
 ---
 I recently remembered that there used to be a nice plugin for [SIMBL](http://www.culater.net/software/SIMBL/SIMBL.php) that'll put e.g. TextMate into full screen mode. Something TextMate itself doesn't support out of the box, but that comes in handy to reduce distractions while working with it.
 

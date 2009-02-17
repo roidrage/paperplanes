@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why Legacy Code Matters"
-categories: bestpractices
+topics: bestpractices
 ---
 It's very simple: Because it won't go away. There, that was easy.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "RailsConf Europe 2007 Day Two"
-categories: rails railsconf ruby thedailygrind
+topics: rails railsconf ruby thedailygrind
 ---
 First up: RailsConf Europe 2008 will be in Berlin again. Woot!
 

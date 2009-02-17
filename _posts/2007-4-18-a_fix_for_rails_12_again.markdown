@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Fix for Rails 1.2"
-categories: rails ruby
+topics: rails ruby
 ---
 While setting up a new project with Rails 1.2.3 I ran across a weird issue in my tests. Somewhere from the CGI class (belonging to Ruby's core lib and extended by Rails) a nil object was used and threw an error. Turns out this was introduced in 1.2.2 with a fix that was supposed to improve CGI handling on Windows.
 

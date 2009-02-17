@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Compiler and Typing Directives for Ruby?"
-categories: ruby
+topics: ruby
 ---
 Ola Bini [made an interesting yet somehow unappealing proposal](http://ola-bini.blogspot.com/2007/09/should-ruby-have-optional-typing-and.html) the other day. Ruby should support Lisp-like compiler and typing directives to allow for optimization. One example:
 

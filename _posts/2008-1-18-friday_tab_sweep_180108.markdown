@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Friday Tab Sweep (18.01.08)"
-categories: links rails ruby
+topics: links rails ruby
 ---
 * [PeepCode on RSpec User Stories](http://peepcode.com/products/rspec-user-stories). The user stories look awesome as a replacement for Rails integration tests. The PeepCode is a good introduction on the topic, but falls awfully short on that issue. Using basic steps like saving an object, checking if it's valid and checking whether it was actually stored in the database is a little bit too simple in my book, and something you shouldn't be testing all that much anyway.
 

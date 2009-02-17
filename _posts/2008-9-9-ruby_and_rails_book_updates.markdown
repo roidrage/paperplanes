@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ruby and Rails Book Updates"
-categories: books
+topics: books
 ---
 There are some interesting books on Ruby and Rails related entering the fierce market, let's have a quick look.
 

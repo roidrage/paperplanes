@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Multi-Database Connectivity in Rails"
-categories: rails ruby
+topics: rails ruby
 ---
 Kudos to Dr. Nic for <a href="http://drnicwilliams.com/2007/04/12/magic-multi-connections-a-facility-in-rails-to-talk-to-more-than-one-database-at-a-time/">this one</a>. At least a discussion filled with <a href="http://www.loudthinking.com/arc/000610.html">arrogance</a> and <a href="http://www.loudthinking.com/arc/000608.html">finger-pointing</a> turned out something useful.
 

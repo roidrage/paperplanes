@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Namespace Your Rails Model"
-categories: rails ruby
+topics: rails ruby
 ---
 I had a nice revelation earlier this week, when I finally tested some code I wrote in the wild, the wild being BackgrounDRb. The code used some pretty common class and module names. I didn't expect many problems when I used something along the lines of Sync or Synchronizer. When running the code in test cases there wasn't any problem.
 

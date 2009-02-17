@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Announcing Macistrano: A Desktop-Client for Webistrano"
-categories: macosx ruby
+topics: macosx ruby
 ---
 Personally, I'm a big fan of [Webistrano](http://labs.peritor.com/webistrano), a neat web app that sits on top of Capistrano, adds some nice features, and generally makes the deployment process a little bit easier.
 

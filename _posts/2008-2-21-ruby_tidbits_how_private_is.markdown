@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ruby Tidbits: How Private is Private?"
-categories: ruby
+topics: ruby
 ---
 Several of my friends are picking up Ruby these days. Just like me, they're coming mostly from the Java world. Good thing about that is that they're asking me questions about Ruby. Always a great opportunity to dig more into the language, and to write down some tidbits that came up.
 

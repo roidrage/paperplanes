@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stalled MySQL Logins"
-categories: mysql
+topics: mysql
 ---
 If you ever see a list like this in your MySQL process list, run!
 

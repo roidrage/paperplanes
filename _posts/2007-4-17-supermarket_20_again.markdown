@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Supermarket 2.0"
-categories: miscellany
+topics: miscellany
 ---
 So this is what it looks like:
 

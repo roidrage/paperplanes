@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MarsEdit 2.0 loves Flickr"
-categories: macosx thedailygrind
+topics: macosx thedailygrind
 ---
 [MarsEdit](http://www.red-sweater.com/marsedit/) 2.0 has been [released recently](http://www.red-sweater.com/blog/391/marsedit-20-is-out). It's been my blog editor of choice for more than two years now, and the UI facelift it got was long overdue. No more drawers, just like Apple Mail, and best of all, Flickr integration. 
 

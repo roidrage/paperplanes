@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "RubyFX Script Announced"
-categories: ruby
+topics: ruby
 ---
 At first I was rather disappointed by what <a href="http://www.sun.com/">Sun</a> announced with <a href="http://sun.com/javafx/">JavaFX</a>, the newest competitor in the RIA market. In my taste F3 looks rather ugly and has a way too expressive syntax, compared to, say SVG. The target's not the same between these two, I know that, but comparing what code you need to draw, SVG is a winner. Anyway, that's not really the point.
 

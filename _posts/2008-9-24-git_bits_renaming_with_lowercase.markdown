@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Git Bits: Renaming with Lowercase and Uppercase"
-categories: git
+topics: git
 ---
 There's a small pitfall when using git-svn. I just recently had the problem that someone renamed a file from lowercase to uppercase in our Subversion repository. Why should that bother me, when I'm using Git, you ask? Well, I'm using git-svn, and it didn't really like that kind of change. The default on Mac OS X file systems is that they are case-insensitive. FFFFFF.gif is the same as ffffff.gif.
 

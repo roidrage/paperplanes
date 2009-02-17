@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Integrity And Passenger Play Nice"
-categories: continuousintegration rails ruby
+topics: continuousintegration rails ruby
 ---
 I wanted to play the field of continuous integration tools a little bit more, so I finally gave [Integrity](http://www.integrityapp.com/) a go. Its promise of being lightweight sure was tempting.
 

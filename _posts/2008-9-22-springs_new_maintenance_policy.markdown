@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Spring's New Maintenance Policy"
-categories: miscellany
+topics: miscellany
 ---
 If Rails was anything like [Spring](http://www.springsource.com/node/558), we wouldn't see a 2.1.2 release anymore:
 

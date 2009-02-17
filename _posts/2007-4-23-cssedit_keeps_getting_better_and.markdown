@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CSSEdit Keeps Getting Better And Better"
-categories: macosx
+topics: macosx
 ---
 <a href="http://macrabbit.com/">MacRabbit</a> today <a href="http://macrabbit.com/blog/cssedit-25-out-now/">released</a> <a href="http://macrabbit.com/cssedit/">CSSEdit</a> v2.5, a release sporting some nice new features, amongst them tabs (gotta have those), a shiny inspector for X-ray to get all the details on the styles a particular element has, and last but not least, a selector builder to make the sometimes-hassle of building the right selector a visual pleasure.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chris Wanstrath on Side Projects"
-categories: git miscellany ruby
+topics: git miscellany ruby
 ---
 Chris (of [GitHub](https://github.com/) and [err.the_blog](http://errtheblog.com/) fame) gave an inspiring keynote at this year's Ruby Hoedown. Check out the [essay](http://gist.github.com/6443), or enjoy him in [full visual glory](http://rubyhoedown2008.confreaks.com/08-chris-wanstrath-keynote.html).
 

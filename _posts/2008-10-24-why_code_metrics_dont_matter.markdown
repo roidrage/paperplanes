@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why Code Metrics Don't Matter"
-categories: bestpractices
+topics: bestpractices
 ---
 Code metrics are a nice tool, and they're starting to become popular in the Ruby community. They statically analyze your code, and tell you with the simple power of numbers what's wrong with your code. You can spend ages changing your code to make the numbers look good. Still that doesn't tell your customer anything. He doesn't care about those numbers, he wants to see a finished product.
 

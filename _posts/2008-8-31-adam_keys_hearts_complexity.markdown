@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Adam Keys Hearts Complexity"
-categories: rails railsconf
+topics: rails railsconf
 ---
 [The Real Adam](http://therealadam.com/) on [complexity](http://therealadam.com/archive/2008/08/29/railsconf-europe-here-i-come/):
 

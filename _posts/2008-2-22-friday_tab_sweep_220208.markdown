@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Friday Tab Sweep (22.02.08)"
-categories: links rails ruby
+topics: links rails ruby
 ---
 * [ThoughtWorks Podcasts](http://www.thoughtworks.com/what-we-say/podcasts.html). There are two podcasts available, where Martin Fowler and Jay Fields talk about DSLs.
 

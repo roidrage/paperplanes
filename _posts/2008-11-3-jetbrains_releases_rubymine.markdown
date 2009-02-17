@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "JetBrains Releases RubyMine"
-categories: rails ruby
+topics: rails ruby
 ---
 IntelliJ used to be my favorite Java IDE, it was seriously _the_ tool that made the pain of working with the Java enterprise stuff bearable.
 

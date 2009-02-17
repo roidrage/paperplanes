@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "acts_as_solr is Dead, Long Live acts_as_solr"
-categories: rails
+topics: rails
 ---
 On a current project we recently switched from Ferret to using Solr as our search engine. That switch was more than necessary, but that's material for a different blog post. Let's just say, the switch was more than worth it, and Solr just rocks our socks off.
 

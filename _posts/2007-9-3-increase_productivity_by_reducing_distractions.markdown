@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Increase Productivity by Reducing Distractions"
-categories: macosx productivity
+topics: macosx productivity
 ---
 I get distracted easily. E-mail, instant messaging, the mighty and fraudulent web, you name it. However, recently I've surrounded my workspace with a couple of tools that help me reduce distractions, both explicitly and implicitly.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Things Learned in 2008: TATFT"
-categories: miscellany
+topics: miscellany
 ---
 All right, so I didn't exactly learn that testing all the fucking time is effing important over the last 12 months, it's become clearer and clearer ever since I was first introduced to JUnit. But it did become crystal clear to me how important it really is. I've worked with a lot of legacy code, I've refactored a lot of it into more reasonable and manageable slices, and I've thrown a fresh set of tests at them. I swore at it, I cursed it, but in the end I was very satisfied with the result. The more code I worked with that wasn't covered by a decent test suite the clearer the picture of always testing became to me.
 
