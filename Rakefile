@@ -2,7 +2,7 @@ task :default => "site:generate"
 
 namespace :site do
   task :jekyll => :pre do
-    sh "jekyll --bluecloth --permalink shortdate"
+    sh "PATH=$PATH:~/.gem/ruby/1.8/bin jekyll --bluecloth --permalink shortdate"
   end
 
   task :pre do
