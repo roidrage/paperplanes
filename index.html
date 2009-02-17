@@ -13,7 +13,7 @@ title: software development that flies.
     </div>
     <div class="item_meta">
       <span class="item_comments">
-        Comments: <a href="{{ post.url }}#disqus_thread">Comments</a>
+        Comments: <a href="{{ post.url }}#disqus_thread">(view/add your own)</a>
       </span>
       <span class="item_tags">
         Tags: 
@@ -27,16 +27,12 @@ title: software development that flies.
 </ul>
 
 <script type="text/javascript">
-//<![CDATA[
-(function() {
-    var links = document.getElementsByTagName('a');
-    var query = '?';
-    for(var i = 0; i < links.length; i++) {
-      if(links[i].href.indexOf('#disqus_thread') >= 0) {
-        query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
-      }
+  var links = document.getElementsByTagName('a');
+  var query = '?';
+  for(var i = 0; i < links.length; i++) {
+    if(links[i].href.indexOf('#disqus_thread') >= 0) {
+      query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
     }
-    document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/paper-planes/get_num_replies.js' + query + '"></' + 'script>');
-  })();
-//]]>
+  }
+  document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/paper-planes/get_num_replies.js' + query + '"></' + 'script>');
 </script>
