@@ -15,6 +15,8 @@ role :db,  domain, :primary => true
 set :scm, :git
 set :deploy_via, :remote_cache
 
+default_run_options[:pty] = true
+
 namespace :deploy do
   task :restart, :roles => :app do
   end
@@ -35,7 +37,7 @@ end
 namespace :jekyll do
   desc "Generates the site on the remote server"
   task :generate_site do
-    run "cd #{current_release} && ~/.gem/ruby/1.8/bin/jekyll --bluecloth"
+    run "cd #{current_release} && rake site:generate"
   end
   
   desc "Update the jekyll gem"
