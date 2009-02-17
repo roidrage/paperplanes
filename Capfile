@@ -32,13 +32,15 @@ namespace :deploy do
   end
 end
 
-task :blablu do
-  puts current_release
-end
-  
 namespace :jekyll do
+  desc "Generates the site on the remote server"
   task :generate_site do
     run "cd #{current_release} && ~/.gem/ruby/1.8/bin/jekyll --bluecloth"
+  end
+  
+  desc "Update the jekyll gem"
+  task :update_gem do
+    run "gem install mattmatt-jekyll"
   end
 end
 
