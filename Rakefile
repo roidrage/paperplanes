@@ -2,7 +2,7 @@ task :default => "site:generate"
 
 namespace :site do
   task :jekyll => :pre do
-    sh "jekyll --bluecloth"
+    sh "jekyll --bluecloth --permalink shortdate"
   end
 
   task :pre do
@@ -52,7 +52,7 @@ END
   
   namespace :jekyll do
     task :server do
-      sh "jekyll --bluecloth --server"
+      sh "jekyll --bluecloth --permalink shortdate --server"
     end
   end
   
