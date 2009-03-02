@@ -1,0 +1,28 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>paperplanes</title>
+    <link>http://www.paperplanes.de</link>
+    <language>en</language>
+    <webMaster>meyer@paperplanes.de (Mathias Meyer)</webMaster>
+    <pubDate>{{ site.time | date_to_xmlschema }}</pubDate>
+    <copyright>Copyright 2007-2009</copyright>
+    <ttl>60</ttl>
+    <description>software development that flies</description>
+    {% for post in site.posts limit 20 %}
+    <item>
+      <title>{{ post.title }}</title>
+      <link>http://www.paperplanes.de{{ post.url }}</link>
+      <pubDate>{{ post.date }}</pubDate>
+      <guid>http://www.paperplanes.de/archives{{ post.id }}/</guid>
+      <description>{{ post.content | xml_escape }}</description>
+      {% for topic in post.topics %}
+      <category domain="http://www.paperplanes.de/tags/{{ topic }}">{{ topic }}</category>
+      {% endfor %}
+    </item>
+    {% endfor %}
+  </channel>
+</rss>
