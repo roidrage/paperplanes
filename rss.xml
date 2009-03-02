@@ -12,7 +12,7 @@ layout: nil
     <copyright>Copyright 2007-2009</copyright>
     <ttl>60</ttl>
     <description>software development that flies</description>
-    {% for post in site.posts limit 10 %}
+    {% for post in site.posts limit:10 %}
     <item>
       <title>{{ post.title }}</title>
       <link>http://www.paperplanes.de{{ post.url }}</link>
