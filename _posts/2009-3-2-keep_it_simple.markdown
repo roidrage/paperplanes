@@ -11,8 +11,8 @@ Let me just go ahead and say it: Your way of thinking about scaling is wrong. Yo
 
 Let's look at all three in a little more detail.
 
-Memcache
-========
+### Memcache
+
 
 Your queries are becoming slow, and therefore your website's response time decreases. First thing that pops up will be to cache the hell out of your website. After all, Rails has neat support for caching.
 
@@ -22,8 +22,7 @@ Second, it will not spare you from tuning your database. Imagine your cache goes
 
 Memcache is awesome, and it's a great way to reduce your application's response time, but it's a level of complexity that needs to be understood, handled and tested correctly and gracefully.
 
-MySQL Slave
-===========
+### MySQL Slave/Sharding
 
 The load on your database has reached levels you think aren't manageable without introducing a reading slave into your setup anymore. Most of the time, you're wrong.
 
@@ -39,8 +38,9 @@ Adding RAM and increasing the database's cache is a lot cheaper than trying to i
 
 Don't believe me? Have a look at [this recent post](http://www.mysqlperformanceblog.com/2009/03/01/kiss-kiss-kiss/) on the [MySQL Performance Blog](http://www.mysqlperformanceblog.com/).
 
-Search Index
-============
+Sharding might eventually make sense when splitting up your application is the only way out. Then you can go ahead an separate your databases e.g. by model. But right from the start? Meh, throw RAM at it, saves a lot of trouble.
+
+### Full Text Search
 
 A common meme seems to be that you don't want to do full-text search using your database. Throw a separate full-text search engine instead. But hold on, isn't the purpose of a database to find data easily? Yeah, I vaguely remember that. So why not use it? Because it's slow? Oh, come on. You have like what, some ten thousand records in your database? Are all of them using a largetext column? No? Good, then why not use a simple select using like? It's not horribly wrong, you know. Worry about setting up full text search when you hit a wall with that. But unless you have hundreds of thousands of rows you want to query on, you'll be fine.
 
