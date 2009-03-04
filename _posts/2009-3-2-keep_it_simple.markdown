@@ -38,7 +38,7 @@ Adding RAM and increasing the database's cache is a lot cheaper than trying to i
 
 Don't believe me? Have a look at [this recent post](http://www.mysqlperformanceblog.com/2009/03/01/kiss-kiss-kiss/) on the [MySQL Performance Blog](http://www.mysqlperformanceblog.com/).
 
-Sharding might eventually make sense when splitting up your application is the only way out. Then you can go ahead an separate your databases e.g. by model. But right from the start? Meh, throw RAM at it, saves a lot of trouble.
+Sharding might eventually make sense when splitting up your application is the only way out. When you have [five billion visits per months](http://www.jurriaanpersyn.com/archives/2009/02/12/database-sharding-at-netlog-with-mysql-and-php/), then you can go ahead and shard your databases. But right from the start? Meh, throw RAM at it as long as you can, saves a lot of trouble.
 
 ### Full Text Search
 
