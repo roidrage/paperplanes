@@ -7,6 +7,6 @@ I got a little sick of having to maintain an unmaintained blog engine (I'm looki
 
 For comments, I welcome [Disqus](http://disqus.com).
 
-The full blog is on GitHub, feel free to look at the deployment scripts and the build file. The latter uses Jekyll as a library to generate pages for all topics used in the posts. Nothing short of rocket science, I'm telling you.
+The full blog is on [GitHub](http://github.com/mattmatt/paperplanes), feel free to look at the deployment scripts and the build file. The latter uses Jekyll as a library to generate pages for all topics used in the posts. Nothing short of rocket science, I'm telling you.
 
 Why you ask? Because a simple text file wins over a database system any day, and using cap deploy to update a blog entry is just outright cool.
