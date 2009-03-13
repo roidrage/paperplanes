@@ -14,7 +14,6 @@ Let's look at all three in a little more detail.
 
 ### Memcache
 
-
 Your queries are becoming slow, and therefore your website's response time decreases. First thing that pops up will be to cache the hell out of your website. After all, Rails has neat support for caching.
 
 That's all great, but you need to be aware of two things. First, caching is hard. Getting the data in and out is the easy part, knowing when to expire the data is what will break your neck, it not just might, it will.
@@ -22,6 +21,8 @@ That's all great, but you need to be aware of two things. First, caching is hard
 Second, it will not spare you from tuning your database. Imagine your cache goes down. Sure, your application handles the missing cache gracefully, but all those slow queries you wanted to get rid of, they're in full effect. Caching is not the solution to slow database queries. You still need to invest time in fine-tuning slow statements and your database.
 
 Memcache is awesome, and it's a great way to reduce your application's response time, but it's a level of complexity that needs to be understood, handled and tested correctly and gracefully.
+
+All that said, I prefer turning to Memcached before I consider replication or sharding anytime.
 
 ### MySQL Slave/Sharding
 
