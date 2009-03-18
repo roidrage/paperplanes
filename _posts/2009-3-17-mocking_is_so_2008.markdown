@@ -1,6 +1,0 @@
----
-layout: post
-title: Mocking is so 2008
-published: false
----
-Pat Maddox recently published a blog post on mocking called "You Probably Don't Get Mocks." I wanted to write something on my experiences with mocks for a while now, so here's good reason to finally do so.
