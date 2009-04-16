@@ -9,7 +9,7 @@ Actually, not so much woes, as general musings. I just finished upgrading a proj
 
 In general the code base is not too big, and there were only some minor issues that needed to be taken care of, some syntactical changes were required, and that was pretty much it.
 
-The biggest problems you're likely to run across are outdated libraries or gems you're using. A while ago mocha didn't fully support the new mini-test included in Ruby 1.9, but since version 0.9.5 it runs fine. I also had to upgrade Machinist
+The biggest problems you're likely to run across are outdated libraries or gems you're using. A while ago mocha didn't fully support the new mini-test included in Ruby 1.9, but since version 0.9.5 it runs fine. I also had to upgrade Machinist, but these are just minor issues.
 
 The site runs on Passenger, so the most recent version was in order, and it works like a charm.
 
