@@ -70,3 +70,7 @@ END
     sh "rm -rf _site"
   end
 end
+
+task :publish do
+  sh "git push origin master && cap deploy "
+end
