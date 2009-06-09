@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Crumble - Breadcrumbs for Rails Applications
+topics: rails plugin
 ---
 I recently had to improve the breadcrumbs situation on one of my projects. Until now, breadcrumb definition were sprinkled across the controllers. While that was okay for a while, the current breadcrumbs have become a bit more complex, and I wanted to get them out of the controllers. One option would've been to put them into the model, but seriously, who does that? Plus, I have a lot of breadcrumbs that are not exactly related to a model, and if they are, it's not always an ActiveRecord model.
 
