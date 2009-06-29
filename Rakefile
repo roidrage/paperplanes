@@ -40,7 +40,7 @@ title: "Tag archive: #{topic}"
       <span class="item_tags">
         Tags: 
         {% for topic in post.topics %}
-        <a href="http://www.paperplanes.de/archives/tags/{{ topic }}.html" title="View posts tagged with &quot;{{ topic }}&quot;">{{ topic }}</a>{% if forloop.last != true %}, {% endif %}
+        <a href="http://www.paperplanes.de/tags/{{ topic }}.html" title="View posts tagged with &quot;{{ topic }}&quot;">{{ topic }}</a>{% if forloop.last != true %}, {% endif %}
         {% endfor %}
       </span>
     </div>
