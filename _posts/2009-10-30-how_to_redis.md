@@ -102,6 +102,8 @@ Now that you have a somewhat decent way of putting a score on an attribute value
     > 1. User:f31ad
     > 2. User:12acf
 
+Update: There's a caveat (a good one) that Salvatore brought to my attention, and it's very much worth mentioning, although it doesn't help when referencing identifiers. When you specify the same scoring number for every attribute with zadd, Redis will start sorting lexicographically. How cool is that? So you could spread the same score across different attributes and still get sorting for strings. Neat stuff. [Salvatore explained this](http://groups.google.com/group/redis-db/browse_thread/thread/a3d9b4743017e90b/07585626443bd275?lnk=gst&q=radis-256#07585626443bd275) in good detail a while back on the mailing list.
+
 ### So what now?
 
 I can hear you think: Why would I go through all that trouble just to get my data into Redis? Isn't that too much work and not really worth the hassle? Let me tell you why, because in return you get blazing speed. All data is in memory and is accessed accordingly fast. As opposed to your database the data here doesn't clog up the whole system taking up precious memory that could be used for really important data and queries.
