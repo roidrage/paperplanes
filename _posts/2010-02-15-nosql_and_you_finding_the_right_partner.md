@@ -27,7 +27,7 @@ Before judging a tool based on just the one side, look at the other side too. It
 
 In the end, even though they can be problems for others, they don't necessarily are problems for you. Your particular use case might be just fine with the downsides, but on the other hand gaining high profit from the upsides. If it's not, at least you're more than free to go look somewhere else. At least now you have the (free) options to do so.
 
-There's misconceptions out there being close to urban myths, and we're only two years or so into working with the new generation of tools. The only way you can avoid falling into a trap is to play with what's out there, to know their weaknesses and strengths. The only we we can avoid having people fall into the trap is to better educate them, to give them real-world examples, use cases other than tagging and blog posts. Just saying that it scales better than xyz is not an argument, it's educating people on the wrong end.
+There's misconceptions out there being close to urban myths, and we're only two years or so into working with the new generation of tools. The only way you can avoid falling into a trap is to play with what's out there, to know their weaknesses and strengths. The only thing we can do to avoid having people fall into the trap is to better educate them, to give them real-world examples, use cases other than tagging and blog posts. Just saying that it scales better than xyz is not an argument, it's educating people on the wrong end.
 
 ### It's Not About Speed And Scaling
 
