@@ -38,6 +38,8 @@ Redis' simplicity, atomicity and speed make it an excellent tool when tracking t
 * [Affiliate Click Tracking with Rack and Redis](http://www.mrkris.com/2009/10/28/affiliate-click-tracking-with-rack-and-redis-because-i-care/).
 
     Simple approach to tracking clicks, I probably wouldn't use a list for all clicks, but instead have one for each path, but there's always several ways to get to your goal with Redis. Not exactly the same, but [Almaz](http://github.com/jpoz/almaz) can track URLs visited by users in Rails applications.
+    
+    Update: Turns out that the affiliate click tracking code above, the list is only used to push clicks into a queue, where they're popped off and handled by a worker, as pointed out by Kris in the comments.
 
 
 * [Building a NLTK FreqDist on Redis](http://streamhacker.com/2009/05/20/building-a-nltk-freqdist-on-redis/)
