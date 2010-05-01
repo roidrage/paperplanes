@@ -33,12 +33,12 @@ html>body #box {
 }
 
 #content {
-    width: 542px;
+  width: 542px;
   float: right;
   padding-top: 20px;
   padding-bottom: 10px;
   padding-left: 10px;
-  margin: 0px 10px 1px 0px;
+  margin: 0px 15px 1px 0px;
 }
 
 html>body #content {
