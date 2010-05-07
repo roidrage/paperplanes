@@ -61,7 +61,7 @@ ties it to the layer it's really necessary, the view.
 
 Not without irony, I've started using something similar to handle embedded objects on a project using [CouchDB](http://couchdb.org). I
 wanted to extract out the stuff handling with embedded objects, because I was simply to lazy to add support for that to
-[CouchPotato](http://github.com/langalex/couch_potato]. The result felt amazingly good, almost like the above forms mixed with a
+[CouchPotato](http://github.com/langalex/couch_potato). The result felt amazingly good, almost like the above forms mixed with a
 **\*gasp\*** service.
 
 ### Services?
