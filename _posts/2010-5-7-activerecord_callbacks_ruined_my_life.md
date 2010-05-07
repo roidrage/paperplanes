@@ -49,7 +49,7 @@ emphasizes my point. Persistent state determines callbacks and therefore busines
 
 ### Forms? Presenters?
 
-I've looked into how Django is dealing with this, and it sort of struck a cord with me. Their approach is to define form objects that do the
+I've looked into how Django is dealing with this, and it sort of struck a chord with me. Their approach is to define form objects that do the
 validations for you. They're somewhat decoupled from your business logic and are your intermediate layer between the web interface and the
 business model. Good lord, did I just recommend we all use presenter objects, even though Jay Fields said they don't work? I think I did, Bob!
 
