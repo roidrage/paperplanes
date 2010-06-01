@@ -14,7 +14,7 @@ general introduction on NoSQL databases, their history and the current state of 
 scale, search and data, a definite must.
 
 On June 18th I'll be speaking at [MongoUK](http://www.10gen.com/conferences/event_mongouk_18june10), about MongoDB and
-document databases in general. If you want to come, use the coupon code paper\_planes for 20% off.
+document databases in general. If you want to come, use the coupon code paper\_planes for 20% off the full ticket price.
 
 Then, last but no least, Ill be talking about MongoDB in general at [Cloud Expo Europe](http://www.cloudexpo-europe.com/) in Prague. 
 
