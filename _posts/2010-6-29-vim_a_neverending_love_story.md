@@ -58,3 +58,9 @@ Honestly, I'm more willing to invest my learning time in an editor that I know I
 use on the Mac with a running user interface. I'm using Vim on every server I'm managing, so why not on my local
 machine? Vim makes me think about how I can edit text in the most efficient way possible, and I like that very much. It
 even made me map my caps-lock key to control, finally!
+
+*Update*: Was just [tipped off](http://twitter.com/mutle/status/17356649155) that PeepOpen can be made to behave
+properly and open files in the current MacVim tab.  When you set your MacVim options like in the picture below (notice
+the part "Open files from applications"), it works a treat. Thanks, Mutwin!
+
+![MacVim Options](http://img.skitch.com/20100629-p871pr9ky2fjb7xiubxtt2i2np.jpg)
