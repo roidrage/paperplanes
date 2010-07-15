@@ -151,8 +151,8 @@ data, quite the opposite, you think even more about it, and in different ways, b
 model and store it. Embedding documents is a nice luxury to have, but isn't always the right way to go, just like
 normalizing the crap out of a schema isn't always the way to go.
 
-It's a matter of discipline, but so is relational modelling. You can make a mess of a relational database just
-like you can make a mess of a relational database. When you migrate data on the fly in a document database, there's more
+It's a matter of discipline, but so is relational modelling. You can make a mess of a document database just like you
+can make a mess of a relational database. When you migrate data on the fly in a document database, there's more
 responsibility in your hands, and it requires good care with regards to testing. The same is true for keeping track of
 data consistency. It's been moved from the database into your application's code. Is that a bad thing? No, it's a sign
 of the times. You're in charge of your data, it's not your database's task anymore to ensure it's correct and valid,
