@@ -12,9 +12,11 @@ title: software development that flies.
       {{ post.content }}
     </div>
     <div class="item_meta">
+      {% if post.comments_disabled != true %}
       <span class="item_comments">
         Comments: <a href="{{ post.url }}#disqus_thread">(view/add your own)</a>
       </span>
+    {% endif %}
       <span class="item_tags">
         Tags: 
         {% for topic in post.topics %}
