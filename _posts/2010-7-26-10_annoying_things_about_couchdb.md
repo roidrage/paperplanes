@@ -94,7 +94,7 @@ view called "in-place") from CouchDB 0.10 on. It's pretty neat, but it's just no
 CouchDB's replication is unrivaled, no doubt. Being able to replicate any database with any other database at any point
 in time makes CouchDB unique, some say it's the killer feature, and I concur. There's lot of argueing whether or not
 that defines CouchDB as being distributed. In the most traditional sense, at least to me, it sure does, but I'm not here
-to knitpick about that. It's easy to scale out by adding more nodes and setting them up to constantly replicate with
+to nitpick about that. It's easy to scale out by adding more nodes and setting them up to constantly replicate with
 each other, make anyone a master or slave as you like. But there's no way to distribute write and read access across a
 cluster of nodes.
 
