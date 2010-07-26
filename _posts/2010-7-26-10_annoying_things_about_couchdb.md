@@ -193,7 +193,7 @@ In all seriousness, I'd love to see some caching introduced in CouchDB. I won't 
 because it sure isn't, but it doesn't need to be something fancy, I just would like to see CouchDB use some of my memory
 for data that's read more often than it's written. But until then, Varnish to the rescue!
 
-**Error messages are useless**
+**Error messages are not helping**
 
 I'm just gonna post the following snippet from my CouchDB log file, and leave you to it. You tell me how useful it is.
 Suffice it to say, I just wish CouchDB would not dump all that Erlang trace into my log, but maybe a useful error
