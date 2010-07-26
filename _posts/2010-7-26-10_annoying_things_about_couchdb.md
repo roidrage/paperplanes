@@ -98,10 +98,11 @@ to nitpick about that. It's easy to scale out by adding more nodes and setting t
 each other, make anyone a master or slave as you like. But there's no way to distribute write and read access across a
 cluster of nodes.
 
-[CouchDB-lounge](http://tilgovi.github.com/couchdb-lounge/) has been the traditional way to approaching that, but I never
-really liked it, because it added more components to the infrastructure. Something like that should really be built in.
-The good news is that [Cloudant](http://cloudant) is planning on open-sourcing their clustering solution Open Cloudera, which will then
-hopefully become part of CouchDB. A quorum based system for CouchDB would be neat, and it doesn't seem too far away.
+[CouchDB-lounge](http://tilgovi.github.com/couchdb-lounge/) has been the traditional way to approaching that, but I
+never really liked it, because it added more components to the infrastructure. Something like that should really be
+built in.  The good news is that [Cloudant](http://cloudant) is planning on open-sourcing their clustering solution Open
+Cloudant, which will then hopefully become part of CouchDB. A quorum based system for CouchDB would be neat, and it
+doesn't seem too far away.
 
 **Pagination is awkward**
 
