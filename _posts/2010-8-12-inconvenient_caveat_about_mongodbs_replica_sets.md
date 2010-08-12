@@ -70,5 +70,5 @@ in 1.6 anymore, apparently it's stored in some flat file, fixed with [this
 issue](http://jira.mongodb.org/browse/SERVER-1512), though it's hard for me to say from the commits what exactly
 happens. The documentation does not at all reflect these changes, but improvements are on the way. I'm still not happy
 about some of the design decision, but they're rooted in the way MongoDB currently works, and changing that is unlikely
-to happen, but at least losing data doesn't seem to be an option anymore. If making a bit of a fool out of myself in
-helping to improve on the documentation front, so be it. I can live with that.
+to happen, but at least losing data doesn't seem to be an option anymore. If making a bit of a fool out of myself helped
+to improve on the documentation front, so be it. I can live with that.
