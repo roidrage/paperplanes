@@ -1,8 +1,11 @@
 ---
-title: "An Inconvenient Caveat about MongoDB's Replica Sets"
+title: "An Inconvenient Caveat about MongoDB's Replica Sets (updated)"
 topics: mongodb replication
 layout: post
 ---
+Update: Read the comments and below. The issue is not as bad as it used to be in the documentation and the original
+design, thankfully.
+
 A lot has happened since I've first [written about MongoDB back in
 February](/2010/2/25/notes_on_mongodb.html). Replica Pairs are going to be deprecated, being
 replaced by Replica Sets, a working Auto-Sharding implementation, including rebalancing shards, and lots more, all
@@ -61,3 +64,11 @@ started to warm up with it. Yes, it's wicked fast, but I simply disagree with th
 The tradeoff (as in: losing data) is simply too big for me. You could argue that these situations will be quite rare,
 and I would not disagree with you, but I'm not fond of potentially losing data when they do happen. If this works for
 you, cool! Just thought you should know.
+
+*Update*: There's been some helpful comments by the MongoDB folks, and there's good news. Data is not silently discarded
+in 1.6 anymore, apparently it's stored in some flat file, fixed with [this
+issue](http://jira.mongodb.org/browse/SERVER-1512), though it's hard for me to say from the commits what exactly
+happens. The documentation does not at all reflect these changes, but improvements are on the way. I'm still not happy
+about some of the design decision, but they're rooted in the way MongoDB currently works, and changing that is unlikely
+to happen, but at least losing data doesn't seem to be an option anymore. If making a bit of a fool out of myself in
+helping to improve on the documentation front, so be it. I can live with that.
