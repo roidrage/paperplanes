@@ -21,7 +21,7 @@ improve myself, to never stop learning.
 They shared stories from all the places they've worked, not gossip stories, but more stories on problems they solved and
 how they solved them. That just fascinated me. I could've sat there for hours, just listening to stories from how they
 did and do operations, how they handled certain problems, and all that at a scale that's usually way out of my league.
-I'm usually not a quiet person, but it's times like this where I can just sit an listen.
+I'm usually not a quiet person, but it's times like these where I can just sit and listen.
 
 The problem I realized at some point though was, that in Germany, this culture of sharing simply doesn't exist. People
 don't talk much about operations, how they solve specific problems, the really interesting stuff. People talk about
