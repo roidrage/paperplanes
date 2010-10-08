@@ -5,16 +5,18 @@ layout: post
 ---
 I had the honor of speaking at [JAOO](http://jaoo.dk), sorry [GOTO](http://gotocon.com), this year. Being part of so
 many great speakers, like James Gosling, Rich Hickey, Martin Fowler, Tim Bray, Michael Nygard, and Dan Ingalls (maker of
-several Smalltalk versions), made me feel nothing but humble, and kind of unimportant too, but I'll get to that later. I
-talked about CouchDB, and if care for it, [check out my slides](http://couchdb-jaoo.heroku.com). This is my take away
-from the conference.
+several Smalltalk versions), made me feel nothing but humble, but not in a bad way. I talked about CouchDB, and if care
+for it, [check out my slides](http://couchdb-jaoo.heroku.com). This is my take away from the conference.
 
 ### Be Humble
 
 My point here is not to make myself look like someone who's unimportant, though I'm not important either. I'm humble,
-that's all. At the speaker dinner on Wednesday night I sat at a table with John Allspaw (Flickr/Etsy), Tom
-Preston-Werner (GitHub), Andy Gross (Basho), and Mike Malone (SimpleGeo). I knew some of these guys before, and talked
-in one way or the other, but this time was different.
+that's all. At the speaker dinner on Wednesday night I sat at a table with [John Allspaw
+(Flickr/Etsy)](http://twitter.com/allspaw), [Tom Preston-Werner (GitHub)](http://twitter.com/mojombo), [Andy Gross
+(Basho)](http://twitter.com/argv0), and [Mike Malone (SimpleGeo)](http://twitter.com/mjmalone). I knew some of these
+guys before, and talked in one way or the other, but this time was different. First of all, they're an incredibly smart
+bunch. Smarter than I'll probably ever be. Which is not a bad thing, because if anything it's a motivation to constantly
+improve myself, to never stop learning.
 
 They shared stories from all the places they've worked, not gossip stories, but more stories on problems they solved and
 how they solved them. That just fascinated me. I could've sat there for hours, just listening to stories from how they
