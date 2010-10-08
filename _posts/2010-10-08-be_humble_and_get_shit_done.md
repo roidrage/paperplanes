@@ -5,8 +5,8 @@ layout: post
 ---
 I had the honor of speaking at [JAOO](http://jaoo.dk), sorry [GOTO](http://gotocon.com), this year. Being part of so
 many great speakers, like James Gosling, Rich Hickey, Martin Fowler, Tim Bray, Michael Nygard, and Dan Ingalls (maker of
-several Smalltalk versions), made me feel nothing but humble, but not in a bad way. I talked about CouchDB, and if care
-for it, [check out my slides](http://couchdb-jaoo.heroku.com). This is my take away from the conference.
+several Smalltalk versions), made me feel nothing but humble, but not in a bad way. I talked about CouchDB, and if you
+care for it, [check out my slides](http://couchdb-jaoo.heroku.com). This is my take away from the conference.
 
 ### Be Humble
 
