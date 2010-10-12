@@ -20,7 +20,7 @@ already shaping up to be nothing but impressive. But enough with all the praise,
   maintain reverse lookup indexes.
 
     Run [queries in any way you can think of](http://wiki.basho.com/display/RIAK/Riak+Search+-+Querying), fetch ranges, groups,
-  you name it, no need to do anything really. It even [integrates directly with Riak through post-commit
+  you name it, no need to do anything really. It even [integrates directly with Riak through pre-commit
   hooks.](http://wiki.basho.com/display/RIAK/Riak+Search+-+Indexing+and+Querying+Riak+KV+Data)
 
 * It's based on proven technology (Lucene, that is). It doesn't compete with something entirely new, it takes what's
