@@ -6,7 +6,7 @@ layout: post
 The awesome dudes at [Basho](http://basho.com) released [Riak 0.13 and with it their first
 version](http://blog.basho.com/2010/10/11/riak-0.13-released/) of [Riak
 Search](http://wiki.basho.com/display/RIAK/Riak+Search) yesterday. This is all kinds of exciting, and I'll tell you why.
-Riak Search is (why down below) based on Lucene, both the library and the query interface. It mimicks the Solr web API
+Riak Search is (way down below) based on Lucene, both the library and the query interface. It mimicks the Solr web API
 for querying and indexing. Just like you'd expect something coming out of Basho, you can add and remove nodes at any
 time, scaling up and down as you go. I've seen an introduction on the basics back at Berlin Buzzwords, and it was
 already shaping up to be nothing but impressive. But enough with all the praise, why's this stuff exciting?
