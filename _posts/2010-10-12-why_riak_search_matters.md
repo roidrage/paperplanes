@@ -46,3 +46,8 @@ and weaknesses and the sweet spot Riak Search hits.
 
 I urge you to play with it. [Installing it](http://wiki.basho.com/display/RIAK/Riak+Search+-+Installation+and+Setup) and
 [feeding it with data](http://wiki.basho.com/display/RIAK/Riak+Search+-+Indexing) could not be easier. Well done, Basho!
+
+Update: From reading all this you may get the impression that Riak Search builds heavily on a Lucene foundation. That's
+not the case. When I say that it builds on top of Lucene, I actually meant that it can and does reuse its analyzers and
+query parsing. Both can be replaced with custom (Erlang) implementations. That's the only part of Lucene that is
+actually used by Riak Search, because why reinvent the wheel?
