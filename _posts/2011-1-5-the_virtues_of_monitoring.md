@@ -193,7 +193,7 @@ is to collect and evaluate the data.
 I'm not suggesting you need every single kind of logging, monitoring and metrics gathering mentioned here. There is
 however one reason why eventually you'll want to have most if not all of them. At any incident in your application or
 infrastructure, you can correlate all the available data to find the real reason for a downtime, a spike or slow
-queries.
+queries, or problems introduced by recent deployments.
 
 For example, your site's performance is becoming sluggish in certain areas, users start complaining. Application level
 monitoring indicates specific actions taking longer than usual, pointing to a specific query. Server monitoring
