@@ -206,5 +206,10 @@ That's the power of monitoring, and you just can't put any price on a good setup
 information you need to assess incidents or predict trends. And while you can set up a lot of this yourself, it doesn't
 hurt to look into paid options. Managing monitoring yourself means managing more infrastructure. If you can afford to
 pay someone else to do it for you, look at some of the mentioned services, which I have no affiliation with, I just
-think they're incredibly useful. Even being an infrastructure enthusiast myself, I'm not shy of outsourcing where it
-makes sense.
+think they're incredibly useful.
+
+Even being an infrastructure enthusiast myself, I'm not shy of outsourcing where it makes sense. Added features like SMS
+alerts, iPhone push notifications should also be taken into account. Remember that it'd be up to you to implement all
+this. It's not without irony that I mention [PagerDuty](http://www.pagerduty.com/). They sit on top of all the other
+monitoring solutions you have implemented and just take care of the alerting, with the added benefit of on-call
+schedules, alert escalation and more.
