@@ -30,7 +30,7 @@ I've heard the same reasoning over and over again, and also that it just hasn't 
 considerable data. The problem is, most people never talk about it publicly, because it's embarrassing, best proof is
 the poor guy above. This issue is not even related to MongoDB, it's a general problem.
 
-### Memory-Mapped Peristence
+### Memory-Mapped Persistence
 
 But let me start at the beginning, MongoDB's persistence cycle, and then get to what's being done to improve its
 reliability and your data's durability. At the very heart, MongoDB uses [memory-mapped
