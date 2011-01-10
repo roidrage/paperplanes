@@ -30,7 +30,7 @@ I've heard the same reasoning over and over again, and also that it just hasn't 
 considerable data. The problem is, most people never talk about it publicly, because it's embarrassing, best proof is
 the poor guy above. This issue is not even related to MongoDB, it's a general problem.
 
-** Memory-Mapped Peristence **
+### Memory-Mapped Peristence
 
 But let me start at the beginning, MongoDB's persistence cycle, and then get to what's being done to improve its
 reliability and your data's durability. At the very heart, MongoDB uses [memory-mapped
@@ -54,7 +54,7 @@ and here's the kicker, of course that flush will fail when you kill it without m
 the poor guy above did apparently. When you kill something that writes a big set binary data to disk, all bets are off.
 One bit landing on the wrong foot and the database can get corrupted.
 
-** Database Crashes are Unavoidable **
+### Database Crashes are Unavoidable
 
 This scenario can and does happen in e.g. MySQL too, it even happens with CouchDB, but the difference is, that in MySQL
 you usually only have a slightly damaged region, which can be fixed by deleting and re-inserting it. In CouchDB, all
@@ -73,7 +73,7 @@ these isses, even though it's partly his fault, to show the world what can happe
 People need to ask more questions, and not just accept answers like: don't use kill -9, or always have a replica around.
 Servers crash, and your database needs to be able to deal with it.
 
-** Durability Improvements in MongoDB 1.7/1.8 **
+### Durability Improvements in MongoDB 1.7/1.8
 
 Now, the MongoDB folks aren't completely deaf, and I'm happy to report they've been working on improvements in the area
 of data durability for a while, and you can play with the new durability option [in the latest builds of the 1.7
@@ -110,7 +110,7 @@ not worth mentioning, though I wouldn't call them representative, but in general
 
 It's not yet production ready, but nothing should keep you from playing with it to get an idea of what it does.
 
-** Bottom Line **
+### Bottom Line
 
 It's okay to accept trade-offs with whatever database you choose to your own liking. However, in my opinion, the
 potential of loosing all your data when you use `kill -9` to stop it should not be one of them, nor should accepting
