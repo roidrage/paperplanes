@@ -41,11 +41,11 @@ in MongoDB is mapped to a dynamically allocated set of files on disk. Note that 
 won't find in a lot of other databases, if any at all. Most do their own house-keeping and use custom data structures
 for that purpose.
 
-The memory mapping library ([boost](http://www.boost.org/) in MongoDB's case) will take care of handling the flush back
-to disk every 60 seconds (configurable). Everything in between happens solely in memory. Database crash one second
-before the flush strikes again? You just lost most of the data that was written in the last 59 seconds. Just to be
-clear, the flushing cycle is configurable, and you should consider choosing a better value depending on what kind of
-data you're storing.
+The memory mapping library (in MongoDB's case the POSIX functions, and whatever Windows offers in that area) will take
+care of handling the flush back to disk every 60 seconds (configurable). Everything in between happens solely in memory.
+Database crash one second before the flush strikes again? You just lost most of the data that was written in the last 59
+seconds. Just to be clear, the flushing cycle is configurable, and you should consider choosing a better value depending
+on what kind of data you're storing.
 
 MongoDB's much praised insert speed? This is where it comes from. When you write stuff directly to local memory, they
 better be fast. The persistence cycle is simple: accept writes for 60 seconds, then flush the whole thing to disk. Wait
