@@ -100,7 +100,7 @@ to the dataset.
 A recovery process applies all uncommitted changes from the log when the database crashes. This way it's ensured that
 you only lose a minimum set of data, if none at all, when your database server crashes hard. In theory the journal could
 be used to restore a corrupted in a scenario as outlined above, so it's pretty neat in my opinion. Either way, the risk
-of loosing data is now pretty low. In case your curious for code, the magic happens in [this
+of losing data is now pretty low. In case your curious for code, the magic happens in [this
 method](https://github.com/mongodb/mongo/blob/master/db/dur.cpp#L419-461).
 
 I for one am glad to see improvements in this area of MongoDB, and I'm secretly hoping that durable will become the
@@ -113,7 +113,7 @@ It's not yet production ready, but nothing should keep you from playing with it 
 ### Bottom Line
 
 It's okay to accept trade-offs with whatever database you choose to your own liking. However, in my opinion, the
-potential of loosing all your data when you use `kill -9` to stop it should not be one of them, nor should accepting
+potential of losing all your data when you use `kill -9` to stop it should not be one of them, nor should accepting
 that you always need a slave to achieve any level of durability. The problem is less with the fact that it's MongoDB's
 current way of doing persistence, it's with people implying that it's a seemingly good choice. I don't accept it as
 such. If you can live with that, which hopefully you don't have to for much longer anyway, that's fine with me, it's not
