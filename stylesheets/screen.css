@@ -324,6 +324,11 @@ code {
   font-size: 10px;
   color: #000;
 }
+
+a > code {
+  color: #2B7598;
+}
+
 blockquote {
   color: #000;
 }
