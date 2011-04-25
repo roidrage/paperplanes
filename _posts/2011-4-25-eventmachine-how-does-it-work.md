@@ -2,6 +2,7 @@
 title: EventMachine, How Does It Work?
 layout: post
 topics: ruby eventmachine networking nodejs
+comments_disabled: true
 ---
 At this year's [Scottish Ruby Conference](http://scottishrubyconference.com/), I gave a talk about
 [EventMachine](http://rubyeventmachine.com), [slides](http://eventmachine-scotrubyconf.heroku.com/) are available.
