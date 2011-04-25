@@ -264,7 +264,7 @@ again.
       def get(url)
         Fiber.new do
           current_fiber = Fiber.current
-          request = EM::HttpRequest.new('http://www.paperplanes.de').get
+          request = EM::HttpRequest.new(url).get
           request.callback { current_fiber.resume(request) }
           request.errback  { current_fiber.resume(request) }
           Fiber.yield
