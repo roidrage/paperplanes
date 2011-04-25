@@ -301,6 +301,6 @@ linked to a couple of them relevant to this post already. Read it.
 This concludes today's whirlwind tour through some of EventMachine's internals. There's actually not too much magic
 happening under the covers, it's just wrapped into a bit too much code layering for my taste. But you be the judge.
 
-Play with EventMachine and/or Node.js if you haven't already, try to wrap your hand around the asynchronous programming
+Play with EventMachine and/or Node.js if you haven't already, try to wrap your head around the asynchronous programming
 model. But for the love of scaling, don't look at evented and asynchronous I/O as the sole means of scaling, because
 it's not.
