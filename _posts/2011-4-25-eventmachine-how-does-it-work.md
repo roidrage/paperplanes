@@ -289,7 +289,8 @@ essential knowledge to be aware of what happens under the networking hood.
 
 * [TCP/IP Illustrated Vol.  1](http://www.amazon.com/gp/product/0201633469/ref=as_li_tf_tl?ie=UTF8&tag=javaddicts-20&linkCode=as2&camp=217145&creative=399353&creativeASIN=0201633469)
 * [Unix Network Programming](http://www.amazon.com/gp/product/0131411551/ref=as_li_tf_tl?ie=UTF8&tag=javaddicts-20&linkCode=as2&camp=217145&creative=399353&creativeASIN=0131411551)
-* [Advanced Programming in the Unix Environment](http://www.amazon.com/gp/product/0321525949/ref=as_li_tf_tl?ie=UTF8&tag=javaddicts-20&linkCode=as2&camp=217145&creative=399353&creativeASIN=0321525949)
+* [Advanced Programming in the Unix
+  Environment](http://www.amazon.com/gp/product/0321525949/ref=as_li_tf_tl?ie=UTF8&tag=javaddicts-20&linkCode=as2&camp=217145&creative=399353&creativeASIN=0321525949)
 
 Also, read the fine man pages. There's a whole bunch of good documentation installed on every Unix-style system, and I
 linked to a couple of them relevant to this post already. Read it.
