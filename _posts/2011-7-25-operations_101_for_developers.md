@@ -67,6 +67,56 @@ And everything that can break, will break. Usually not all at once, but most
 certainly when it's the least expected, or just when you really need your
 application to be available.
 
+### On Day One, You Build The Hardware
+
+Everything starts with a bare metal server, even that cloud you've heard so much
+about. Knowing your way around everything that's related to setting up a full
+rack of servers on a single day, including network storage a fully configured
+switch with two virtual LANs and a master-slave database setup using a RAID 10
+a bunch of SAS drives might not be something you need every day, but it sure
+comes in handy.
+
+The good news is the internet is here for you. You don't need to know everything
+about every piece of hardware out there, but you should be able to investigate
+strengths and weaknesses, when an SSD is an appropriate tool to use, and when
+SAS drives will kick butt.
+
+Learn to distinguish the different levels of RAID, why having an additional file
+system buffer on top of a RAID that doesn't have a backup battery for its own,
+internal write buffer is a bad idea. That's a pretty good start, and will make
+decisions much easier.
+
+### The System
+
+Do you know what swap space is? Do you know what happens when it's used by the
+operating system, and why it's actually a terrible thing and gives a false sense
+of security? Do you know what happens when all available memory is exhausted?
+
+Let me tell you:
+
+* When all available memory is allocated, the operating system starts swapping
+  out memory pages to swap space, which is located on disk, a very slow disk,
+  slow like a snail compared to fast memory.
+* When lots of stuff is written to and read from swap space on disk, I/O wait
+  goes through the roof, and processes start to pile up waiting for their memory
+  pages to be swapped out to or read from disk, which in turn increases load
+  average, and almost brings the system to a screeching halt, but only almost.
+* Swap is terrible because it gives you a false sense of having additional
+  resources beyond the available memory, while what it really does is slowing
+  down performance in a way that makes it almost impossible for you to log into
+  the affected system and properly analyze the problem.
+
+This is basically operations level on the operating system level. It's not much
+you need to know here, but in my opinion it's essential. Learn about the most
+important aspects of a Unix or Linux system. You don't need to know everything,
+you don't need to know the specifics of Linux' process scheduler or the
+underlying datastructure used for virtual memory. But the more you know, the
+more informed your decisions will be when the rubber hits the road.
+
+And yes, I think enabling swap on servers is a terrible idea. Let processes
+crash when they don't have any resources left. That at least will allow you to
+analyze and fix.
+
 ### Production Problems Don't Solve Themselves
 
 Granted, sometimes they do, but you shouldn't be happy about that. You should be
