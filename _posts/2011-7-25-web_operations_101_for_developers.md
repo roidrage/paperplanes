@@ -565,8 +565,7 @@ systems. Both require one basic skill though: you have to want to learn.
 * [Release It!](http://www.amazon.com/gp/product/0978739213/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=javaddicts-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0978739213) - A must read, that's all I can say. It's an incredible resource stemming from years of production. A must read, no excuses.
 * [Web Operations: Keeping the Data on Time](http://www.amazon.com/gp/product/1449377440/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=javaddicts-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1449377440) - The best summary on all things operations available today. If
   you read one book, read this, and the previous one (that's two books, I know)
-* [Pragmatic Project Automation](http://www.amazon.com/gp/product/B004PUIVLQ/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=javaddicts-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B004PUIVLQ) (oldie, but goldie, this book was an eye-opener
-  to me)
+* [Pragmatic Project Automation](http://www.amazon.com/gp/product/0974514039/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=javaddicts-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0974514039) (oldie, but goldie, this book was an eye-opener to me)
 * [The Art of Capacity Planning](http://www.amazon.com/gp/product/0596518579/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=javaddicts-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0596518579)
 * [Building Scalable Websites](http://www.amazon.com/gp/product/0596102356/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=javaddicts-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0596102356)
 * [High Performance MySQL, 2nd. Edition](http://www.amazon.com/gp/product/B004PUIVLQ/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=javaddicts-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B004PUIVLQ)
