@@ -65,7 +65,7 @@ is that the original range is kept, even as you scale up.
 ### Consistent Hashing Enables Partitioning
 
 When you have a consistent hash, everything looks like a partition. The idea is
-simple. Consistent hashing forms a keyspace, which is also called contiuum, as
+simple. Consistent hashing forms a keyspace, which is also called continuum, as
 presented in the illustration. As a node joins the cluster, it picks a random
 number, and that number determines the data it's going to be responsible for.
 Everything between this number and one that's next in the ring and that has
