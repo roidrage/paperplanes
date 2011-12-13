@@ -17,7 +17,7 @@ layout: nil
       <title>{{ post.title }}</title>
       <link>http://www.paperplanes.de{{ post.url }}</link>
       <pubDate>{{ post.date }}</pubDate>
-      <guid>http://www.paperplanes.de/archives{{ post.id }}/</guid>
+      <guid>http://www.paperplanes.de/{{ post.id }}/</guid>
       <description>{{ post.content | xml_escape }}</description>
       {% for topic in post.topics %}
       <category domain="http://www.paperplanes.de/tags/{{ topic }}">{{ topic }}</category>
