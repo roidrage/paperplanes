@@ -15,9 +15,9 @@ layout: nil
     {% for post in site.posts limit:10 %}
     <item>
       <title>{{ post.title }}</title>
-      <link>http://www.paperplanes.de{{ post.url }}</link>
+      <link>http://www.paperplanes.de/{{ post.url }}</link>
       <pubDate>{{ post.date }}</pubDate>
-      <guid>http://www.paperplanes.de/{{ post.id }}/</guid>
+      <guid>http://www.paperplanes.de/{{ post.url }}/</guid>
       <description>{{ post.content | xml_escape }}</description>
       {% for topic in post.topics %}
       <category domain="http://www.paperplanes.de/tags/{{ topic }}">{{ topic }}</category>
