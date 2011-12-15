@@ -102,7 +102,7 @@ delete them one by one.
 
 ### Ideally...
 
-<a href="http://twitter.com/riakhandbook"><img src="https://img.skitch.com/20111213-jks6gqhww79y172qcdsdwpgbgu.png" style="float:right; margin-left: 10px;"></a>
+<a href="http://riakhandbook.com"><img src="https://img.skitch.com/20111213-jks6gqhww79y172qcdsdwpgbgu.png" style="float:right; margin-left: 10px;"></a>
 
 In an ideal world, listing keys in a bucket would be possible and not an
 expensive operation. Riak could for example allow users to store buckets in
@@ -112,7 +112,7 @@ something better comes along, secondary indexes are a nice tool to at least
 avoid resorting to listing all of the keys.
 
 Curious about other ways to index and query data in Riak? You'll like the [Riak
-Handbook](http://twitter.com/riakhandbook), which will be published later this
+Handbook](http://riakhandbook.com), which will be published later this
 week. Covers Riak's secondary indexes and other strategies to query, inspect and
 analyze data.
 

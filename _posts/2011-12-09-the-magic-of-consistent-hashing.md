@@ -150,7 +150,7 @@ adopted consistent hashing in one way or the other to ensure scalability and
 availability.
 
 Want to know more about distributed databases in general and Riak in particular?
-You'll like the [Riak Handbook](http://twitter.com/riakhandbook), a hands-on
+You'll like the [Riak Handbook](http://riakhandbook.com/), a hands-on
 guide full of practical examples and advice on how to use Riak to ensure
 scalability and availability for your data.
 
