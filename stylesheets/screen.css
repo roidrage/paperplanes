@@ -32,6 +32,11 @@ html>body #box {
   margin-bottom: 20px;
 }
 
+#wrapper {
+  width: 1000px;
+  margin: 0px auto;
+}
+
 #content {
   width: 542px;
   float: right;
@@ -382,4 +387,11 @@ li {
 }
 #warn_bad_browsers b {
   font-weight: bold;
+}
+
+#riak-flyer {
+  float: right;
+  z-index: -100;
+  margin-top: 250px;
+  margin-right: 20px;
 }
