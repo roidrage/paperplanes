@@ -102,8 +102,7 @@ a historic perspective, same for SEDA.
 
 Nice summary of how virtual memory works on Linux.
 
-[**The Declarative Imperative: Experiences and Conjectures in Distributed
-Logic**](http://www.eecs.berkeley.edu/Pubs/TechRpts/2010/EECS-2010-90.pdf)
+[**The Declarative Imperative: Experiences and Conjectures in Distributed Logic**](http://www.eecs.berkeley.edu/Pubs/TechRpts/2010/EECS-2010-90.pdf)
 
 To be honest, this is a slightly confusing paper. It starts out modeling things
 in an oscure language called Datalog, but then dives into making some
