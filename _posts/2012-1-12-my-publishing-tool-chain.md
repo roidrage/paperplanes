@@ -4,6 +4,8 @@ topics: writing publishing tools
 layout: post
 comments_disabled: true
 ---
+Update: Added paragraph on the [e-commerce platform](#fulfillment) I'm using.
+
 Several people have asked me about the publishing tool chain I'm using for the
 [Riak Handbook](http://riakhandbook.com/?pp) and the [NoSQL
 Handbook](http://nosqlhandbook.com/). As [Avdi just published
@@ -58,5 +60,19 @@ convert ebooks from one format to another.
 
 All of the above is wrapped into a Rakefile and some small Ruby classes. I'll be
 sure to put it up for your perusal soon, but this list should get you started.
+
+<a name="fulfillment"></a>
+
+To make the book available for purchase I'm using
+[FastSpring](http://www.fastspring.com/). They're not my favorite choice, as
+they make things like customizing your shop fairly hard, but I chose them
+because their way of payout (monthly or bi-monthly), and the fact that they take
+care of VAT, were both reasons important to me, especially being in Europe,
+where tax laws throw a lot of stones at you for wanting to try and sell things
+internationally. Unfortunately FastSpring doesn't have any means of updating
+products and allowing and notifying users of the updates being available, so I
+built a small Sinatra app to capture orders and take care of sending out the
+updates. Not pretty, but it's a small sacrifice compared to the tax hassle I'd
+have with any other fulfillment provider.
 
 Curious about the result? You should [buy the book](http://riakhandbook.com/?pp)!
