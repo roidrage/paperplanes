@@ -7,7 +7,7 @@ comments_disabled: true
 I always forget what kinds of crazy things you can do with Ruby's blocks and
 their parameters, so here's a little write-up on them. I regularly forget things
 I've learned (must be an age thing), and I found that not even books on the Ruby
-language fully cover all the glory details on block (and method) parameters. So
+language fully cover all the gory details on block (and method) parameters. So
 consider this my personal reference of crazy Ruby block syntax features for future use.
 
 ### The Basics
@@ -46,7 +46,7 @@ everything in between to `middle`
 
 This can grow to an arbitrary complexity, adding more fixed parameters before
 and after a splat. In this example, `middle` will just be an empty array, as the
-fixed parameters are greedy and steel all the values they can match.
+fixed parameters are greedy and steal all the values they can match.
 
     blk = ->(first, *middle, second_last, last) {puts second_last}
     blk.(1, 2, 3)
@@ -78,7 +78,7 @@ Again, you knew that already. Here's some craziness though, courtesy of
 ### Referencing Other Parameters
 
 You can reference parameters previously defined in the list. Want to do an
-impromptu mapping on the list above?
+impromptu mapping on the list above before even entering the block?
 
     blk = ->(list = [1, 2, 3], sum=list.inject(1) {|acc, value| acc*value})) {
       list.sample
@@ -119,13 +119,13 @@ recursively iterate through the tail, ignoring the first element.
     blk = ->(_, *tail) {blk.(tail) if tail.size > 0}
 
 When is this useful? Ruby is not a pattern-matching language after all. For
-instance, imaging an API that expects blocks handed to a method call to expect a
+instance, imagine an API that expects blocks handed to a method call to expect a
 certain number of arguments. Ruby gives you warning if the block's arity doesn't
 match the number it was called with. This way you can silently dump parameters
 you're not interested in while still conforming to the API.
 
 Okay, I lied to you, this is actually not an operator of sorts, this is a simple
-variable assignment to variable called `_`. It's a neat little trick though to
+variable assignment to a variable called `_`. It's a neat little trick though to
 make it obvious that you're not interested in a certain parameter. Also note
 that `_` in irb references the value returned by the last expression executed.
 
@@ -137,10 +137,11 @@ code](https://github.com/rack/rack/blob/0fbb575c1983980f621319650280a4dc8ba2af6c
 This one blew my mind when I found it somewhere in the depths of Rack's source
 (or somewhere else I don't remember). Think of a hash where each key points to
 an array of things. Wouldn't it be nice if you could extract them all in one go
-while iterating over them?
+while iterating over them without having to first iterate over the hash and then
+over the embedded arrays?
 
 Turns out, the tuple operator is just what we need for this. This is an example
-from a Chef cookbook I build a while back, specifying some thresholds for an
+from a Chef cookbook I built a while back, specifying some thresholds for an
 Apach configuration for Monit.
 
     apache_server_status = {
@@ -154,7 +155,7 @@ Apach configuration for Monit.
 
 Notice the definition of `(operator, limt)`. That little bead nicely extracts
 the array with operator and a percentage in it into two parameters. Here's
-something that blew my mind, chaining enumerators, collecting values and index
+another thing that blew my mind, chaining enumerators, collecting values and index
 from a hash, for example. Note that hashes are sorted in Ruby 1.9, so this is a
 perfectly valid thing to do.
 
@@ -163,7 +164,7 @@ perfectly valid thing to do.
       puts "##{index}: #{key}:#{value}"
     end
     
-Hat tip to Sam Elliott for blowing my mind with this.
+Hat tip to [Sam Elliott](http://twitter.com/Lenary) for blowing my mind with this.
 
 ### The end
 
