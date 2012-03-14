@@ -62,7 +62,8 @@ born.
 LogSubscribers are exactly that: easy ways to subscribe to events whose purpose
 is logging. Of course what you do with the events is up to you, but that's their
 main purpose. Every Rails component uses them, and every component has its own
-implementation of a LogSubscriber. Here's the one used by ActionController.
+implementation of a LogSubscriber. Here's an excerpt of the one used by
+ActionController.
 
 <script src="https://gist.github.com/2038889.js?file=action_controller_log_subscriber.rb"></script>
 
@@ -146,10 +147,14 @@ you've got yourself a nice way to correlate exceptions and log lines.
 
 How can we get to the output above? It turns out, it's actually pretty simple.
 We need to unhook the log subscribers for ActionView and ActionController events
-and hook in our own. The result of this is
+and hook in our own. The result is
 [Lograge](https://github.com/mattmatt/lograge), a logging experiment I extracted
 into a library from the [Travis CI](http://travis-ci.org/) source code, where I
 first started playing with the ideas I had around logging.
+
+It adds its own log subscriber, discarding all irrelevant events, only accepting
+two events instead of the whole bunch included by default. The result is a
+single log line. Easy on the eyes, easy on the machine.
 
 ### An Experiment in Logging
 
