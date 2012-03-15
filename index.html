@@ -12,11 +12,6 @@ title: software development that flies.
       {{ post.content }}
     </div>
     <div class="item_meta">
-      {% if post.comments_disabled != true %}
-      <span class="item_comments">
-        Comments: <a href="{{ post.url }}#disqus_thread">(view/add your own)</a>
-      </span>
-      {% endif %}
       <span class="item_tags">
         Tags: 
         {% for topic in post.topics %}
@@ -27,14 +22,3 @@ title: software development that flies.
   </div>
   {% endfor %}
 </ul>
-
-<script type="text/javascript">
-  var links = document.getElementsByTagName('a');
-  var query = '?';
-  for(var i = 0; i < links.length; i++) {
-    if(links[i].href.indexOf('#disqus_thread') >= 0) {
-      query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
-    }
-  }
-  document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/paper-planes/get_num_replies.js' + query + '"></' + 'script>');
-</script>
