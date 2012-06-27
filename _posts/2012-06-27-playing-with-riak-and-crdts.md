@@ -6,7 +6,10 @@ layout: post
 I recently spent some quality time with CRDTs, which is short for commutative
 replicated data types. I've gotten curious about them when working on the [Riak
 Handbook](http://riakhandbook.com) and I gave a talk about designing data
-structures for Riak the other week.
+structures for Riak the other week at [NoSQL
+matters](http://www.nosql-matters.org/cgn2012/#mathias_meyer), [slides are
+available
+too](https://speakerdeck.com/u/roidrage/p/designing-for-concurrency-with-riak)
 
 What are commutative replicated data types? It's a fancy term for describing
 data structures suitable for eventually consistent systems. You know what's an
@@ -132,13 +135,24 @@ when a primary replica failed, a secondary replica took its place and the client
 only uses a small read quorum. These scenarios deserve their own write-up.
 
 If you want to know more about commutative replicated data types I highly
-suggest reading the paper on them. It's almost fifty pages long and required me
-several reads to get a good grasp of them, but it's totally worth it. There are
-more specific implementations available for CRDTs too, specifically statebox for
-Erlang, knockbox for Clojure and a sample implementation in Ruby. All of them
-aren't specific to Riak but can be used with it.
+suggest reading [the relevant
+paper](http://hal.inria.fr/docs/00/55/55/88/PDF/techreport.pdf) on them. It's
+almost fifty pages long and required me several reads to get a good grasp of
+them, but it's totally worth it. There are more specific implementations
+available for CRDTs too, specifically [statebox for
+Erlang](https://github.com/mochi/statebox), [knockbox for
+Clojure](https://github.com/reiddraper/knockbox) and [a sample implementation in
+Ruby](https://github.com/aphyr/meangirls). The latter comes with a handy README
+that shows examples for the specific data types. All of them aren't specific to
+Riak but can be used with it. Also fresh from the world of academic papers is
+this one by Neil Conway et. al. on lattices in distributed computing by way of
+[Bloom](http://bloom-lang.org/), a language for disorderly distributed computing.
 
 There are some other caveats with CRDTs and Riak but we'll look at them in more
-detail in another installment of this series. There's a lot to be said about
-CRDTs and there's a lot of brain matter to be spent on trying to understand
-them.
+detail in another installment of this series, in particular regarding
+consistency and garbage collection. There's a lot to be said about CRDTs and
+there's a lot of brain matter to be spent on trying to understand them. The next
+update for [Riak Handbook](http://riakhandbook.com) might even include a section
+on them. The topic is certainly fascinating enough to warrant one, as it
+addresses the issues people commonly encounter when designing data structures
+for eventual consistency.
