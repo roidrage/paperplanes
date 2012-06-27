@@ -2,7 +2,7 @@ load 'deploy' if respond_to?(:namespace) # cap2 differentiator
 
 set :application, "static.paperplanes.de"
 set :domain, "static.paperplanes.de"
-set :repository, "git@github.com:mattmatt/paperplanes.git" 
+set :repository, "git@github.com:roidrage/paperplanes.git" 
 set :use_sudo, false
 set :deploy_to, "/var/www/#{application}"
 ssh_options[:forward_agent] = true
