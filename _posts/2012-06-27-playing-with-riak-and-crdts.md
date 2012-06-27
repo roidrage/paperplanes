@@ -107,8 +107,8 @@ We're writing code that iterates over all siblings, picking the highest value
 for every client along the way.
 
     Riak::RObject.on_conflict do |robject|
-      return robject if robject.bucket != 'g-counters'
-      data = robject.siblings.each_with_object({}).do |sibling, data|
+      return nil if robject.bucket != 'g-counters'
+      data = robject.siblings.each_with_object({}) do |sibling, data|
         (sibling.data || {}).each do |client_id, value|
           if (data[client_id] || 0) < value
             data[client_id] = value
