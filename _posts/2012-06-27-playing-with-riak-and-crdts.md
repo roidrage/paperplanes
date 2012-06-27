@@ -108,7 +108,7 @@ for every client along the way.
 
     Riak::RObject.on_conflict do |robject|
       return robject if robject.bucket != 'g-counters'
-      data = robject.each_with_object({}).do |sibling, data|
+      data = robject.siblings.each_with_object({}).do |sibling, data|
         (sibling.data || {}).each do |client_id, value|
           if (data[client_id] || 0) < value
             data[client_id] = value
