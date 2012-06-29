@@ -39,8 +39,8 @@ Schlossnagle. This book was written in 2007 and was way ahead of its time. Never
 mind the examples being mostly in Perl, this book covers all the little details
 on what it takes to build scalable web applications. Heck, it even shows you how
 you can build your own cross-vendor database replicator. A highly recommended
-read. It's right up there with [**Release It!**]() by Micheal Nygard, which you
-should read too.
+read. It's right up there with [**Release It!**](http://amzn.to/MFlJVg) by
+Micheal Nygard, which you should read too.
 
 [**Small Is The New Big**](http://amzn.to/MW3Dge) by Seth Godin. I gotta admit,
 I haven't read anything by Seth so far, but this was a great start. It's a
