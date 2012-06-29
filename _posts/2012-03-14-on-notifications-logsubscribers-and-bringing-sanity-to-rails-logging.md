@@ -148,7 +148,7 @@ you've got yourself a nice way to correlate exceptions and log lines.
 How can we get to the output above? It turns out, it's actually pretty simple.
 We need to unhook the log subscribers for ActionView and ActionController events
 and hook in our own. The result is
-[Lograge](https://github.com/mattmatt/lograge), a logging experiment I extracted
+[Lograge](https://github.com/roidrage/lograge), a logging experiment I extracted
 into a library from the [Travis CI](http://travis-ci.org/) source code, where I
 first started playing with the ideas I had around logging.
 
@@ -170,8 +170,8 @@ will be here for you. I also have Rails 2.3 on my radar if you're still using
 that. It's a lot messier to implement, but not impossible.
 
 If you want to know a bit more about the internals, the
-[README](https://github.com/mattmatt/lograge/blob/master/README.md) is a good place
+[README](https://github.com/roidrage/lograge/blob/master/README.md) is a good place
 to start. If you have any input on the ideas implemented in Lograge, the log
 output or anything else, feel free to [open an
-issue](https://github.com/mattmatt/lograge/issues).  Let's talk about logging,
+issue](https://github.com/roidrage/lograge/issues).  Let's talk about logging,
 and let's make it better.

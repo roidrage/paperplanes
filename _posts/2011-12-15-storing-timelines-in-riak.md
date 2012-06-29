@@ -77,7 +77,7 @@ All that's left to do is sort the result.
 
 There's the whole code. To spare you the pain of having to write your own
 library, all this is bundled into a gem called
-[riaktivity](https://github.com/mattmatt/riaktivity). If you're doing Python,
+[riaktivity](https://github.com/roidrage/riaktivity). If you're doing Python,
 the Brett Hoerner has got you covered with
 [timak](https://github.com/bretthoerner/timak). Be sure to watch the original
 talk by
