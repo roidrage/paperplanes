@@ -59,7 +59,7 @@ GitHub) recommended the book at a conference, and you can see how it reflects
 the work culture at GitHub. Fits in very well with the aforementioned book.
 
 [**Programming Concurrency on the JVM**](http://amzn.to/MW4E7M) by Venkat
-Subramaniam. This book picks up where "Java Concurrency by JVM" left off. To
+Subramaniam. This book picks up where "Java Concurrency in Practice" left off. To
 recap things in terms of more traditional synchronization and concurrency APIs
 it builds on several simple examples that are being rebuilt constantly using new
 tools as the book progresses. The interesting bits are the part that covers
