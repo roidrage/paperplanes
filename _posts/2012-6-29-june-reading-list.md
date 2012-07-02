@@ -89,7 +89,7 @@ As days go by this book keeps coming back to me. Lots of little details that I
 want to apply to my own business practices. The more I think about it the more I
 think you should read this book.
 
-[**Clojure Programming**](http://amzn.to/LN5cj0) by Ches Emerick, Brian Carper
+[**Clojure Programming**](http://amzn.to/LN5cj0) by Chas Emerick, Brian Carper
 and Christophe Grande. Clojure pushes all the right buttons for me as a
 language, and this book so far has helped me grasp more and more of it. While
 some of the code examples aren't very practical and introduce new concepts
