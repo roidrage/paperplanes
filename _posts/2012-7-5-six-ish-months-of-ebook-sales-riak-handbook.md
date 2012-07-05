@@ -19,43 +19,44 @@ way, and well worth checking out.
 
 Originally I wanted to write a book on NoSQL. I called it "NoSQL Handbook", and
 I wanted it to cover the better-known NoSQL databases, including Riak, Redis,
-Cassandra, CouchDB and MongoDB. That was in early 2011. I wrote on chapter on
-MongoDB, which didn't exactly feel right to me, so I tried a different approach
+Cassandra, CouchDB and MongoDB. That was in early 2011. I wrote a chapter on
+MongoDB, but it didn't feel right to me, so I tried a different approach
 on the Riak chapter, much more focused on being practical and introducing the
 user-facing concepts in a streamlined way, building up as the book progresses.
 
 That approach felt much more natural to me, so eventually I started on the Redis
 chapter and thought I nailed it. I continued working on the Riak chapter
 afterwards in a similar style. Focusing on practical and interesting usage made
-it much more approachable to me, so I figured it might just do the same for
+it much more approachable to me, so I figured I might just do the same for
 others. That's not exactly how you build a product, though, I was lucky that
 so many customers agreed with this approach to writing the book.
 
 The Riak chapter grew and grew, eventually it clocked in at 120 pages and kept
-growing. My list of things to write about was long, it still is long. So I
-turned to [Amy Hoy's](http://unicornfree.com) [30x500
-class](http://30x500.com/), which I was part of last winter, and brought up the
-idea of first creating a product focused on a single database and then follow up
-with the bigger book later on, selling it to customers of the first product at a
-great discount. Upselling, if you will.
+growing. My list of things to write about was long, it still is. So I turned to
+[Amy Hoy's](http://unicornfree.com) [30x500 class](http://30x500.com/), which I
+was part of last winter, and brought up the idea of first creating a product
+focused on a single database and to follow up with the bigger book later on.
 
 I started to like the idea, and was encouraged by Amy to try this route. Six
-months later, going that route was a success, though there was no guarantee at
-all it would end up being one. Let's look at the numbers.
+months later, going down that route was a success, though there was no guarantee
+at all it would end up being one.
+
+Let's look at the numbers.
 
 ### Numbers, Spikes, Cause and Effect
 
 It's weird talking about this, because it involves sales numbers, money and
 being very open about the selling part of the book. It feels weird because not a
 lot of people selling products do it. It feels weird because book authors are
-usually not very open about the royalties they get. I feel like that's wrong,
-and that I want to encourage people to go down the self-publishing route and to
-build products, to write books and sell them.
+usually not very open about the royalties they get. I have the most respect for
+anyone writing a book, make no mistake. But I do want to encourage people
+to go down the self-publishing route, to build products, to write books, 
+sell and market them.
 
-Since the book went on sale on December 15th 2011, it has sold 746 copies,
-grossing in at a total of $22,007.67. 8.9% of that go to my fulfillment
-provider, leaving a profit of $20,048.99. The total splits into 7 site licenses
-and the 739 single licenses.
+Since the book went on sale on December 15th 2011, it has sold 746 copies to
+this very day, grossing in at a total of $22,007.67. 8.9% of that go to my
+fulfillment provider, leaving a profit of $20,048.99. The total splits into 7
+site licenses and the 739 single licenses.
 
 It's hard to express how grateful I am. The number of sales have exceeded my
 wildest expectations. I thought if I got to $2,000 I would strike off the book
@@ -74,12 +75,18 @@ in terms of marketing. Let's put some context on each and see what happened.
 
 ![Sales](http://s3itch.paperplanes.de/FastSpring_SpringBoard___Report_Dashboard-1-20120628-233439.png)
 
-The Monday after the release I sent out a newsletter to everyone who signed
-up for the NoSQL Handbook, some 1400 people. That sold some 70 books in total,
-looking at the first three days of the newsletter going out. Some sales kept
-trickling in from that newsletter over the following days too.
+The first spike is the first day of publishing the book. I ended up selling 89
+copies on the first day, 52 on the second. The book got posted on HackerNews,
+and so did an [article on building activity feeds with
+Riak](/2011/12/15/storing-timelines-in-riak.html) that I published the same day.
 
-The next spike is in February. If you're into NoSQL you'll remember Amazon
+The Monday after the release I sent out a newsletter to everyone who signed up
+for the NoSQL Handbook, some 1400 people. That's the second spike, and it sold
+some 70 books in total, looking at the first three days of the newsletter going
+out. Some sales kept trickling in from that newsletter over the following days
+too.
+
+The next spike is in early February. If you're into NoSQL you'll remember Amazon
 releasing their new cloud database offering
 [DynamoDB](http://aws.amazon.com/dynamodb/) to the public in January. I wrote a
 [long post about it](/2012/1/30/a-tour-of-amazons-dynamodb.html) discussing its
@@ -90,7 +97,8 @@ article brought quite a few sales of the book.
 It's curious because the article is only slightly related to the contents of the
 book but still builds up enough interest for people to dig deeper into the roots
 of both Riak and DynamoDB. The book covers a pretty good ground in terms of
-where Riak comes from and the theories and ideas behind it.
+where Riak comes from and the theories and ideas behind it. In total that
+article got somewhere around 20,000 views in just a few days.
 
 The last spike is the 1.1 update that I released in late May. I put the book on
 sale for a week, with a 25% discount and sold quite a few copies in that time.
@@ -125,11 +133,11 @@ with my pants off. But then again, these people showed interest in what I'm
 working on by signing up. That's what eventually pushed me over the edge to hit
 send.
 
-The newsletter helped a lot, so did the blog posts and other blog posts
+The newsletter helped a lot, so did the initial blog posts and other blog posts
 following over time. Regularly writing and publishing something related to the
 book, related to Riak, being helpful on IRC and on the Riak mailing list made a
 difference too. It got people curious about the book. That's the first step. I
-need to work on the second step.
+need to work on the second step, taking the customer from there.
 
 As a last thought, the best kind of marketing you can get is word of mouth.
 Great, sincere and personal customer support goes a long way. If someone has a
@@ -155,10 +163,10 @@ talking to some of my reviewers (who are awesome, thank you guys so much!) I
 raised it to $25. Giving it some more thought I settled on $29.
 
 Let's look at how that worked out. To make the same amount with $19, I'd have to
-sell 1146 copies. That's about more than 50% more sales I'd have to have made,
-which seems unlikely to me. Cheaper price doesn't automatically mean more books
+sell 1158 copies. That's more than 50% more sales I'd have to have made,
+which feels unlikely to me. Cheaper price doesn't automatically mean more books
 sold. The value of the book to the customer, to people genuinely interested in
-learning about Riak is what really matters. The price follows the value, not
+learning about Riak, is what really matters. The price follows the value, not
 what feels right.
 
 Looking back, I had only very few complaints about the price. Given that the
@@ -167,9 +175,10 @@ still pondering the price in the longer term.
 
 ### The Rest
 
-As I said before, it has been amazing experience. It gives you a totally new
-kind of insight in building a business around products, in developing customer
-relationships, in providing value to the people for whom it matters the most.
+As I said before, it has been amazing experience. Selling something you've built
+yourself gives you a totally new kind of insight in building a business around
+products, in developing customer relationships, in providing value to the people
+to whom it matters the most.
 
 You appreciate every single customer. You get to build a personal relationship
 with every one of them, should you choose to and should they accept your offer.
@@ -182,8 +191,8 @@ don't have to just ship a finished book and leave it at that like most
 traditional publishers. For example, the book's recent update clocked in at more
 than 40 pages of new contents, which existing customers got for free.
 
-The update also included the book as a man page. The idea still cracks me up,
-but just think how useful that is. Customers can search the book quickly and
+The update also included the entire book as a man page. The idea still cracks me
+up, but just think how useful that is. Customers can search the book quickly and
 never have to leave the command line they spend so much time in.
 
 Or you can ditch the book format entirely like Steve Klabnik did with his
