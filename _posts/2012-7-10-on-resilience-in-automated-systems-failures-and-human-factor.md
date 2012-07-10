@@ -239,6 +239,13 @@ previous experiences or on text book responses. Instead they have to solve a
 real problem that is actively affecting production users in a timely manner. I
 repeat, this is in production, on purpose.
 
+Netflix' Chaos Monkey is a tool to randomly kill production instances on EC2.
+The purpose is to figure out how the system behaves when several components
+fail. Just recently they added more tools to their so called ["Simian
+Army"](http://techblog.netflix.com/2011/07/netflix-simian-army.html), one to
+induce artifial latency, one to kill all instances in an entire EC2 availability
+zone.
+
 For humans, intuition tends to get into the way. Either it makes us ignore
 advice from the outside, even a text book that's supposed to give us
 instructions on how to respond to a particular situation, or to ignore the data
