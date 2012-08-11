@@ -12,16 +12,16 @@ layout: default
   <div class="item_meta">
     <div class="item_tags">Tags:
       {% for tag in page.tags %}
-      <a href="http://www.paperplanes.de/tags/{{ tag }}.html" title="View posts tagged with &quot;{{ tag }}&quot;">{{ tag }}</a>{% if forloop.last != true %}, {% endif %}
+      <a href="/tags/{{ tag }}.html" title="View posts tagged with &quot;{{ tag }}&quot;">{{ tag }}</a>{% if forloop.last != true %}, {% endif %}
       {% endfor %}
     </div>
     <div class="item_hierarchy">Hierarchy:
-      {% if previous %}
-        <a href="{{ previous.url }}" title="Previous post">previous</a>
+      {% if page.previous %}
+        <a href="{{ page.previous.url }}" title="Previous post">previous</a>
       {% endif %}
       
-      {% if next %}
-        {% if previous %}, {% endif %}<a href="{{ next.url }}" title="Next post">next</a>
+      {% if page.next %}
+        {% if page.previous %}, {% endif %}<a href="{{ page.next.url }}" title="Next post">next</a>
       {% endif %}
       </div>
   </div>

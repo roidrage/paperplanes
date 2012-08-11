@@ -1,1 +1,2 @@
 markdown: redcarpet
+permalink: /:year/:i_month/:i_day/:title.html

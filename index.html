@@ -14,8 +14,8 @@ title: software development that flies.
     <div class="item_meta">
       <span class="item_tags">
         Tags: 
-        {% for topic in post.topics %}
-        <a href="http://www.paperplanes.de/tags/{{ topic }}.html" title="View posts tagged with &quot;{{ topic }}&quot;">{{ topic }}</a>{% if forloop.last != true %}, {% endif %}
+        {% for tag in post.tags %}
+        <a href="/tags/{{ tag }}.html" title="View posts tagged with &quot;{{ tag }}&quot;">{{ tag }}</a>{% if forloop.last != true %}, {% endif %}
         {% endfor %}
       </span>
     </div>
