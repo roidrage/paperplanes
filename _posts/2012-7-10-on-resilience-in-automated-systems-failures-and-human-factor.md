@@ -1,7 +1,10 @@
 ---
 title: On Resilience in Automated Systems, Failures and the Human Factor
 layout: post
-topics: failure resilience weboperations
+tags:
+  - failure
+  - resilience
+  - weboperations
 ---
 Recently I've been reading several posts on how humans can be a deadly factor
 when complex and automated systems fail. Several posts diving into the issue are

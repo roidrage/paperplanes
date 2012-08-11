@@ -11,8 +11,8 @@ layout: default
   </div>
   <div class="item_meta">
     <div class="item_tags">Tags:
-      {% for topic in page.topics %}
-      <a href="http://www.paperplanes.de/tags/{{ topic }}.html" title="View posts tagged with &quot;{{ topic }}&quot;">{{ topic }}</a>{% if forloop.last != true %}, {% endif %}
+      {% for tag in page.tags %}
+      <a href="http://www.paperplanes.de/tags/{{ tag }}.html" title="View posts tagged with &quot;{{ tag }}&quot;">{{ tag }}</a>{% if forloop.last != true %}, {% endif %}
       {% endfor %}
     </div>
     <div class="item_hierarchy">Hierarchy:
