@@ -46,9 +46,10 @@ doesn't happen again, you move on. It can be that simple. When everyone on the
 team feels like failure is an accepted part of running an application, fixing
 the problems as they occur as a team becomes a lot easier.
 
-In the end, it's not a question _if_ something breaks, it's _when_ it breaks. And
-the answer is: all the time. Great teams focus on the one thing that matters in
-these situations: how to best resolve the situation and on being ready when it does.
+In the end, it's not a question of *if* something breaks, it's rather about
+*when* it breaks. And the answer is: all the time. Great teams focus on the one
+thing that matters in these situations: how to best resolve the situation and on
+being ready when it does.
 
 Embrace outages, the most common failure of our craft. Take a deep breath, phase
 out distractions (including managers) and try to find joy in digging through
