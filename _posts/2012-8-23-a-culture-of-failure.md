@@ -19,9 +19,8 @@ not just something to do with our kids, it's human nature. We tend to put blame
 elsewhere, we tend to get defensive because people turn to us to fix a problem,
 when something is broken in production, for example.
 
-Why can't we instead, make failure a part of our culture? Not just at home, with
-our kids, but in our work place? After all, most of us are in the lucky position
-that no lives depend on our daily work.
+Why can't we instead make failure a part of our culture? Not just at home, with
+our kids, but in our work place?
 
 As soon as people feel like they need to get defensive, or they're blamed for a
 problem that occurred due to a recent change of theirs, negativity hits everyone
@@ -34,23 +33,27 @@ Finding the problem's cause and implementing a solution is suddenly just a blur,
 something that's hard to focus on. Even though that's what really that matters. 
 
 When people feel like failure is not an option, they'll stop taking risks. When
-people stop taking risks, your team and your company is doomed. If my daughter
-doesn't take any risks because I keep punishing or scolding her, she might just
-stop trying altogether. The analogy is an odd one, but there's striking
-similarity.
+people stop taking risks, your team and your company is doomed, innovation comes
+to a grinding halt. Most of us are in the lucky position that lives don't depend
+on our work. We can try new things, iterate quickly, disregard or improve them.
+
+If my daughter doesn't take any risks because I keep punishing or scolding her,
+she might just stop trying altogether. The analogy is an odd one, but there's a
+striking similarity.
 
 If a problem comes up, you fix it, you learn your lesson, you make sure it
 doesn't happen again, you move on. It can be that simple. When everyone on the
 team feels like failure is an accepted part of running an application, fixing
 the problems as they occur as a team becomes a lot easier.
 
-In the end, it's not a question if something breaks, it's when it breaks. And
+In the end, it's not a question _if_ something breaks, it's _when_ it breaks. And
 the answer is: all the time. Great teams focus on the one thing that matters in
-these situations: what to do and to be ready when it does.
+these situations: how to best resolve the situation and on being ready when it does.
 
-Embrace outages. Take a deep breath, phase out distractions (including managers)
-and try to find joy in digging through data and finding what's causing a
-problem. Turn it from a seemingly frustrating experience into a personal
-challenge. You find the problem, you fix it, you make customers happy again.
+Embrace outages, the most common failure of our craft. Take a deep breath, phase
+out distractions (including managers) and try to find joy in digging through
+data and finding what's causing a problem. Turn it from a seemingly frustrating
+experience into a personal challenge. You find the problem, you fix it, you make
+customers happy again. Rinse, repeat.
 
 Failure is cool.
