@@ -1,5 +1,5 @@
 ---
-title: Reading List
+title: September Reading List
 topics: reading books
 layout: post
 ---
