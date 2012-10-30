@@ -2,7 +2,7 @@
 title: A Store About Queues in Four Acts
 layout: post
 topics: messaging queues
---
+---
 There are queues everywhere. This is the story of a few of them. The names of the
 queues are made up, but their story is real nonetheless.
 
