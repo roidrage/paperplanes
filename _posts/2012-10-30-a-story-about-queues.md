@@ -1,5 +1,5 @@
 ---
-title: A Store About Queues in Four Acts
+title: A Story About Queues in Four Acts
 layout: post
 topics: messaging queues
 ---
