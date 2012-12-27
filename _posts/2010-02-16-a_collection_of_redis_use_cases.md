@@ -3,6 +3,9 @@ layout: post
 title: A Collection Of Redis Use Cases
 topics: nosql redis
 ---
+*Interested in Redis? You might be interested in the [Redis
+Handbook](http://redishandbook.com) I'm currently working on.*
+
 I'm gonna eat [my own dog food](http://www.paperplanes.de/2010/2/15/nosql_and_you_finding_the_right_partner.html) here, and start you off with a collection of links and ideas of people using [Redis](http://code.google.com/p/redis/). Redis' particular way of treating data requires some rethinking how to store your data to benefit from speed, atomicity and its data types. I've already written about [Redis](http://www.paperplanes.de/2009/10/27/theres_something_about_redis.html) [in](http://www.paperplanes.de/2009/10/30/how_to_redis.html) [abundance](http://www.paperplanes.de/2009/10/29/when_to_redis.html), this post's purpose is to compliment them with real-world scenarios. Maybe you can gather some ideas on how to deal with things.
 
 There's a couple of well-known use cases already, the most popular of them being [Resque](http://github.com/defunkt/resque/), a worker queue. [RestMQ](http://github.com/gleicon/restmq), an HTTP-based worker queue using Redis, was just recently released too. Both don't make use yet of the rather new blocking pop commands like [Redactor](http://github.com/ezmobius/redactor) does, so there's still room for improvement, and to make them even more reliable.
