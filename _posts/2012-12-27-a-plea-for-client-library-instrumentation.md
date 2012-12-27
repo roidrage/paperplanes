@@ -17,6 +17,13 @@ client access to a network service in addition to collecting data on the other
 end, e.g. the slow query log, allows you to pinpoint issues to the network, to
 increased latency, or to parsing responses.
 
+If the other end is not under your control, it's just as important to have this
+data available. Having good metrics on request latencies to an external service,
+even a database hosted by a third party, gives you a minimum amount of
+confidence that while you maybe can't fix the underlying problem, you at least
+have the data to show where the problem is most likely to be. Useful data to
+have when approaching the third party vendor or hosting company about the issue.
+
 Rails has set a surprisingly good example, by way of
 [ActiveSupport::Notifications](http://api.rubyonrails.org/classes/ActiveSupport/Notifications.html).
 Controller requests are instrumented just as database queries of any kind.
