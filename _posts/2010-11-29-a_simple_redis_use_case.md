@@ -3,8 +3,7 @@ layout: post
 title: A Simple Redis Use Case for Sorted Sets
 topics: redis
 ---
-*Interested in Redis? You might be interested in the [Redis
-Handbook](http://redishandbook.com) I'm currently working on.*
+_Interested in Redis? You might be interested in the [Redis Handbook](http://redishandbook.com) I'm currently working on._
 
 Over at [Scalarium](http://scalarium.com) we constantly find outselves adding new statistics to track specific parts of
 the system. Thought it'd be a good idea to share some of them, and how we're using Redis to store them.
