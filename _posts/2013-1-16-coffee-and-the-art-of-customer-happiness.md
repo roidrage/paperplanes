@@ -331,7 +331,8 @@ that from an internet business.
 It's also why [MailChimp](http://mailchimp.com/2012/) sent out almost 30000
 t-shirts last year. After you've successfully launched your first campaign, they
 send an email to congratulate you and offer to send you a t-shirt. A great and
-unexpected gesture of customer love.
+unexpected gesture of customer love. It's worth noting that the shirts are of a
+great quality, which definitely adds to the surprise.
 
 The similarities of running a coffee shop to running an online business and
 maintaining software are pretty striking, and you'd think that's only natural,
