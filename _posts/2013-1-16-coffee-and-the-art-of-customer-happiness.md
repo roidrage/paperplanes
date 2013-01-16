@@ -175,7 +175,7 @@ To round things off, a good barista practices every day. A few dry runs before
 opening shop and after make sure that variations in the coffee bean are
 continuously evened out by adapting the brewing process. As coffee beans
 deteriorate over time (usually a few days to a few weeks) they get drier, and
-they need a different grind setting and slightly
+they need a different grind setting.
 
 Of course, this also involves learning new tools, new brewing techniques,
 choosing the one best applied for a particular brewing method.
