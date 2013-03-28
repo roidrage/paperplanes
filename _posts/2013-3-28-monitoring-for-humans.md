@@ -46,8 +46,8 @@ basically came from Monit throwing unhelpful emails at me stating that some
 process just changed from one state to another.
 
 Since my days with Munin a lot has changed. We went through the era of
-#monitoringsucks, which fortunately, quickly turned into the era of
-#monitoringlove. It's been pretty incredible watching this progress as someone
+\#monitoringsucks, which fortunately, quickly turned into the era of
+\#monitoringlove. It's been pretty incredible watching this progress as someone
 who loves tinkering with new and shiny tools and visualization possibilities.
 We've seen the emergence of crazy new visualization ideas, like the horizon
 chart, and we've seen the steady rise of using modern web technologies to render
