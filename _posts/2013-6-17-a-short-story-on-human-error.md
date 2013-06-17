@@ -148,7 +148,7 @@ tangled web of lots of little causes, that again have their own causes, that
 just so happened to come together seemingly random to form this event that no
 one saw coming. But "while in theory randomness is an intrinsic property, in
 practice, randomness is incomplete information, what I called opacity" (["The
-Black Swan"](http://amzn.to/19CvJvW).
+Black Swan"](http://amzn.to/19CvJvW)).
 
 The important take-away, which is framed nicely by this little story, [each
 little thing is necessary, but only jointly are they
