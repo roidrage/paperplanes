@@ -103,13 +103,14 @@ accident.
 Deleting data is not something that's done every day, but incidents where data
 gets accidentally removed during a normal maintenance are not unheard of.
 There's always a possibility for this to happen, even during normal operations.
-Just think of the Amazon Elastic Load Balancer outage last Christmas.
+Just think of the [Amazon Elastic Load Balancer outage last
+Christmas](https://aws.amazon.com/message/680587/).
 
 What really screamed out at me was that someone in the company had cancelled the
 automated database backups, without any automated means set up to take their
 place.
 
-Think about it: Data that's supposedly worth millions has not been backed up for
+Think about it, data that's supposedly worth millions has not been backed up for
 two months.
 
 Was it this developer's fault that the normal safety net for any database
