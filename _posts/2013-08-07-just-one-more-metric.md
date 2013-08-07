@@ -62,6 +62,6 @@ Monitoring and finding the right metrics are an ongoing process. Don't be afraid
 to remove data just as you add new data.
 
 Remember that as you add more information, you also need more cognitive power to
-process the data during during daily operations and, more importantly, during
+process the data during daily operations and, more importantly, during
 the stressful times of an outage, when we're most prone to our biases taking
 over rather than rational decisions.
