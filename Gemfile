@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
 
-gem 'jekyll'
+gem 'jekyll', require: nil
 gem 's3_website'
 gem 'redcarpet'
