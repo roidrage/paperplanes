@@ -65,5 +65,5 @@ What is automation?
 What follows is the simplest definition I could think of that applies best to
 the system we build. I'd love to hear your take on it.
 
-Automation is everything a complex system decides on doing in response to
-ever-changing and emerging conditions.
+**Automation is everything a complex system decides on doing in response to
+ever-changing and emerging conditions.**
