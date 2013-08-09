@@ -6,4 +6,4 @@ language: ruby
 rvm:
   - 1.9.3
 script: bundle exec jekyll build
-after_success: bundle exec s3_website push
+after_success: bundle exec s3_website --headless push
