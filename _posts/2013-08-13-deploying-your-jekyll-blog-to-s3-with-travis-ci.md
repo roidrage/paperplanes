@@ -36,7 +36,8 @@ One options is to deploy directly from my own machine, but that'd deploy all
 the local changes I have (and I do have some occasionally), so it'd never really
 be a clean slate.
 
-[Travis CI](http://travis-ci.org) to the rescue!
+[Travis CI](http://travis-ci.org) to the rescue! This little feat also makes me
+eat my own dog food, working on Travis CI myself.
 
 Even with a Jekyll site, deploying the content follows the simple pattern of
 installing dependencies and building the site.
