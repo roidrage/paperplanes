@@ -6,5 +6,5 @@ language: ruby
 rvm:
   - 1.9.3
 script: bundle exec jekyll build
-install: bundle install
+install: travis_retry bundle install
 after_success: bundle exec s3_website push --headless
