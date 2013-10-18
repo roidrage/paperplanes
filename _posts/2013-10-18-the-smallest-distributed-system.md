@@ -160,7 +160,7 @@ shouldn't, because if anything, those builds matter to our customers.
 Travis CI was built as a well-intentioned fellow. It assumed only the best and
 just thought everything was working correctly all the time.
 
-Unfortunately that's not the case. Everything can plunge into chaos, at anytime,
+Unfortunately that's not the case. Everything can plunge into chaos, at any time,
 and our code wasn't ready for it. We did quite a bit of work, and we still are,
 to improve this situation, to improve how our own code handles failures in
 external APIs, even in other components of our infrastructure.
