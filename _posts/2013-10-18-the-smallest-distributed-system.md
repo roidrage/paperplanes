@@ -21,6 +21,9 @@ but rather refined some existing concepts and added some new ideas. One was to
 be able to look at your build logs streaming in while your tests are running, in
 near real time.
 
+On top of that, it allowed configuring the build by way of a file that's part of
+your source code, the .travis.yml rather than a complex user interface.
+
 ![](http://s3itch.paperplanes.de/The_Smallest_Distributed_System.004.jpg_20131018_153228.jpg)
 
 The architecture started out very simple. A web component was responsible for
