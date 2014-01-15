@@ -85,7 +85,7 @@ business.
 We were able to break Travis CI early on and see the potential affects of any
 fixes before they'd become critical to our business.
 
-As a challenge to ourselves, there's on special ticket that was opened in 2012.
+As a challenge to ourselves, there's one special ticket that was opened in early 2013.
 When our business was in a stable state, we'll be shaving off Sven's mustache.
 
 ![](http://s3itch.paperplanes.de/mustache.jpg_20140115_182418.jpg)
