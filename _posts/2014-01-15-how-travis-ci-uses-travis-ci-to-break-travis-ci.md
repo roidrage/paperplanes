@@ -30,7 +30,7 @@ Linux platform. Plus, you can build projects on OS X and for iOS.
 Initially, Travis CI only supported open source projects. But people and
 companies kept asking us to use our platform for their private projects as well.
 
-The idea was floatet to found a company and turn this into a business, work on
+The idea was floated to found a company and turn this into a business, work on
 Travis CI full time and get paid to do it.
 
 By the end of 2011, a company was founded, and two more people joined the team.
