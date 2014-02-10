@@ -36,7 +36,9 @@ working on one.
 ### IKEA to the rescue
 
 So one day, I came across this great little hack with just some simple IKEA
-parts. A standing desk for $22.
+parts. [A standing desk for
+$22](http://iamnotaprogrammer.com/Ikea-Standing-desk-for-22-dollars.html)
+(thanks, Colin of [customer.io](https://customer.io)!).
 
 Rather than wait for something fancy to come along (it currently doesn't fit my
 budget too), I decided to run for it, went to IKEA, bought the parts, and
