@@ -47,9 +47,9 @@ assembled it at home.
 My office is rather bright, and we have a white desk, so I went for an all white
 version of it using these parts:
 
-- LACK table, white
-- EKBY STILIG console, white, 26cm
-- ANTONIUS shelf, white, 79x28cm
+- [LACK table, white](http://www.ikea.com/us/en/catalog/products/50272376/#/20011413)
+- [EKBY STILIG console, white, 26cm](http://www.ikea.com/us/en/catalog/products/10143211/#/90145579)
+- [ANTONIUS shelf, white, 79x28cm](http://www.ikea.com/us/en/catalog/products/10104813/)
 
 The setup is assembled in just a few minutes, all you need extra is a few
 screws. It's pretty ingenious. The total cost comes down to € 22,49.
