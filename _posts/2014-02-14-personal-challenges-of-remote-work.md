@@ -8,7 +8,7 @@ written about how we improve our tool set to [foster and improve communication
 in our
 team](http://blog.travis-ci.com/2014-02-03-how-we-manage-work-in-a-remote-team/)
 and about our [company values as a distributed
-team](http://blog.travis-ci.com/).
+team](http://blog.travis-ci.com/2014-02-13-how-we-roll-as-a-team/).
 
 Working in a distributed team poses personal challenges too, and by jolly, I've
 been busy working through my fair share of them.
