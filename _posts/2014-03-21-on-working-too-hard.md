@@ -65,7 +65,7 @@ user interface and our documentation.
 But I still can't shake the habit of always wanting to help. You can say that
 it's a noble habit to have, but its downsides are starting to show.
 
-There's a quote from [Small Giants]() that stuck with me:
+There's a quote from [Small Giants](http://amzn.to/1hOnAXC) that stuck with me:
 
 > For all the extraordinary service and enlightened hospitality that the small
 > giants offer, what really sets them apart is their belief that the customer
