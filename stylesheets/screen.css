@@ -210,6 +210,7 @@ input[id=q] {
 #header-content #paperplane {
   transform: rotate(290deg) scale(0.9);
   -webkit-transform: rotate(290deg) scale(0.9);
+  -moz-transform: rotate(290deg) scale(0.9);
   float: right;
   margin-top: -30px;
 }
