@@ -8,10 +8,8 @@
     <meta name="mssmarttagspreventparsing" content="true"/>
     <link rel="shortcut icon" href="/images/favicon.gif" type="image/gif" />
     <link rel="icon" href="/images/favicon.gif" type="image/gif" />
-    <meta name="keywords" content="freelancer,software development,web development,development,rails,ruby on rails,blog,berlin,germany,coaching,code reviews">
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
   	<meta name="author" content="Mathias Meyer"/>
-  	<meta name="description" content="The weblog of Mathias Meyer, freelance software developer."/>
   	<meta name="dc.title" content="paperplanes"/>
   	<link rel="start" href="http://www.paperplanes.de" title="paperplanes"/>
     {% if page.content %} 
@@ -29,73 +27,27 @@
   </head>
   
   <body id="www-paperplanes-de">
-    <div id="wrapper">
-        <div id="riak-flyer">
-          <a href="http://riakhandbook.com/?pp"><img src="/images/riak-ipad-small.png"/></a>
-        </div>
+     <div id="head">
+       <div id="header-content">
+         <a href="/">
+           <img src="/images/paperplane.png" id="paperplane">
+         </a>
+       </div>
+     </div>
 
       <div id="top"></div>
       
       <div id="box">
-        
-        <!-- masthead -->
-        <a href="/"><div id="masthead">
-        </div>
-        </a>
-        
-        <div id="above_menu" title="home"></div>
-        <!-- end masthead -->
-        
-        <div id="menu" style="display:inline">
-          <div id="menu_left_pad"></div>
-          {% if page.title == 'Work' %}
-          <a href="/work.html"><div id="menu_work_active"></div></a>
-          {% else %}
-          <a href="/work.html"><div id="menu_work"></div></a>
-          {% endif %}
-          <div id="menu_sep_1"></div>
-          {% if page.title == 'About' %}
-          <a href="/about.html"><div id="menu_about_active"></div></a>
-          {% else %}
-          <a href="/about.html"><div id="menu_about"></div></a>
-          {% endif %}
-          <div id="menu_sep_2"></div>
-          {% if page.is_page == null %}
-          <a href="/"><div id="menu_journal_active"></div></a>
-          {% else %}
-          <a href="/"><div id="menu_journal"></div></a>
-          {% endif %}
-          <div id="menu_sep_3"></div>
-          {% if page.title == 'Contact' %}
-          <a href="/contact.html"><div id="menu_contact_active"></div></a>
-          {% else %}
-          <a href="/contact.html"><div id="menu_contact"></div></a>
-          {% endif %}
-          <div id="menu_right_pad"></div>
-        </div>
-    
         <div id="content">
           {{ content }}
-          <a href="/archives.html">&lt;&lt; Archives</a> | <a href="#" onclick="Element.toggle('search_content');return false;">Search</a> | <a href="http://feeds.feedburner.com/Paperplanes" title="Full-text RSS feed">RSS Feed</a> 
+          <a href="/archives.html">&lt;&lt; Archives</a> | <a href="http://feeds.feedburner.com/Paperplanes" title="Full-text RSS feed">RSS Feed</a> 
 
-
-          <div id="search_content" style="display:none; margin-top:10px"> 
-            <form action="http://www.google.com/search" id="search_form" method="get">
-              <div id="search"> 
-                <b>Search:</b>&nbsp;&nbsp;<input type="text" name="q" id="q" value="Enter your terms, hit enter" onfocus="searchFocus()"/> 
-              </div> 
-            </form>
-          </div>    
-        </div>
-
-        
+       
         <div id="footer">
-          <div id="footer_text">&copy; 2007-2013 Mathias Meyer, Paperplanes <a href="/imprint.html">Imprint</a></div>
+          <div id="footer_text">&copy; 2007-2014 Mathias Meyer <a href="/imprint.html">Imprint</a></div>
         </div>
       </div>
-
     </div>
-
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

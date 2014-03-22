@@ -8,16 +8,21 @@
  * =Body
  ***************************/
 body {
-  font: normal 12px Lucida Grande, Verdana;
+  font: normal 18px "Avenir Next", Helvetica, Arial, sans-serif;
   margin: 0px;
   padding: 0px;
   color: #4c4c4c;
-  background-color: #8a8a8a;
+  background-color: #f5f5f5;
   text-align: center;
 }
 
 img {
-  max-width: 540px;
+  max-width: 600px;
+  margin: 0px auto;
+}
+
+strong {
+  font-weight: 600;
 }
 
 /**
@@ -25,34 +30,22 @@ img {
  ***************************/
 #box {
   margin: 20px auto;
-  background-color: #fff;
   text-align: left;
-    width: 577px;
+  max-width: 650px;
 }
 
 html>body #box {
-  max-width: 577px;
+  max-width: 650px;
   padding-right: 0px;
   margin-bottom: 20px;
 }
 
-#wrapper {
-  width: 1000px;
-  margin: 0px auto;
-}
-
 #content {
-  width: 542px;
-  float: right;
   padding-top: 20px;
   padding-bottom: 10px;
   padding-left: 10px;
-  margin: 0px 15px 1px 0px;
-}
-
-html>body #content {
-    width: 542px;
-    line-height: 18px;
+  margin: 20px 20px;
+  line-height: 24px;
 }
 
 #menu {
@@ -68,14 +61,6 @@ html>body #content {
   height: 30px;
   min-height: 30px;
   float: left;
-}
-
-#above_menu {
-  height: 5px;
-  max-height: 5px;
-  width: 577px;
-  background: url(../images/above_menu.png) no-repeat;
-  font-size:4px;
 }
 
 #menu_left_pad {
@@ -162,13 +147,11 @@ html>body #sidebar {
 }
 #footer {
   clear: both;
-  background: url(../images/bottom.png);
   height: 21px;
   min-height: 21px;
 }
 
 #footer_text {
-  padding-left: 25px;
   padding-top: 6px;
 }
 
@@ -208,66 +191,27 @@ input[id=q] {
     font-size: 11px;
 }
 
-.item_comments {
-  font-size: 11px;
-}
-table#comment_form {
-    margin-top: 10px;
-}
-table#comment_form td {
-    padding: 2px 2px 2px 0;
-}
-table#comment_form td.labels {
-    width: 130px;
-}
-#comments h4 { }
-#comments .comment_content {
-    margin-top: 16px;
-    width: auto;
-}
-#comments .approval_required {
-    color: #209d20;
-    font-size: 11px;
-    padding: 10px;
-  border: 1px solid #209d20;
-}
-#comments .comment {
-  width: 100%;
-  clear: both;
-}
-#comments .comment_author {
-  font-weight: bold;
-}
-#comments .comment_details {
-  margin-bottom: -10px;
-  font-size: 11px;
-  color: gray;
-}
-#comments .gravatar {
-  float: right;
-  width: 40px;
-  height: 40px;
-  padding: 0;
-  margin: 4px 6px 0 0;
-  border: 1px solid #777;
-  background: #fff url(../images/default_gravatar.gif) no-repeat top left;
-}
-#comments h3#post {
-  clear: both;
-  padding-top: 30px;
-}
-
 /**
  * =Headers
  ***************************/
-#masthead {
+#head {
   margin: 0px 0px 0px 0px;
-  height: 167px;
-  min-height: 167px;
-  width: 577px;
-  min-width: 577px;
-  background-color: #348fbc;
-  background: url(../images/top.png);
+  height: 130px;
+  min-height: 130px;
+  width: 100%;
+  background-color: #2B7598;
+}
+
+#header-content {
+  width: 650px;
+  margin: 0px auto;
+}
+
+#header-content #paperplane {
+  transform: rotate(290deg) scale(0.9);
+  -webkit-transform: rotate(290deg) scale(0.9);
+  float: right;
+  margin-top: -30px;
 }
 
 h1 {
@@ -281,17 +225,18 @@ h2, h3, h4 {
     padding: 0;
 }
 h2 {
-  font-size: 12px;
+  font-size: 20px;
   padding-top: 2px;
   color: #93c5de;
   font-weight: normal;
 }
 h3 {
-    font-size: 15px;
+    font-size: 22px;
     padding-bottom: 3px;
+    font-weight: normal;
 }
 h4, .item_meta {
-    font-size: 10px;
+    font-size: 12px;
     color: #777;
     font-weight: normal;
 }
@@ -340,6 +285,8 @@ a > code {
 
 blockquote {
   color: #000;
+  margin-left: 20px;
+  font-style: italic;
 }
 
 ul {
@@ -348,54 +295,7 @@ ul {
 }
 
 li {
-  line-height: 18px;
+  line-height: 24px;
   margin-bottom: 5px;
 }
-/**
- * =Errors
- ***************************/
-.ror_error {
-  font-size: 10px;
-  color: red;
-}
-#comments .errorExplanation {
-    font-size: 11px;
-    line-height: 16px;
-    color: #bd0200;
-    padding: 10px;
-  border: 1px solid #bd0200;
-  margin: 5px 0;
-  background-color: #fffaf9;
-}
-#comments .errorExplanation h2 {
-  font-size: 14px;
-  margin-top: 0;
-  color: #bd0200;
-  font-weight: bold;
-}
-#comments .errorExplanation ul {
-  margin: 0;
-}
 
-/**
- * =Warn Bad Browsers
- ***************************/
-#warn_bad_browsers {
-  padding: 8px;
-  background-color: #990000;
-  width: 100%;
-  margin: 0;
-  font-size: 11px;
-  color: #fff;
-  border-bottom: 1px solid #000;
-}
-#warn_bad_browsers b {
-  font-weight: bold;
-}
-
-#riak-flyer {
-  float: right;
-  z-index: -100;
-  margin-top: 250px;
-  margin-right: 20px;
-}
