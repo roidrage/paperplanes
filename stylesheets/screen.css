@@ -62,7 +62,9 @@ html>body #sidebar {
     width: 260px;
     padding-top: 2px;
 }
+
 #footer {
+  width: 600px;
   clear: both;
   height: 21px;
   min-height: 21px;
@@ -70,6 +72,7 @@ html>body #sidebar {
 
 #footer_text {
   padding-top: 6px;
+  font-size: 14px;
 }
 
 #tags, #authors, #search_results {
