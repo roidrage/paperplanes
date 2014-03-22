@@ -1,0 +1,18 @@
+* {
+  -webkit-text-size-adjust: 300%;
+}
+
+#header-content {
+  width: 95%;
+  max-width: 100%;
+}
+
+#box {
+  width: 95%;
+  max-width: 100%;
+}
+
+html>body #box {
+  width: 95%;
+  max-width: 100%;
+}
