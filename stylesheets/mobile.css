@@ -2,6 +2,26 @@
   -webkit-text-size-adjust: 300%;
 }
 
+.default {
+  display: none;
+}
+
+.mobile {
+  display: inherit;
+}
+
+#head #about {
+  width: 95%;
+}
+
+#head #about h1 {
+  -webkit-text-size-adjust: 200%;
+}
+
+#head #about p {
+  display: none;
+}
+
 #header-content {
   width: 95%;
   max-width: 100%;

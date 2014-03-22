@@ -79,6 +79,10 @@ html>body #sidebar {
   display: none;
 }
 
+.mobile {
+  display: none;
+}
+
 /**
  * =Search
  ***************************/
