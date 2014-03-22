@@ -2,6 +2,18 @@
   -webkit-text-size-adjust: 300%;
 }
 
+@media all and (device-width: 768px) and (device-height: 1024px) and (orientation:portrait) {
+  * {
+    -webkit-text-size-adjust: 150%;
+  }
+}
+
+@media all and (device-width: 768px) and (device-height: 1024px) and (orientation:landscape) {
+  * {
+    -webkit-text-size-adjust: 150%;
+  }
+}
+
 .default {
   display: none;
 }
