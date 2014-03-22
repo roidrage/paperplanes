@@ -48,89 +48,6 @@ html>body #box {
   line-height: 24px;
 }
 
-#menu {
-  height: 35px;
-  max-height: 35px;
-  max-width: 577px;
-  width: 577px;
-}
-
-/* @group Menu */
-
-#menu div {
-  height: 30px;
-  min-height: 30px;
-  float: left;
-}
-
-#menu_left_pad {
-  width: 25px;
-  min-width: 25px;
-  background: url(../images/menu_left_pad.png);
-}
-
-#menu_work {
-  background: url(../images/work_inactive.png);
-  width: 85px;
-}
-
-#menu_work_active {
-  background: url(../images/work_active.png);
-  width: 85px;
-}
-
-#menu_sep_1 {
-  background: url(../images/menu_separator_1.png);
-  width: 8px;
-}
-
-#menu_about {
-  background: url(../images/about_inactive.png);
-  width: 85px;
-}
-
-#menu_about_active {
-  background: url(../images/about_active.png);
-  width: 85px;
-}
-
-#menu_sep_2 {
-  background: url(../images/menu_separator_2.png);
-  width: 7px;
-}
-
-#menu_journal {
-  background: url(../images/journal_inactive.png);
-  width: 85px;
-}
-
-#menu_journal_active {
-  background: url(../images/journal_active.png);
-  width: 85px;
-}
-
-#menu_sep_3 {
-  background: url(../images/menu_separator_3.png);
-  width: 7px;
-}
-
-#menu_contact {
-  background: url(../images/contact_inactive.png);
-  width: 85px;
-}
-
-#menu_contact_active {
-  background: url(../images/contact_active.png);
-  width: 85px;
-}
-
-#menu_right_pad {
-  background: url(../images/menu_right_pad.png);
-  width: 190px;
-}
-
-/* @end */
-
 
 #sidebar {
     float: right;
@@ -195,11 +112,12 @@ input[id=q] {
  * =Headers
  ***************************/
 #head {
-  margin: 0px 0px 0px 0px;
+  margin: 0px;
   height: 130px;
   min-height: 130px;
   width: 100%;
   background-color: #2B7598;
+  text-align: left;
 }
 
 #header-content {
@@ -213,6 +131,27 @@ input[id=q] {
   -moz-transform: rotate(290deg) scale(0.9);
   float: right;
   margin-top: -30px;
+}
+
+#head #about {
+  width: 590px;
+  margin: 0px auto; 
+  padding-top: 30px;
+}
+
+#head h1 {
+  color: white;
+  font-size: 24px;
+}
+
+#head p {
+  margin: 0px;
+  margin-top: 5px;
+}
+
+#head a, #head a:hover, #head a:active, #head a:visited {
+  color: white;
+  text-decoration: underline;
 }
 
 h1 {
@@ -256,6 +195,7 @@ a:hover {
   color: #000;
   text-decoration: underline;
 }
+
 h1 a, h1 a:hover {
     color: #fff;
     text-decoration: none;

@@ -10,7 +10,7 @@
     <link rel="icon" href="/images/favicon.gif" type="image/gif" />
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
   	<meta name="author" content="Mathias Meyer"/>
-  	<meta name="dc.title" content="paperplanes"/>
+    <meta name="dc.title" content="paperplanes. {{ page.title }}"/>
   	<link rel="start" href="http://www.paperplanes.de" title="paperplanes"/>
     {% unless page.hide_twitter_card %} 
     <meta name="twitter:card" content="summary"/>
@@ -28,37 +28,42 @@
   </head>
   
   <body id="www-paperplanes-de">
-     <div id="head">
-       <div id="header-content">
-         <a href="/">
-           <img src="/images/paperplane.png" id="paperplane">
-         </a>
-       </div>
-     </div>
+    <div id="head">
+      <div id="header-content">
+        <a href="/">
+          <img src="/images/paperplane.png" id="paperplane">
+        </a>
+        <div id="about">
+          <h1>Hi, I'm Mathias Meyer, nice to meet you!</h1>
+          <p style="color: white">
+            I work at <a href="http://travis-ci.org">Travis CI</a>, I like coffee, bacon, and <a href="https://twitter.com/roidrage">Twitter</a>.
+          </p>
+        </div>
+      </div>
+    </div>
 
-      <div id="top"></div>
+    <div id="top"></div>
       
-      <div id="box">
-        <div id="content">
-          {{ content }}
-          <a href="/archives.html">&lt;&lt; Archives</a> | <a href="http://feeds.feedburner.com/Paperplanes" title="Full-text RSS feed">RSS Feed</a> 
-
+    <div id="box">
+      <div id="content">
+        {{ content }}
+        <a href="/archives.html">&lt;&lt; Archives</a> | <a href="http://feeds.feedburner.com/Paperplanes" title="Full-text RSS feed">RSS Feed</a> 
        
         <div id="footer">
           <div id="footer_text">&copy; 2007-2014 Mathias Meyer <a href="/imprint.html">Imprint</a></div>
         </div>
       </div>
     </div>
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-46305173-1', 'paperplanes.de');
-  ga('send', 'pageview');
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-</script>
+      ga('create', 'UA-46305173-1', 'paperplanes.de');
+      ga('send', 'pageview');
 
-</body>
+    </script>
+  </body>
 </html>
