@@ -45,7 +45,7 @@ html>body #box {
   padding-bottom: 10px;
   padding-left: 10px;
   margin: 20px 20px;
-  line-height: 24px;
+  line-height: 26px;
 }
 
 
@@ -243,7 +243,7 @@ ul {
 }
 
 li {
-  line-height: 24px;
+  line-height: 26px;
   margin-bottom: 5px;
 }
 
