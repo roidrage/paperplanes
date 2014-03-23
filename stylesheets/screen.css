@@ -48,21 +48,6 @@ html>body #box {
   line-height: 26px;
 }
 
-
-#sidebar {
-    float: right;
-    width: 244px;
-    background-color: #f0f0f0;
-  padding: 18px 18px 2px 18px;
-  margin-top: 18px;
-  color: #777;
-}
-
-html>body #sidebar {
-    width: 260px;
-    padding-top: 2px;
-}
-
 #footer {
   width: 600px;
   clear: both;
@@ -81,30 +66,6 @@ html>body #sidebar {
 
 .mobile {
   display: none;
-}
-
-/**
- * =Search
- ***************************/
-#search, #search_results {
-  padding-bottom: 6px;
-}
-input[id=q],
-#login input[type=text],
-#login input[type=password] {
-  font: normal 11px Arial, Verdana, Sans-serif;
-  padding: 2px;
-  width: 250px;
-  color: #48453c;
-}
-input[id=q] {
-    width: 170px;
-}
-#results {
-  display: inline;
-}
-#results ol li {
-  padding-bottom: 3px;
 }
 
 /**
