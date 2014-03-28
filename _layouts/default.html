@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-
   <head>
     <title>paperplanes. {{ page.title }}</title>
     <meta name="robots" content="index,follow"/>
@@ -18,12 +17,12 @@
     <meta name="twitter:site" content="@roidrage"/>
     <meta name="twitter:creator" content="@roidrage"/>
     <meta name="twitter:description" content="{{ page.content | markdownify | strip_html | truncate:200 }}"/>
-    <meta name="twitter:url" content="http://www.paperplanes.de{{ page.url }}">
-    <meta name="twitter:domain" content="paperplanes.de">
+    <meta name="twitter:url" content="http://www.paperplanes.de{{ page.url }}"/>
+    <meta name="twitter:domain" content="paperplanes.de"/>
     {% endunless %}
     <link href="http://feeds.feedburner.com/Paperplanes" rel="alternate" title="Primary Feed" type="application/rss+xml" />
     <link href="/stylesheets/screen.css" media="screen" rel="Stylesheet" title="paperplanes" type="text/css" />
-    <link rel="stylesheet" type="text/css" href="/stylesheets/mobile.css" media="handheld, only screen and (max-device-width: 960px)">
+    <link rel="stylesheet" type="text/css" href="/stylesheets/mobile.css" media="handheld, only screen and (max-device-width: 960px)" />
     <script src="/javascripts/site.js" type="text/javascript"></script>
   </head>
   
@@ -35,7 +34,7 @@
         </a>
         <div id="about">
           <h1 class="default">Hi, I'm Mathias Meyer, nice to meet you!</h1>
-          <h1 class="mobile">Hi, I'm <a href="https://twitter.com/roidrage">Mathias Meyer!</h1>
+          <h1 class="mobile">Hi, I'm <a href="https://twitter.com/roidrage">Mathias Meyer!</a></h1>
           <p style="color: white" class="default">
             I work at <a href="http://travis-ci.org">Travis CI</a>, I like coffee, bacon, and <a href="https://twitter.com/roidrage">Twitter</a>.
           </p>
@@ -43,15 +42,16 @@
       </div>
     </div>
 
-    <div id="top"></div>
-      
     <div id="box">
       <div id="content">
-        {{ content }}
+        <div id="articles">
+          {{ content }}
+        </div>
        
         <div id="footer">
           <div id="footer_text">
-            <a href="/archives.html">Archives</a>, <a href="http://feeds.feedburner.com/Paperplanes" title="Full-text RSS feed">RSS Feed</a>, &copy; 2007-2014 Mathias Meyer <a href="/imprint.html">Imprint</a></div>
+            <a href="/archives.html">Archives</a>, <a href="http://feeds.feedburner.com/Paperplanes" title="Full-text RSS feed">RSS Feed</a>, &copy; 2007-2014 Mathias Meyer <a href="/imprint.html">Imprint</a>
+          </div>
         </div>
       </div>
     </div>

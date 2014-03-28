@@ -122,6 +122,18 @@ html>body #box {
   text-decoration: underline;
 }
 
+#articles article {
+  margin-bottom: 20px;
+}
+
+#articles article:only-child {
+  margin-bottom: 0px;
+}
+
+#articles article:last-child {
+  margin-bottom: 0px;
+}
+
 h1 {
   font-size: 32px;
   font-weight: normal;
