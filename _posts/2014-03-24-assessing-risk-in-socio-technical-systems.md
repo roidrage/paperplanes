@@ -181,8 +181,8 @@ Something else was different with the Shuttle program. NASA suddenly found itsel
 
 Following the changes in production pressure and working with more external contractors, NASA introduced a bigger management structure. Four layers of managers and sub-managers eventually existed at NASA, with every sub-manager reporting up the stream, representing their own teams.
 
-When the first Shuttles were launched, the team responsible for the booster rockets noticed behaviour that was different from their experience in the Apollo program.
-
+When the first Shuttles were launched, the team responsible for the booster rockets noticed behaviour that was different from their experience in the Apollo program.
+
 The joints holding the parts of the rockets together were rotating, the O-rings sealing the joints of the parts either burnt through under certain circumstances, or they behaved in unexpected ways at very low temperatures. When rubber gets below certain temperatures, it stiffens up, making it unable to move an potentially fulfill its duty.
 
 Most conditions were only seen in isolation rather than together affecting a single flight. For most of them, the team thought they understood their respective risks.

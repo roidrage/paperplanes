@@ -42,7 +42,7 @@ all, you've got a clean slate and can just play around.
 
 But when you build a new product as a new company, [getting something up and
 running, something to throw at users, is even more
-important](/2014/2/18/why-you-should-charge-for-your-beta-product.html).
+important](http://www.paperplanes.de/2014/2/18/why-you-should-charge-for-your-beta-product.html).
 
 It's okay to build up some technical debt along the way. Yes, you will spend
 time later cleaning it up, but at least you can do that knowing that what you've
