@@ -1,5 +1,5 @@
 ---
-title: Start by Selling Small Products 
+title: Start by Building and Selling Small Products 
 topics: smallbiz
 layout: post
 ---
