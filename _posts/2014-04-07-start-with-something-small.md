@@ -38,10 +38,11 @@ While the book's most sales happened in the first days of going public, it
 continued to sell for now more than two years, both on the site and on the
 Kindle store.
 
-It helped a lot in getting Travis CI off the ground as a product. It wasn't a
-lot of money that came in, but for the following twelve months after publishing
-the book, it brough in up to $1000 per month extra. Quite handy as passive
-income when you're working on bootstrapping another product.
+It helped a lot in getting [Travis CI](https://travis-ci.com) off the ground as
+a product. It wasn't a lot of money that came in, but for the following twelve
+months after publishing the book, it brough in up to $1000 per month extra.
+Quite handy as passive income when you're working on bootstrapping another
+product.
 
 How can you build something small before building something bigger? Here are a
 few ideas.
