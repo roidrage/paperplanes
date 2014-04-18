@@ -66,3 +66,8 @@ This doesn't mean that a developer should be doing everything at the same time. 
 A developer probably doesn't need to know all the available automation stacks out there. Knowing one should be plenty. What really matters is the willingness to change, to learn a new stack when necessary.
 
 **Having more wide-spread knowledge about the environment their code runs in gives a much better picture on how the code can be improved to run better, in production, to serve happy customers.**
+
+Here are a few more noteworthy responses to the blog post above:
+
+* [Confessions of a Full Stack DevOp](http://www.ansible.com/blog/confessions-of-a-full-stack-devop) by Michael DeHaan
+* [DevOps and enterprise inertia](http://major.io/2014/04/17/devops-and-enterprise-inertia/) by Major Hayden
