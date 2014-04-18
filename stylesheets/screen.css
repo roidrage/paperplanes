@@ -231,3 +231,13 @@ li {
 .previous {
   float: left;
 }
+
+#archives h3 {
+  font-size: 18px;
+  line-height: 28px;
+}
+
+#archives .archive-year {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
