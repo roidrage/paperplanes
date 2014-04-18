@@ -50,6 +50,10 @@ html>body #box {
     height: 130px;
   }
 
+  #head #about {
+    padding-top: 40px;
+  }
+
   * {
     -webkit-text-size-adjust: 200%;
   }
@@ -64,6 +68,10 @@ html>body #box {
     -webkit-text-size-adjust: 150%;
   }
 
+  #head #about {
+    padding-top: 40px;
+  }
+
   #head {
     height: 100px;
   }
@@ -75,7 +83,11 @@ html>body #box {
   }
 
   #head #about h1, #head #about h1 a {
-    -webkit-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 120%;
+  }
+
+  #head #about {
+    padding-top: 50px;
   }
 
   #head {
