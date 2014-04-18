@@ -3,7 +3,8 @@ layout: default
 title: mathias meyer.
 hide_twitter_card: true
 ---
-{% for post in site.posts limit:3 %}
+<div id="articles">
+{% for post in paginator.posts limit:3 %}
   <article>
     <div class="item">
       <div class="item_details">
@@ -24,3 +25,17 @@ hide_twitter_card: true
     </div>
   </article>
 {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+    {% if paginator.previous_page == 1 %}
+      <a href="/" class="previous">Newer Posts</a>
+    {% else %}
+      <a href="/page{{ paginator.previous_page }}" class="previous">Newer Posts</a>
+    {% endif %}
+  {% endif %}
+  {% if paginator.next_page %}
+    <a href="/page{{ paginator.next_page }}" class="next">Older Posts</a>
+  {% endif %}
+</div>

@@ -220,3 +220,14 @@ li {
   margin-bottom: 5px;
 }
 
+.pagination {
+  padding-bottom: 40px;
+  font-size: 15px;
+}
+.next {
+  float: right;
+}
+
+.previous {
+  float: left;
+}
