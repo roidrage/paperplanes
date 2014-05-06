@@ -22,7 +22,8 @@ is, is to look at the git history. While `git blame` has an unfortunately
 negative connotation, it does provide the basic clues as to where to look for
 the answers.
 
-Thankfully, in Vim, `:Gblame` provides a good way to start digging.
+Thankfully, in Vim, `:Gblame` (courtesy of [fugitive](https://github.com/tpope/vim-fugitive)) 
+provides a good way to start digging.
 
 This is where I changed the way I write and commit code in the past couple of
 month. I think about future me, future anyone who looks at my code, thinking
