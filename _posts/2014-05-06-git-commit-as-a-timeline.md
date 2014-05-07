@@ -1,5 +1,5 @@
 ---
-title: Git Commit Messages as Timeline of Reasoning
+title: Git Commit Messages as a Timeline of Reasoning
 topics: git development
 layout: post
 ---
