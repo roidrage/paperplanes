@@ -23,7 +23,7 @@ to step away from the computer, to think about a problem as it comes up.
 But walking is different. When I leave the house, the first couple of minutes
 feel like a lot of noise in my head.
 
-But after that, things are starting to slow down. Rather than be there all at
+After that, things are starting to slow down. Rather than be there all at
 once, some thoughts just flow naturally from one to the next, giving me time and
 peace of mind to actively think about them.
 
@@ -31,7 +31,8 @@ Getting to that stage requires a longer walk for me, I can't just walk to a shop
 and back.
 
 The same is true for talking to someone. The peace of mind helps to talk things
-over, to get away from distractions.
+over, to get away from distractions. I found that it's nicer to walk and talk
+than to just sit. 
 
 This is even backed by studies now. [A recent Standford study found that walking
 helps foster creative
