@@ -34,7 +34,7 @@ During an outage, this view can unfortunately change fast, and for the worse,
 mostly unintentionally. Being under pressure, it's easy to put blame on someone.
 Someone may have accidentally changed a configuration on a production system,
 someone [accidentally dropped a database
-table](2013/6/17/a-short-story-on-human-error.html) on the production database.
+table](/2013/6/17/a-short-story-on-human-error.html) on the production database.
 
 But the most important idea of a blameless post-mortem is that humans are
 generally well-intentioned. When someone does something wrong, the assumption
