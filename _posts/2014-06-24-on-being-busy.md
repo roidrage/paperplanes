@@ -1,5 +1,5 @@
 ---
-title: On Being Busy
+title: Being Busy, Distractions and Just One More Retweet
 layout: post
 topics: life
 ---
