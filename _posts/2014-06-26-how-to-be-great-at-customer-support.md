@@ -52,7 +52,7 @@ response.
 
 When your customer is having troubles, you need to think about their pain. When
 they're frustrated, it's because of your product and your decisions. Always
-remember that you're at fault when a customer is having troubles.
+assume that the problem is on your end when a customer is having troubles.
 
 Adopting this approach makes you think twice about your response. It removes a
 barrier, it frees you from responding with a snarky email or tweet and helps you
