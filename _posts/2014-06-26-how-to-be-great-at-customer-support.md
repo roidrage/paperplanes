@@ -3,6 +3,8 @@ title: How to be Great at Customer Support
 layout: post
 topics: smallbiz
 ---
+<a href="https://www.flickr.com/photos/ipom/5833220995" title="Portland I by Mathias, on Flickr"><img src="https://farm6.staticflickr.com/5227/5833220995_69690af7b0.jpg" width="500" height="496" alt="Portland I"></a>
+
 When we set out to build [Travis CI](https://travis-ci.com) into a product and a
 business, I had one thing on my agenda that I wanted us to be good at, and
 that's customer support.
