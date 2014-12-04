@@ -51,7 +51,7 @@ In October we got internet, a kitchen, and meeting room furniture. In November,
 the couch arrived, more desk frames and the remaining custom table tops.
 
 While I was able to start working from our office by late November, it wasn't
-nearly ready for everyone on the Berin team to work in.
+nearly ready for everyone on the Berlin team to work in.
 
 Why has this goal not been met? I was travelling for two weeks in October, and I
 was preparing and giving a total of 8 talks in October and November, which took
