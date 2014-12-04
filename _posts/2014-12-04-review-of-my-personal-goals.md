@@ -87,8 +87,8 @@ towards this goal together.
 **Reduce churn by 0.5%**
 
 By the beginning of September, our churn was at 2.9%, according to Baremetrics.
-It went up and down since then, going up to 3,4% in late September, down to
-2,75% in late October, now going back up to 3,5%.
+It went up and down since then, going up to 3.4% in late September, down to
+2.75% in late October, now going back up to 3.5%.
 
 There were a few things I got done that were related to this goal:
 
@@ -126,8 +126,8 @@ Other things play into churn as well, making the current number a bit wonky,
 like our billing code creating duplicate customer entries in Stripe when a
 charge or something with the initial setup of the customer record failed.
 
-Over the last three months, our MRR grew by 13,2%, whereas lifetime value is
-down 10,6%. Lifetime value is tied to churn, but there are other parameters to
+Over the last three months, our MRR grew by 13.2%, whereas lifetime value is
+down 10.6%. Lifetime value is tied to churn, but there are other parameters to
 increase it, including improving your product, subscription plan upgrades,
 annual upsells, or changing your price structure.
 
