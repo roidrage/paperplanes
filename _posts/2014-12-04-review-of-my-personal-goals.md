@@ -66,7 +66,7 @@ getting everything set up and installed. Even then, it would've helped to be
 around and help make decisions.
 
 In response to the excessive travel and time required for all those talks, I've
-also dediced to go on a conference talk hiatus in 2015.
+also decided to go on a conference talk hiatus in 2015.
 
 **Improve our customer onboarding process**
 
