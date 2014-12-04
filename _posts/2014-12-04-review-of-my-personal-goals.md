@@ -10,7 +10,10 @@ They include some reflection on our development as a business and on what I got
 done and what I didn't manage to finish.
 
 I figured I might as well publish these here as a public commitment to
-improving and to give some more insight as to how our company works.*
+improving and to give some more insight as to how our company works.
+
+Transparency and openness are some of the goals we aim for, and this fits in
+well with these ideals.*
 
 For the last three months, starting 1. September 2014, I had set myself three
 bigger goals to focus on for the following three months, ending on 30. November.
