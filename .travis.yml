@@ -1,3 +1,7 @@
+env:
+  global:
+    - secure: C0rk2zmeINcdXZbQvBf7a3Z27UBH9Xjo4kvGy4csN2ysMXzzMJf758AMPx8qUScO1dgcBxaoCQdyBsrNuxr8YrR+DmJUpRRK/GAfUzlko8Swb7pjaognZL/zOrDOmQElz0ZgBGyK7h9Vbd0iyvMUUz6FmPvMinvjJI1FP/xdlLw=
+    - secure: ouqUB+tYzJ2NziejsgdSQl61d+B0w6dsSVmgho5qk9RFeEKZLBzth7leQL7he5Z3XD+mYvFdABUX6SEdXmNHB0/UfdfAmBCjtSmgwnlwU5Le+vJmK7jeHo42EzsvU9X0HEimPBOZQGzfasgG69k8zFxMqT2UNLoiHFS1kz1+W8U=
 language: ruby
 rvm:
   - 2.1.1
