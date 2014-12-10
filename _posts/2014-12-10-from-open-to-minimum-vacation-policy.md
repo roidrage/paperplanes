@@ -54,9 +54,9 @@ on how to scale up a company (emphasis mine):
 > upon them."**
 
 I was horrified reading this, and it dawned on me how wrong we've approached our
-internal vacation policy. This text sums up exactly wrong with an open vacation
-policy. People take less time off, and it's celebrated as a success of giving
-people more responsibility.
+internal vacation policy. This text sums up exactly what's wrong with an open
+vacation policy. People take less time off, and it's celebrated as a success of
+giving people more responsibility.
 
 Uncertainty about how many days are okay to take time off can also stir
 inequality. It can turn into a privilege for some people who may be more
