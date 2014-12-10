@@ -165,5 +165,3 @@ culture.
 I'd love to hear about your experiences as a company leader, in particular about
 issues like vacation policies and team happiness. I'm also happy to talk about
 our culture at Travis CI. [Email me!](mailto:meyer@paperplanes.de)
-
-P.S.: [We're hiring](https://travisci.workable.com).
