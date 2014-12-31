@@ -74,8 +74,8 @@ have the resources to do so:
 * [kod.io](http://foundation.travis-ci.org/2014/02/19/diversity-tickets/): 500
   EUR
 
-In total, that comes down to roughly **22,000 EUR** in 2014, or about 1.25% of
-our total revenue.
+In total, that comes down to roughly **22,000 EUR** or **$27,000** in 2014, or
+about 1.25% of our total revenue in the same year.
 
 **Whither 2015?**
 
