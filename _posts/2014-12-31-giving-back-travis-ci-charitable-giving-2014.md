@@ -53,6 +53,8 @@ that end, we donated to the following organizations:
 * [Girl Develop It](http://www.girldevelopit.com): $2,000
 * [Black Girls Code](http://www.blackgirlscode.com): $2,000
 * [Trans*H4CK](http://www.transhack.org): $2,000
+* [Ada Initiative](https://adainitiative.org): $285 (based on profits we made
+selling stickers on [DevSwag](http://devswag.com))
 
 We also supported a few local organizations:
 
