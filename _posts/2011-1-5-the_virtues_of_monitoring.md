@@ -89,7 +89,7 @@ can contiuously collect and expose metrics through a defined interface to be ins
 can even be used to call into your application from the outside, without having to go through a web interface.
 
 Application level monitoring also includes exception reporting. Services like [Exceptional](http://getexceptional.com)
-or [Hoptoad](http://hoptoadapp.com) are probably the most well known in that area, though in higher price regions New
+or [Airbrake](http://airbrake.io) are probably the most well known in that area, though in higher price regions New
 Relic also includes exception reporting.
 
 ### Process Level
