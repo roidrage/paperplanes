@@ -17,7 +17,7 @@ that I did to get as much as possible out of it.
 In the previous article on vacations, I argued that switching off is an
 important part of taking time off, and it's probably the hardest one for us to
 get used to, especially when we work with the internet every day. There's a mix
-of culture involved, but it also touches on our daily habits and the omniscience
+of culture involved, but it also touches on our daily habits and the omnipresence
 of mobile internet in our daily lives.
 
 Taking a vacation where you actually disconnect from everything has become
