@@ -114,7 +114,8 @@ things, they will post pictures of their food, they'll send you messages asking
 how your vacation is, work will get done.
 
 All it takes to get rid of all that is to flip a switch (or to delete all of
-those apps).
+those apps). While you're at it, remove anything that's related to work. Yes, go
+ahead, you won't need it.
 
 ### Set the right expectations, automatically archive all email
 
