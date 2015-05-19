@@ -16,7 +16,7 @@ not everything they've done has lead them to where they are now, but that
 they're here in spite of what they did.
 
 A reality where [failure is neither celebrated nor
-punished]((http://www.paperplanes.de/2013/6/17/a-short-story-on-human-error.html)),
+punished](http://www.paperplanes.de/2013/6/17/a-short-story-on-human-error.html),
 but always used as an [opportunity to learn and
 improve](https://codeascraft.com/2012/05/22/blameless-postmortems/).
 
