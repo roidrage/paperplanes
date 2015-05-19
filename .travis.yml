@@ -4,7 +4,7 @@ env:
     - secure: ouqUB+tYzJ2NziejsgdSQl61d+B0w6dsSVmgho5qk9RFeEKZLBzth7leQL7he5Z3XD+mYvFdABUX6SEdXmNHB0/UfdfAmBCjtSmgwnlwU5Le+vJmK7jeHo42EzsvU9X0HEimPBOZQGzfasgG69k8zFxMqT2UNLoiHFS1kz1+W8U=
 language: ruby
 rvm:
-  - 2.1.1
+  - 2.1.2
 script: bundle exec jekyll build
 install: bundle install --jobs=3 --retry=3
 after_success: travis_retry bundle exec s3_website push --headless
