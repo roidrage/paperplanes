@@ -56,9 +56,9 @@ A reality where startups don't hire ninjas or rockstars or "the best," but on
 hiring great people and helping them grow.
 
 A reality where talking about money, cash flow,
-[revenue]((https://baremetrics.com/open), profits, and [costs of running a
+[revenue](https://baremetrics.com/open), profits, and [costs of running a
 startup](http://inside.idonethis.com/startup-expenses/) is a source of
-inspiration rather than seen as losing a competitive advantage..
+inspiration rather than seen as losing a competitive advantage.
 
 A reality where startups acknowledge that there is no perfect reality, only
 experimentation and continuous improvement.
