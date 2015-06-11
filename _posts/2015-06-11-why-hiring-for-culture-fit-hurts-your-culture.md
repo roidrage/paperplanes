@@ -60,11 +60,11 @@ Culture includes silent expectations like going to socialization events in
 evenings, like drinking at bars, dinners and other company events. No one wants
 to put those on job ads, right?
 
-Culture is how your write and phrase your job ads. Culture is whether you're
+Culture is how you write and phrase your job ads. Culture is whether you're
 looking for rock stars or want to build a great team and help people grow.
 Culture is how you pay your people. Culture is how a CEO behaves towards his
 team and in public. Culture is how leadership fosters and drives change. Culture
-how you treat your customers. Culture is how you treat your team. Culture is how
+is how you treat your customers. Culture is how you treat your team. Culture is how
 open you are to changing the status quo. Culture is a team that only consists of
 white dudes in their late twenties.
 
@@ -82,7 +82,8 @@ it's written in stone and cannot be changes, then by all means, hire or fire
 based on culture fit.
 
 Culture fit is a means to keep people out of a protected and privileged circle,
-rather than to protect that circle's values.
+rather than to protect that circle's values, which is probably what you think it
+is..
 
 Culture fit is a means to avoid talking about whether your culture is healthy
 and whether it needs to be improved, and most importantly, to avoid actively
