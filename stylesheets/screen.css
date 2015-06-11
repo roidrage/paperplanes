@@ -107,6 +107,10 @@ html>body #box {
   padding-top: 30px;
 }
 
+#head #about .about-sub-title {
+  font-size: 17px;
+}
+
 #head h1 {
   color: white;
   font-size: 24px;
