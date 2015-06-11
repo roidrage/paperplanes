@@ -13,7 +13,7 @@ for culture fit is one of the eight interview mistakes that cost you great
   candidates.
 
 The post brings up the most peculiar example in this regard, a company culture
-of drinking (disclaimer: I've been a non-alcoholic for more than 16 years now).
+of drinking (disclaimer: I've been a non-drinker for more than 16 years now).
 If your company has a culture of heavy drinking, then you can be sure as hell
 that someone like me will neither fit nor want to fit into that culture.
 
@@ -62,7 +62,7 @@ to put those on job ads, right?
 
 Culture is how you write and phrase your job ads. Culture is whether you're
 looking for rock stars or want to build a great team and help people grow.
-Culture is how you pay your people. Culture is how a CEO behaves towards his
+Culture is how you pay your people. Culture is how a CEO behaves towards their
 team and in public. Culture is how leadership fosters and drives change. Culture
 is how you treat your customers. Culture is how you treat your team. Culture is how
 open you are to changing the status quo. Culture is a team that only consists of
@@ -110,7 +110,7 @@ revisit why and whether it's such an important part of your culture.
 
 Because I can tell you right here, making it explicit will help keep even more
 people out of your precious circle. Parents, people of religion who don't drink,
-non-alcoholics. You can be sure that those people will never be part of your
+non-drinkers. You can be sure that those people will never be part of your
 team, and that your team will continue to attract the same kind of people that
 are already a part of it.
 
