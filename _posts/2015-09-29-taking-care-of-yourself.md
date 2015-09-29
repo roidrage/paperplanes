@@ -3,8 +3,6 @@ title: Taking Care of Business, Taking Care of Yourself
 topic: growth happiness
 layout: post
 ---
-### Taking Care of Business, Taking Care of Yourself
-
 About a year ago, while hanging out with people from a friendly company in San Francisco, one of their junior people asked me a seemingly simple question: “What do you do for fun?”
 
 I was stunned, and I didn’t have an answer. I didn’t know what I did for fun, and I almost panicked from not being able to come up with something beyond hanging out and spending time with my friends and family outside of work.
