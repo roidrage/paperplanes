@@ -63,7 +63,7 @@ It doesn’t really matter what tool you’re using, what matters is that you ge
 
 Writing requires me to focus, and it allows me to make sense of all the noise in my head. It’s my one outlet of processing all the information I collect, consciously or not, throughout the day.
 
-#### Take your time in making decisions, but follow up on them
+### Take your time in making decisions, but follow up on them
 
 I need time to process information, to figure out any patterns and to come to my own conclusion on it. That process can involve writing, thinking, walking or listening to more opinions, gathering more insight from our diverse team.
 
