@@ -4,7 +4,7 @@ layout: post
 topics: operations humanerror
 ---
 A few weeks back I came across a post that struck home in several ways. ["How I
-Fired myself"](http://edu.mkrecny.com/thoughts/how-i-fired-myself) is a short
+Fired myself"](https://web.archive.org/web/20130302005214/http://edu.mkrecny.com/thoughts/how-i-fired-myself) (cached version) is a short
 story of a developer who accidentally deleted the entire users table in
 production while working on a new feature. You should read the whole thing, go
 ahead, I'll wait for you.
