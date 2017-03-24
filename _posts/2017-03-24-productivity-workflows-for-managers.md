@@ -9,7 +9,7 @@ As a manager, trying to balance being there for your team (both for individual t
 
 Over the years, I’ve been trying a few ways of handling and channeling the different pulls as well as finding time for focused work, time to ponder and reflect on things and work on the bigger topics that are on my own agenda.
 
-In a couple of recent 1:1s I’ve had, the topic of staying productive came up and I offered to write up a couple of my systems.
+In a couple of recent 1:1s I’ve had, the topic of staying productive came up and I offered to write up a couple of my systems. What I'm outlining below is an overview of the system I'm using (or have used) to structure the time that I don't have directly alloted to meetings or interaction with my team, like 1:1s for example.
 
 ## Chunks of Focus Time
 
