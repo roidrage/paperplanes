@@ -3,7 +3,7 @@ title: "Workflows That Help Me Stay (and Feel) Productive as a Manager"
 layout: post
 topics: leadership management productivity
 ---
-One of the greatest challenges for a manager is finding ways to channel the constant pulling into different directions. These days, that pull is likely also true, especially in a distributed team where it’s easy to get pulled into Slack discussions and lose track of priorities. At least that’s been my experience in the past and in the presence too, amplified further by now having a management role.
+One of the greatest challenges for a manager is finding ways to channel the constant pulling into different directions. These days, that pull is likely also true, especially in a distributed team where it’s easy to get pulled into Slack discussions and lose track of priorities. At least that’s been my experience in the past and in the present too, amplified further by now having a management role.
 
 As a manager, trying to balance being there for your team (both for individual team members and the team as a whole) but also finding time to focus on the bigger topics presents a challenge, as the desire is first and foremost to be there for your team to support them, to answer questions, and to get blockers out of the way.
 
