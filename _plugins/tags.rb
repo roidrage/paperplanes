@@ -16,10 +16,11 @@ module Paperplanes
 
   class Tags < Jekyll::Generator
     def generate(site)
-      puts 'before'
-      puts site.post_attr_hash('topics')
-      puts 'after'
-      site.tags.each do |tag, posts|
+      tags = Hash.new { |h, key| h[key] = [] }
+      site.posts.docs.each do |p|
+        p.data[post_attr].split(' ').each { |t| tags[t] << p } if p.data[post_attr]
+      end
+      tags.each do |tag, posts|
         site.pages << TagPage.new(site, site.source, tag, posts.reverse)
       end
     end
