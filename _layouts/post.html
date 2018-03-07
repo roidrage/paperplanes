@@ -14,7 +14,7 @@ layout: default
     </div>
     <div class="item_meta">
       <div class="item_tags">Tags:
-        {% for tag in page.topics %}
+        {% for tag in page.tags %}
         <a href="/tags/{{ tag }}.html" title="View posts tagged with &quot;{{ tag }}&quot;">{{ tag }}</a>{% if forloop.last != true %}, {% endif %}
         {% endfor %}
       </div>
