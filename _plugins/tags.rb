@@ -16,7 +16,7 @@ module Paperplanes
 
   class Tags < Jekyll::Generator
     def generate(site)
-      pp site.tags
+      puts site.tags.inspect
       site.tags.each do |tag, posts|
         site.pages << TagPage.new(site, site.source, tag, posts.reverse)
       end
