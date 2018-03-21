@@ -13,7 +13,8 @@ layout: default
     <div class="item_meta">
       <span class="item_tags">
         Tags: 
-        {% for tag in post.tags %}
+        {% assign tags = post.topics | split: " " %}
+        {% for tag in tags %}
         <a href="/tags/{{ tag }}.html" title="View posts tagged with &quot;{{ tag }}&quot;">{{ tag }}</a>{% if forloop.last != true %}, {% endif %}
         {% endfor %}
       </span>
