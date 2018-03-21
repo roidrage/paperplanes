@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '~> 1.4', require: nil
-gem 's3_website'
+gem 'jekyll', '~> 3.7', require: nil
 gem 'redcarpet'
+gem 'jekyll-paginate'
