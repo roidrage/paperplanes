@@ -5,7 +5,7 @@ permalink: /work-with-me/
 ---
 <img src="/images/mathias_meyer_square.jpg" style="float:right; height: auto; width: 30%; margin-left: 10px; margin-bottom: 5px;"/>
 
-I’m looking for a new role as CTO or VP Engineering (or COO), remote or in Berlin.
+I’m looking for a new role as CTO or VP Engineering (or COO), remote or in Berlin (relocating is not an option for me).
 
 I consider myself an empathic leader with a servant and a growth mindset. I focus on people first, making sure they can do their best work.
 
