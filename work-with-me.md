@@ -31,4 +31,4 @@ My most recent work background:
 
 I’m looking to join a growth stage company (5-10+ MM ARR, or post Series A; 15+ people in engineering) that values diversity and inclusion, where technology is a key part of the business, and where I can help grow and scale the engineering teams to the next level.
 
-Interested? Feel free to get in touch via LinkedIn or [email](mailto:mathias@paperplanes.de), or feel free to share my [LinkedIn profile](https://www.linkedin.com/in/mathias-meyer-50a753aa/).
+Interested? Feel free to get in touch via [Twitter](https://twitter.com/roidrage) or [email](mailto:mathias@paperplanes.de), or feel free to share my [LinkedIn profile](https://www.linkedin.com/in/mathias-meyer-50a753aa/).
