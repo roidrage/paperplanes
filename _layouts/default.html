@@ -19,6 +19,9 @@
     <meta name="twitter:description" content="{{ page.content | markdownify | strip_html | truncate:200 }}"/>
     <meta name="twitter:url" content="http://www.paperplanes.de{{ page.url }}"/>
     <meta name="twitter:domain" content="paperplanes.de"/>
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:description" content="{{ page.excerpt }}" />
+    <meta property="og:url" content="https://www.paperplanes.de{{ page.url }}" />
     {% endunless %}
     <link href="http://www.paperplanes.de/rss.xml" rel="alternate" title="Primary Feed" type="application/rss+xml" />
     <link href="/stylesheets/screen.css" media="screen" rel="Stylesheet" title="paperplanes" type="text/css" />
