@@ -3,7 +3,7 @@ layout: page
 title: Work With Me
 permalink: /work-with-me/
 ---
-<img src="/images/mathias_meyer_square.jpg" style="float:right; height: auto; width: 50%;"/>
+<img src="/images/mathias_meyer_square.jpg" style="float:right; height: auto; width: 30%; margin-left: 10px; margin-bottom: 5px;"/>
 
 I’m looking for a new role as CTO or VP Engineering, remote or in Berlin.
 
