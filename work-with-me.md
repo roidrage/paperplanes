@@ -28,6 +28,7 @@ My most recent work background:
 * (Infrastructure) engineer turned leader, manager and team builder
 * Product- and business-focus with a technology angle
 * Developer tooling, B2B, SaaS, enterprise software and sales
+* Executive & leadership coach
 
 I’m looking to join a growth stage company (5-10+ MM ARR, or post Series A; 15+ people in engineering) that values diversity and inclusion, where technology is a key part of the business, and where I can help grow and scale the engineering teams to the next level.
 
