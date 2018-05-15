@@ -37,7 +37,7 @@ You can learn more about my perspectives on leadership, management, coaching, co
 * [Why Hiring for "Culture Fit" Hurts Your Culture](https://www.paperplanes.de/2015/6/11/why-hiring-for-culture-fit-hurts-your-culture.html)
 * [From Open (Unlimited) to Minimum Vacation Policy](https://www.paperplanes.de/2014/12/10/from-open-to-minimum-vacation-policy.html)
 * [A Short Story on Human Error](https://www.paperplanes.de/2013/6/17/a-short-story-on-human-error.html)
-
+* [Start Every Meeting with a Personal Check-in](https://blog.travis-ci.com/2016-06-09-start-meetings-with-personal-checkins)
 I’m looking to join a growth stage company (5-10+ MM ARR, or post Series A; 15+ people in engineering) that values diversity and inclusion, where technology is a key part of the business, and where I can help grow and scale the engineering teams to the next level.
 
-Interested? Feel free to get in touch via [Twitter](https://twitter.com/roidrage) or [email](mailto:mathias@paperplanes.de), or feel free to share my [LinkedIn profile](https://www.linkedin.com/in/mathias-meyer-50a753aa/).
+Interested? Feel free to get in touch via [Twitter](https://twitter.com/roidrage) or [email](mailto:mathias@paperplanes.de), or feel free to share this page or my [LinkedIn profile](https://www.linkedin.com/in/mathias-meyer-50a753aa/).
