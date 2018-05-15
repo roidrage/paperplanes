@@ -3,11 +3,13 @@ layout: page
 title: Work With Me
 permalink: /work-with-me/
 ---
+<img src="/images/mathias_meyer_square.jpg" style="float:right; height: 50$;"/>
+
 I’m looking for a new role as CTO or VP Engineering, remote or in Berlin.
 
 I consider myself an empathic leader with a servant and a growth mindset. I focus on people first, making sure they can do their best work.
 
-I have a founder background of building up a company from scratch and bring understanding of all parts of the business, their value and how important it is to communicate and collaborate across functions.
+I have a founder and CEO background of building up a company from scratch and bring understanding of all parts of the business, their value and how important it is to communicate and collaborate across functions.
 
 My areas of interest:
 
