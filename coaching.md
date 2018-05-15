@@ -46,11 +46,13 @@ We can either talk through some of the longer term challenges or we can focus on
 
 ## Who am I?
 
-I am the former cofounder and CEO at Travis CI, where I started out as an engineer and grew into the role of CEO, experiencing all the challenges that come with the growth from an engineer to a manager to being a company leader. In that role, I’ve been coaching and mentoring the managers and leaders in our company.
+I am the former cofounder and CEO at Travis CI, where I started out as an engineer and grew into the role of CEO, experiencing all the challenges and struggles that come with the growth from an engineer and software-building founder to a manager to being a company leader.
 
-More recently I’ve been working as an executive leadership coach, where I focus on helping managers, tech leads, CTOs, COOs, and founders
+In that role, I’ve also been coaching and mentoring the managers and leaders in our company to help them navigate the very challenges that I've outlined above.
 
-## Coaching Departments and Leadership Teams
+More recently I’ve been working as an executive leadership coach, where I focus on helping managers, tech leads, CTOs, COOs, and founders.
+
+## Mentoring Engineering Departments and Leadership Teams
 
 Some challenges that a startup faces span multiple teams or even multiple departments, for instance when it comes to communication, collaboration, processes, and feedback loops.
 
@@ -58,4 +60,4 @@ In these situations it can be helpful to discuss these topics and explore possib
 
 These meetings tend to be longer as more people will be involved, but shouldn’t take more than two hours for each session. Leading up to these, there is the option to collect feedback and input from each person who would then be involved in the team discussions. This allows me to get a picture of where the challenges are and how we could go about solving them together.
 
-[Get in touch](mailto:mathias@paperplanes.de) to discuss the options!
+[Get in touch](mailto:mathias@paperplanes.de) to discuss how we can best work together.
