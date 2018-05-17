@@ -5,7 +5,7 @@ permalink: /leadership-coaching/
 ---
 <img src="/images/mathias_meyer_square.jpg" style="float:right; height: auto; width: 30%; margin-left: 10px; margin-bottom: 5px;"/>
 
-## 1:1 Leadership Coaching
+## 1:1 Managment Coaching
 
 Especially in startups, managers can experience feelings of being on their own, having to figure out the ropes of people management alone, with nowhere to go for help and support.
 
