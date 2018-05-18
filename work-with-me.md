@@ -24,7 +24,7 @@ My areas of interest:
 
 My most recent work background:
 
-* [Travis CI](https://travis-ci.com): Founder (6 years) and CEO (4 years), grew team from 10 to 50, managing a team of teams, engineering teams, leadership team and departments
+* Founder (6 years) and CEO (4 years) at [Travis CI](https://travis-ci.com): grew team from 10 to 50, managing a team of teams, engineering teams, leadership team and departments
 * (Infrastructure) engineer turned leader, manager and team builder
 * Product- and business-focus with a technology angle
 * Developer tooling, B2B, SaaS, enterprise software and sales
