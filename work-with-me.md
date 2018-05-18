@@ -28,7 +28,7 @@ My most recent work background:
 * (Infrastructure) engineer turned leader, manager and team builder
 * Product- and business-focus with a technology angle
 * Developer tooling, B2B, SaaS, enterprise software and sales
-* Executive & leadership coach
+* [Executive & leadership coach](/leadership-coaching/)
 
 You can learn more about my perspectives on leadership, management, coaching, company and engineering culture in these posts:
 
