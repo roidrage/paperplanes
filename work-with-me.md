@@ -21,7 +21,7 @@ My areas of interest:
 * People and processes
 * High performance organisations
 * Strong feedback loops across teams
-* Remote teams
+* Remote teams and culture
 
 My most recent work background:
 
