@@ -41,6 +41,6 @@ You can learn more about my perspectives on leadership, management, coaching, co
 * [A Short Story on Human Error](https://www.paperplanes.de/2013/6/17/a-short-story-on-human-error.html)
 * [Start Every Meeting with a Personal Check-in](https://blog.travis-ci.com/2016-06-09-start-meetings-with-personal-checkins)
 
-I’m looking to join a growth stage B2B company (5-10+ MM ARR, or post Series A; 15+ people in engineering) that values diversity and inclusion, where technology is a key part of the business, and where I can help grow and scale the engineering teams to the next level.
+I’m looking to join a growth stage B2B company (5-10+ MM ARR, or post Series A, and beyond; 25+ people in engineering) that values diversity and inclusion, where technology is a key part of the business, and where I can help grow and scale the engineering teams to the next level.
 
 Interested? Feel free to get in touch via [Twitter](https://twitter.com/roidrage) or [email](mailto:mathias@paperplanes.de), or feel free to share this page or my [LinkedIn profile](https://www.linkedin.com/in/mathias-meyer-50a753aa/).
