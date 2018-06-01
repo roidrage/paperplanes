@@ -41,6 +41,7 @@ li {
 
 #content {
   line-height: normal;
+  -webkit-text-size-adjust: 300%;
 }
 
 html>body #box {
@@ -67,7 +68,6 @@ html>body #box {
 
 @media all and (device-width: 768px) and (device-height: 1024px) and (orientation:portrait) {
   * {
-    -webkit-text-size-adjust: 300%;
   }
 
   #head #about h1, #head #about h1 a {
