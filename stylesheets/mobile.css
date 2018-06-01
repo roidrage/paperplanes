@@ -1,3 +1,7 @@
+li {
+  line-height: normal;
+}
+
 .default {
   display: none;
 }
@@ -15,7 +19,6 @@
 }
 
 #head #about h1, #head #about h1 a {
-  -webkit-text-size-adjust: 110%;
 }
 
 #head #about p {
