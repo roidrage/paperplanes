@@ -14,6 +14,10 @@ li {
   height: 190px;
 }
 
+#head h1 {
+  font-size: normal;
+}
+
 #head #about {
   width: 95%;
 }
