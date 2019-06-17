@@ -48,7 +48,7 @@ html>body #box {
   max-width: 100%;
 }
 
-@media screen (max-width: 812px) {
+@media handheld, only screen and (max-device-width: 812px) {
   #content {
     font-size: 1.0em;
   }
