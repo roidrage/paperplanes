@@ -49,7 +49,7 @@ html>body #box {
   max-width: 100%;
 }
 
-@media (max-width: 520px) {
+@media (max-width: 812px) {
   #content {
     font-size: 1.0em;
   }
