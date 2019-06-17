@@ -41,7 +41,7 @@ li {
 
 #content {
   line-height: normal;
-  -webkit-text-size-adjust: 250%;
+  -webkit-text-size-adjust: auto;
 }
 
 html>body #box {
@@ -62,7 +62,7 @@ html>body #box {
   }
 
   * {
-    -webkit-text-size-adjust: 150%;
+    -webkit-text-size-adjust: auto;
   }
 }
 
