@@ -41,7 +41,6 @@ li {
 
 #content {
   line-height: normal;
-  -webkit-text-size-adjust: 100%;
 }
 
 html>body #box {
@@ -49,7 +48,7 @@ html>body #box {
   max-width: 100%;
 }
 
-@media (max-width: 812px) {
+@media screen (max-width: 812px) {
   #content {
     font-size: 1.0em;
   }
@@ -100,52 +99,6 @@ html>body #box {
 }
 
 @media screen and (max-device-width: 768px) and (max-device-height: 1024px) and (orientation:landscape) {
-
-  #head #about h1, #head #about h1 a {
-  }
-
-  #head #about {
-    padding-top: 50px;
-  }
-
-  #head {
-    height: 100px;
-  }
-  
-  * {
-    -webkit-text-size-adjust: 100%;
-  }
-
-  #content {
-    -webkit-text-size-adjust: 100%;
-  }
-
-}
-
-@media screen and (device-width: 1024px) and (device-height: 1366px) and (orientation:portrait) {
-  * {
-  }
-
-  #head #about h1, #head #about h1 a {
-  }
-
-  #head #about {
-    padding-top: 40px;
-  }
-
-  #head {
-    height: 100px;
-  }
-  * {
-    -webkit-text-size-adjust: 100%;
-  }
-  
-  #content {
-    -webkit-text-size-adjust: 100%;
-  }
-}
-
-@media screen and (device-width: 1024px) and (device-height: 1366px) and (orientation:landscape) {
 
   #head #about h1, #head #about h1 a {
   }
