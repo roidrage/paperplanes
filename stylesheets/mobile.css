@@ -41,7 +41,7 @@ li {
 
 #content {
   line-height: normal;
-  -webkit-text-size-adjust: 200%;
+  -webkit-text-size-adjust: 250%;
 }
 
 html>body #box {
@@ -80,6 +80,9 @@ html>body #box {
   #head {
     height: 100px;
   }
+  * {
+    -webkit-text-size-adjust: 100%;
+  }
 }
 
 @media all and (device-width: 768px) and (device-height: 1024px) and (orientation:landscape) {
@@ -94,6 +97,11 @@ html>body #box {
   #head {
     height: 100px;
   }
+  
+  * {
+    -webkit-text-size-adjust: 100%;
+  }
+
 }
 
 
