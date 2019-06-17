@@ -41,12 +41,22 @@ li {
 
 #content {
   line-height: normal;
-  -webkit-text-size-adjust: auto;
+  -webkit-text-size-adjust: 150%;
 }
 
 html>body #box {
   width: 95%;
   max-width: 100%;
+}
+
+@media (max-width: 520px) {
+  #content {
+    font-size: 1.0em;
+  }
+  
+  # {
+    font-size: 1.0em;
+  } 
 }
 
 @media all and (orientation: landscape) {
@@ -89,7 +99,7 @@ html>body #box {
   }
 }
 
-@media screen and (device-width: 768px) and (device-height: 1024px) and (orientation:landscape) {
+@media screen and (max-device-width: 768px) and (max-device-height: 1024px) and (orientation:landscape) {
 
   #head #about h1, #head #about h1 a {
   }
