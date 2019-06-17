@@ -83,6 +83,10 @@ html>body #box {
   * {
     -webkit-text-size-adjust: 100%;
   }
+  
+  #content {
+    -webkit-text-size-adjust: 100%;
+  }
 }
 
 @media all and (device-width: 768px) and (device-height: 1024px) and (orientation:landscape) {
@@ -99,6 +103,10 @@ html>body #box {
   }
   
   * {
+    -webkit-text-size-adjust: 100%;
+  }
+
+  #content {
     -webkit-text-size-adjust: 100%;
   }
 
