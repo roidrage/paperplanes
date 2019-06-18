@@ -92,3 +92,5 @@ The next time you find yourself in a situation where your team involves you in d
 * If you’re not certain whether your team has the right skills, write down how you would approach going through the process. This can result in a short process description or **framework** to guide your team.
 
 It takes practice and patience to get your team to take a more active role in decision making and leading discussions. You’ll need to review and adjust your approach and your team’s output  several times over until you’ve found the sweet spot. But it’s work worth doing, for your team’s sake and for you as a leader. In the long run, everyone will benefit from clarity on expectations.
+
+_Thanks to Daniel Schauenberg for an early review, corrections and feedback._
