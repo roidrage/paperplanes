@@ -75,7 +75,7 @@ It can be deeply uncomfortable to remove yourself from important discussions. Yo
 
 By setting expectations you’re not a part of this loop anymore. You find yourself with more free time and less on your plate.
 
-Filling this gap can be a challenge. For a starting point, you could pick one of the topics from the top to get into a more strategic work mode. Or you could work with your manager to find specific areas where you could contribute more to higher level work.
+Filling this gap can be a challenge. For a starting point, you could pick one of the topics from the top to get into a more strategic work mode. Or you could work with your manager to find specific areas where you could contribute and grow.
 
 It takes guts and practice to say “Y’all can do this without me. I trust you with this.” But there’s something incredibly freeing about it too.
 
