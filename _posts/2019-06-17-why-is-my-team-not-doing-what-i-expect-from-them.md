@@ -81,14 +81,14 @@ It takes guts and practice to say “Y’all can do this without me. I trust you
 
 ## Setting clear expectations is a leadership skill
 
-Senior technical leadership requires you remove yourself from many day-to-day discussions. You’ll be focused more on higher level processes so that your team can focus on the work. You’ll be focused on work where your time is spent with the highest leverage, the highest impact on your team. Setting expectations and letting teams lead areas and make decisions on their own is part of this work.
+Senior technical leadership requires you to remove yourself from many day-to-day discussions. You’ll be focused more on higher level processes so that your team can focus on the work. You’ll be focused on work where your time is spent with the highest leverage, the highest impact on your team. Setting expectations and letting teams lead areas and make decisions on their own is part of this work.
 
-Note that this isn’t the same as “getting out of the way.” It’s getting out of the way by setting a clear focus on what your team should focus on and giving them the tools to achieve a good outcome.
+Note that this isn’t quite the same as “getting out of the way.” It’s getting out of the way by setting a clear focus on what your team should focus on and giving them the tools to achieve a good outcome.
 
 The next time you find yourself in a situation where your team involves you in discussions or decisions, take a step back. Check if there’s an opportunity for your team to step up and for you to step away.
 
 * Write down a set of **outcomes** that you’d like them to achieve and communicate those. Note that an outcome isn’t the same as a specific result. Ideally you focus on what you want them to do rather than dictating the exact result they should back to you with.
-* Provide sufficient **context** for your team to achieve the goal. This could includes things that you’re thinking about when you approach the topic at hand.
+* Provide sufficient **context** for your team to achieve the goal. This could include things that you’re thinking about when you approach the topic at hand.
 * If you’re not certain whether your team has the right skills, write down how you would approach going through the process. This can result in a short process description or **framework** to guide your team.
 
-It takes practice and patience to get your team to take a more active role in decision making and leading discussions. You’ll need to review and adjust your approach and your team’s output  several times over until you’ve found the sweet spot. But it’s work worth doing, for your team’s sake and for you as a manager. In the long run,everyone will benefit from clarity on expectations.
+It takes practice and patience to get your team to take a more active role in decision making and leading discussions. You’ll need to review and adjust your approach and your team’s output  several times over until you’ve found the sweet spot. But it’s work worth doing, for your team’s sake and for you as a leader. In the long run, everyone will benefit from clarity on expectations.
