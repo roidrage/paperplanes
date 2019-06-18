@@ -31,7 +31,7 @@ Not being able to scale yourself tends to go hand in hand with your team not mee
 
 Inexperienced leaders tend to be hesitant setting expectations. I’ve heard reasons like “servant leadership,” or “I want to give my team enough freedom without setting boundaries,” to “I don’t want to give my team orders on what they should do.”
 
-All these are reasonable things to consider as you’re working out a set of expectations for your team. Setting expectations the wrong way can make your team like you’re micro-managing them.
+All these are reasonable things to consider as you’re working out a set of expectations for your team. Setting expectations the wrong way can make your team feel like you’re micro-managing them.
 
 ## Good expectations focus on context and outcomes
 
