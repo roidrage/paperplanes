@@ -22,7 +22,7 @@ What is strategic work? For instance:
 
 * Thinking about where your team should be three months from now.
 * What processes are missing or need to be tinkered with to make your team more effective.
-* Contributing to broader company or engineering initiatives like strategy or technical decision making.
+* Contributing to broader company or engineering initiatives or technical decision making.
 * Determining hiring needs for the next six months.
 
 Not being able to scale yourself tends to go hand in hand with your team not meeting unwritten expectations. The good news is that there’s a way to help you resolve both.
@@ -57,9 +57,9 @@ How you go about doing this depends on your leadership style, how your team like
 
 When you’re not seeing your team take the initiative and meet your expectations, it’s possible that they’re just waiting for you or someone to either provide them with the answer, or to give them the opportunity to step in.
 
-They might be blocked without knowing it. The surprising effect of setting clear expectations can be that your team is suddenly unblocked and can move forward.
-
 They may not have known who can make a certain decision, where they can discuss a certain topic, or that you want them to make a decision in the first place.
+
+They might be blocked without knowing it. The surprising effect of setting clear expectations can be that your team is suddenly unblocked and can move forward.
 
 ## Expectations help grow new leaders
 
