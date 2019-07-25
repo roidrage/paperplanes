@@ -34,4 +34,4 @@ Lastly, it serves as a record of all feedback I’ve given. This can be useful t
 
 It’s a little thing but sticking to it with some discipline has helped me build up a better habit of giving feedback.
 
-Inspiration for this log came from the Decision Log in Oren Ellenbogen’s book “Leading Snowflakes.”
+Inspiration for this log came from the Decision Log in Oren Ellenbogen’s book [“Leading Snowflakes.”](http://leadingsnowflakes.com)
