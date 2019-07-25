@@ -3,6 +3,7 @@ title: The Feedback Log
 date: 2019-07-25T16:26:46+02:00
 author: Mathias Meyer
 layout: post
+topics: management feedback
 ---
 
 One thing I wanted to a better job at as I took on a new role last year is to be more deliberate in giving feedback. As a German, I tend to fall on the side of only focusing on negative, or constructive feedback. I tend to focus on pointing out what I think should be improved, or what isn’t conclusive. This is quite ingrained in the German work culture.
