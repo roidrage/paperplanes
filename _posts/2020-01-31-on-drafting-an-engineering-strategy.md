@@ -3,6 +3,7 @@ title: On Drafting an Engineering Strategy
 date: 2020-01-31T15:20:14+01:00
 author: Mathias Meyer
 layout: post
+topics: management leadership strategy engineering
 ---
 
 During the first weeks in a new role, one of the things I’ve most recently focused on is to assess the direction of the engineering department as a whole. Will Larson [has written at length about the first ninety days in a senior engineering leadership role](https://lethain.com/first-ninety-days-cto-vpe/). He also mentions documenting the existing strategy as one of the key milestones to take care of.
