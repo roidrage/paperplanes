@@ -5,22 +5,37 @@ title: Contact Mathias
 ---
 <form name="contact" method="POST" data-netlify="true" class="basic-grey">
   <p>
-    <label>Your Name: <input type="text" name="name" /></label>   
+    <label>
+      <span>Your Name:</span>
+      <input type="text" name="name" />
+     </label>   
   </p>
   <p>
-    <label>Your Email: <input type="email" name="email" /></label>
+    <label>
+      <span>Your Email:</span>
+      <input type="email" name="email" />
+    </label>
   </p>
   <p>
-    <label>How can I help?: <select name="reason">
-      <option value="question">I've got a Question</option>
-      <option value="coaching">I'm looking for Coaching</option>
-      <option value="other">Neither</option>
-    </select></label>
+    <label>
+      <span>How can I help?:</span>
+      <select name="reason">
+        <option value="question">Question/Advice</option>
+        <option value="coaching">Interested in Coaching</option>
+        <option value="other">Neither</option>
+      </select>
+     </label>
   </p>
   <p>
-    <label>Message: <textarea name="message"></textarea></label>
+    <label>
+      <span>Message:</span>
+      <textarea name="message"></textarea>
+    </label>
   </p>
   <p>
-    <button type="submit">Send</button>
+    <label>
+      <span></span>
+      <button class="button" type="submit">Send</button>
+    </label>
   </p>
 </form>
