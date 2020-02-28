@@ -323,8 +323,10 @@ li {
 	color: #FFF;
 	box-shadow: 1px 1px 5px #B6B6B6;
 	border-radius: 3px;
-	text-shadow: 1px 1px 1px #9E3F3F;
+	text-shadow: 1px 1px 1px #000000;
 	cursor: pointer;
+    font: normal 14px "Avenir Next", Helvetica, Arial, sans-serif;
+
 }
 .basic-grey .button:hover {
     background: #CF7A7A
