@@ -3,7 +3,7 @@ layout: page
 permalink: /contact/
 title: Contact Mathias
 ---
-<form name="contact" method="POST" data-netlify="true">
+<form name="contact" method="POST" data-netlify="true" class="basic-grey">
   <p>
     <label>Your Name: <input type="text" name="name" /></label>   
   </p>
