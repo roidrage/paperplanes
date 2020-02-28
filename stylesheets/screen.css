@@ -255,7 +255,6 @@ li {
     padding: 25px 15px 25px 10px;
     color: #888;
     text-shadow: 1px 1px 1px #FFF;
-    border:1px solid #E4E4E4;
 }
 .basic-grey h1 {
     font-size: 25px;
@@ -291,18 +290,19 @@ li {
 	outline: 0 none;
 	padding: 3px 3px 3px 5px;
 	width: 70%;
-	font-size: 12px;
 	line-height:15px;
 	box-shadow: inset 0px 1px 4px #ECECEC;
 	-moz-box-shadow: inset 0px 1px 4px #ECECEC;
 	-webkit-box-shadow: inset 0px 1px 4px #ECECEC;
+	font: normal 14px "Avenir Next", Helvetica, Arial, sans-serif;
+
 }
 .basic-grey textarea{
 	padding: 5px 3px 3px 5px;
 }
 .basic-grey select {
-    background: #FFF url('down-arrow.png') no-repeat right;
-    background: #FFF url('down-arrow.png') no-repeat right;
+    background: #FFF url('/images/down-arrow.png') no-repeat right;
+    background: #FFF url('/images/down-arrow.png') no-repeat right;
     appearance:none;
     -webkit-appearance:none; 
     -moz-appearance: none;
