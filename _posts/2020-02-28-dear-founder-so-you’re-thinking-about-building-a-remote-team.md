@@ -1,5 +1,5 @@
 ---
-title: Dear Founder: So You’re Thinking About Building a Remote Team
+title: "Dear Founder: So You’re Thinking About Building a Remote Team"
 date: 2020-02-28T14:58:21+01:00
 author: Mathias Meyer
 layout: post
