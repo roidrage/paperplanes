@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /contact/
+title: Contact Mathias
 ---
 <form name="contact" method="POST" data-netlify="true">
   <p>
