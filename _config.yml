@@ -4,3 +4,5 @@ exclude: [Rakefile, Gemfile, Gemfile.lock, README.markdown, Capfile, bin, s3_web
 paginate: 3
 plugins:
   - jekyll-paginate
+  - jekyll-include-cache
+theme: minimal-mistakes-jekyll
