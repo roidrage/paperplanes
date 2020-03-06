@@ -1,6 +1,6 @@
 ---
 title: What Adopting Blameless Post-Mortems Has Taught Me About Culture
-layout: post
+layout: single
 topics: ops
 ---
 A couple of years ago, I was introduced to the idea and practice of post-mortems

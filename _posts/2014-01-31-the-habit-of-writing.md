@@ -1,7 +1,7 @@
 ---
 title: The Habit of Writing
 topics: writing
-layout: post
+layout: single
 ---
 ![](http://s3itch.paperplanes.de/Untitled_20140114_234759.jpg_20140131_144932.jpg)
 

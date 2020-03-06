@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "ActiveRecord and a custom method_missing"
 topics: rails ruby
 ---

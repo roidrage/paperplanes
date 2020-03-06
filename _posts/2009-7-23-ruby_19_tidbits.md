@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Ruby 1.9 Tidbits
 topics: ruby
 ---

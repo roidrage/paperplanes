@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Daily AWS Wtf and German Rails Conference
 topics: rails aws
 ---

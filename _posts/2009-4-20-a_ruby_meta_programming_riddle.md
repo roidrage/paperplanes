@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: A Ruby Meta-Programming Riddle
 topics: ruby metaprogramming
 ---

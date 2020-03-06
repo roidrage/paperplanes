@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Film is the new Black"
 topics: photography thedailygrind
 ---

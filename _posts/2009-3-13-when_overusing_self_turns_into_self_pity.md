@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: When Overusing self Turns Into self.pity
 topics: ruby
 ---

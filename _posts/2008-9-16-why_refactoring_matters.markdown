@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Why Refactoring Matters"
 topics: bestpractices refactoring
 ---

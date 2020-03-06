@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "MacSanta is Coming to Town"
 topics: macosx
 ---

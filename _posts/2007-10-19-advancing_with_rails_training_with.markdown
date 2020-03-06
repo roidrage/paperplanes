@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "\"Advancing with Rails\" Training with David Black"
 topics: rails ruby
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Migrating a Project to use Rails UTC-based Migrations"
 topics: rails
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Shameless RailsConf Self-Plug"
 topics: railsconf
 ---

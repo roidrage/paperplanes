@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 topics: rspec shoulda testing
 title: The Shoulda RSpec Extravaganza
 ---

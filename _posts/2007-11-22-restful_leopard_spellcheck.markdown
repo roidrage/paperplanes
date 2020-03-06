@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "RESTful Leopard Spell-Check"
 topics: macosx
 ---

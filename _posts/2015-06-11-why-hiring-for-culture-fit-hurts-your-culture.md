@@ -1,6 +1,6 @@
 ---
 title: Why Hiring for "Culture Fit" Hurts Your Culture
-layout: post
+layout: single
 topics: culture
 ---
 There's a term which in the sense of hiring (and firing), is more loaded than

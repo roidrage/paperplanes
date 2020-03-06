@@ -1,7 +1,7 @@
 ---
 title: June Reading List
 topics: reading books
-layout: post
+layout: single
 ---
 I've been on vacation in France for most of June, and that means lots of time to
 read. Originally I planned on reading more on distributed systems, but I had a

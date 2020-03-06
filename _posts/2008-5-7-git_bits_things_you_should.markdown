@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Git Bits: Things you should know about git svn dcommit"
 topics: git thedailygrind
 ---

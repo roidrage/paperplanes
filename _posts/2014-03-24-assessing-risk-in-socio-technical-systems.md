@@ -1,7 +1,7 @@
 ---
 title: On Assessing Risk in Socio-Technical Systems
 topics: risk safety operations
-layout: post
+layout: single
 ---
 I gave a talk about risk and safety in engineering at the DevOps user group in Frankfurt recently.
 

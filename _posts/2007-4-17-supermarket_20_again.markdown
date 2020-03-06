@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Supermarket 2.0"
 topics: miscellany
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Rails 2.0: It's Done"
 topics: rails ruby thedailygrind
 ---

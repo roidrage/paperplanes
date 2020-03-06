@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "ScreencastWeek at Upstream Berlin"
 topics: miscellany
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Best Practices on Rails"
 topics: bestpractices rails railsconf ruby
 ---

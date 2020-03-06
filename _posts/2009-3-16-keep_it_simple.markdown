@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Keep It Simple"
 topics: kiss scaling performance
 ---

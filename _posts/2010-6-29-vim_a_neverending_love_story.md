@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 topics: vim
 title: Vim - A Never-ending Love Story
 ---

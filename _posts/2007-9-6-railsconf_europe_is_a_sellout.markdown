@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "RailsConf Europe is a sell-out"
 topics: rails
 ---

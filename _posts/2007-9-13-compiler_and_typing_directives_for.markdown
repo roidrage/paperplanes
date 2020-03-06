@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Compiler and Typing Directives for Ruby?"
 topics: ruby
 ---

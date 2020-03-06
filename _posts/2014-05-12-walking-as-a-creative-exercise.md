@@ -1,7 +1,7 @@
 ---
 title: Walking as a Creative Exercise
 topics: happiness creativity
-layout: post
+layout: single
 ---
 One of the things I've been committing to doing every day is to either take a
 walk or to go on a bike ride. The goal is to generally get out of the house and

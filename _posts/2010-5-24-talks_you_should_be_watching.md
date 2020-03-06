@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Conference Talks You Should Be Watching
 topics: video rubyish
 ---

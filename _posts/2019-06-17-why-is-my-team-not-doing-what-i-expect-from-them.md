@@ -2,7 +2,7 @@
 title: Why is my team not doing what I expect from them?
 date: 2019-06-17T18:04:37+02:00
 author: Mathias Meyer
-layout: post
+layout: single
 topics: leadership management
 ---
 

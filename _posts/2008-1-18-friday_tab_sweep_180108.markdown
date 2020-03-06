@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Friday Tab Sweep (18.01.08)"
 topics: links rails ruby
 ---

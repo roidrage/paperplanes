@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Announcing Bratwurst On Rails"
 topics: rails ruby
 ---

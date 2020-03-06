@@ -1,7 +1,7 @@
 ---
 title: A Tour of Amazon's DynamoDB
 topics: nosql dynamo amazon
-layout: post
+layout: single
 comments_disabled: true
 ---
 Amazon's [recent

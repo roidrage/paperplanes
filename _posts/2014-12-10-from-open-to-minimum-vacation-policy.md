@@ -1,7 +1,7 @@
 ---
 title: From Open (Unlimited) to Minimum Vacation Policy
 topics: smallbiz, vacation
-layout: post
+layout: single
 ---
 When Travis CI turned into a business with employees, one of our ideas was to
 not constrain people in how much time they take off for vacations. We didn't

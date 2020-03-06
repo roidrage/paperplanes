@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "A Small Gem For Web Development on Mac OS X"
 topics: macosx
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: CouchDB Views The Definitive Guide
 topics: couchdb
 ---

@@ -1,7 +1,7 @@
 ---
 title: "An Inconvenient Caveat about MongoDB's Replica Sets (updated)"
 topics: mongodb replication
-layout: post
+layout: single
 ---
 Update: Read the comments and below. The issue is not as bad as it used to be in the documentation and the original
 design, thankfully.

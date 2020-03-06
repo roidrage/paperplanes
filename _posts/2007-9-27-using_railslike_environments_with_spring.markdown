@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Using Rails-like Environments with Spring"
 topics: java
 ---

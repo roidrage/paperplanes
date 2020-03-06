@@ -1,7 +1,7 @@
 ---
 title: Planning Your Week
 topics: habits
-layout: post
+layout: single
 ---
 Our household recently picked up an interesting habit, one where people tell me
 they couldn't do it, or they just don't work that way.

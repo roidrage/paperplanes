@@ -1,6 +1,6 @@
 ---
 title: Review of my Personal Goals at Travis CI
-layout: post
+layout: single
 topics: goals
 ---
 I posted this on our company-internal blog at [Travis CI](https://travis-ci.com)

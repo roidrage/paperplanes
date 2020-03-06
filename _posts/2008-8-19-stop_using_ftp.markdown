@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Stop Using FTP"
 topics: macosx miscellany
 ---

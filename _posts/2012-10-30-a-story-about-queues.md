@@ -1,6 +1,6 @@
 ---
 title: A Story About Queues in Four Acts
-layout: post
+layout: single
 topics: messaging queues
 ---
 There are queues everywhere. This is the story of a few of them. The names of the

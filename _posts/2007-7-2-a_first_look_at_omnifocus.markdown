@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "A First Look at OmniFocus"
 topics: productivity
 ---

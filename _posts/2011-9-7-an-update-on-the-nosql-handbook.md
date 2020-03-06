@@ -1,7 +1,7 @@
 ---
 title: An Update On The NoSQL Handbook
 topics: nosql books
-layout: post
+layout: single
 ---
 A couple of months ago I set out to write a [book on
 NoSQL](http://nosqlhandbook.com). It's about time I give an update on how it's

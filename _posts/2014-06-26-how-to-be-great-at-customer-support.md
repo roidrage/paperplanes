@@ -1,6 +1,6 @@
 ---
 title: How to be Great at Customer Support
-layout: post
+layout: single
 topics: smallbiz
 ---
 <a href="https://www.flickr.com/photos/ipom/5833220995" title="Portland I by Mathias, on Flickr"><img src="https://farm6.staticflickr.com/5227/5833220995_69690af7b0.jpg" width="600" alt="Portland I"></a>

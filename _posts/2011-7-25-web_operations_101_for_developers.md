@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Web Operations 101 For Developers
 topics: operations
 comments_disabled: true

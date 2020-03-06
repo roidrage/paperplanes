@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Singing the Paypal Subscription Blues"
 topics: paypal rails ruby thedailygrind
 ---

@@ -1,7 +1,7 @@
 ---
 title: February Reading List
 topics: reading
-layout: post
+layout: single
 comments_disabled: true
 ---
 With February almost over, it's time to give you news things to read, or at

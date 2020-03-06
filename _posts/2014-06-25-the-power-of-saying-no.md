@@ -1,6 +1,6 @@
 ---
 title: The Power of Saying No (To Sugar)
-layout: post
+layout: single
 topics: justsayno
 ---
 Over the last couple of weeks, I've been avoiding sugar. Not just avoiding

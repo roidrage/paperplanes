@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "CruiseControl.rb and RSpec Play Nice"
 topics: continuousintegration cruisecontrol rails rspec ruby testing
 ---

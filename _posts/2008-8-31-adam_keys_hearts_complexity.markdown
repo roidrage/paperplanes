@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Adam Keys Hearts Complexity"
 topics: rails railsconf
 ---

@@ -2,7 +2,7 @@
 title: The Feedback Log
 date: 2019-07-25T16:26:46+02:00
 author: Mathias Meyer
-layout: post
+layout: single
 topics: management feedback
 ---
 

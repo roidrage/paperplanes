@@ -1,7 +1,7 @@
 ---
 title: Be Humble, and Get Shit Done!
 topics: productivity humility
-layout: post
+layout: single
 ---
 I had the honor of speaking at [JAOO](http://jaoo.dk), sorry [GOTO](http://gotocon.com), this year. Being part of so
 many great speakers, like James Gosling, Rich Hickey, Martin Fowler, Tim Bray, Michael Nygard, and Dan Ingalls (maker of

@@ -1,6 +1,6 @@
 ---
 title: "What More Do You Need to Start?"
-layout: post
+layout: single
 topics: smallbiz
 ---
 I used to have this beautiful dream that I'd some day open my own coffee shop. 

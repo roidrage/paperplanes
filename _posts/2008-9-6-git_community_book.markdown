@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Git Community Book"
 topics: git
 ---

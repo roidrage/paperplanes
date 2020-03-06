@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "The End of an Era"
 topics: photography polaroid
 ---

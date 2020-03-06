@@ -1,6 +1,6 @@
 ---
 title: The Virtues of Monitoring, Redux
-layout: post
+layout: single
 topics: monitoring operations
 ---
 Two years ago, I wrote about [the virtues of

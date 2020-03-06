@@ -1,6 +1,6 @@
 ---
 title: Monitoring for Humans
-layout: post
+layout: single
 topics: operations monitoring
 ---
 Hi, I'm Mathias, and I'm a developer. Other than a lot of you at this

@@ -1,6 +1,6 @@
 ---
 title: Three Simple yet Incredibly Hard Productivity Tips
-layout: post
+layout: single
 topics: productivity
 ---
 Our working days (even our spare time and holidays) are filled with

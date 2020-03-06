@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 topics: legacy code
 title: There's Something About Legacy Code
 ---

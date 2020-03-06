@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "For The Love of Light"
 topics: photography polaroid thedailygrind
 ---

@@ -1,7 +1,7 @@
 ---
 title: Why You Should Charge For Your Beta Product
 topics: smallbiz
-layout: post
+layout: single
 ---
 There's a curious assumption out there, and it's time to put that assumption to
 rest for good.

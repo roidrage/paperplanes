@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "MarsEdit 2.0 loves Flickr"
 topics: macosx thedailygrind
 ---

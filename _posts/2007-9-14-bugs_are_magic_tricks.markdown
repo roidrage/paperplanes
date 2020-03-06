@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Bugs are Magic Tricks"
 topics: thedailygrind
 ---

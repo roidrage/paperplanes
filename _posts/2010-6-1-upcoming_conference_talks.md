@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Upcoming Conference Talks
 topics: conferences talks
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "TextMate + RubyAMP = Unconditional Love"
 topics: rails rspec ruby textmate
 ---

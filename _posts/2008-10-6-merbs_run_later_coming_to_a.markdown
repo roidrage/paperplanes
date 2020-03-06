@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Merb's run_later Coming to a Thread-safe Rails Near You"
 topics: rails ruby
 ---

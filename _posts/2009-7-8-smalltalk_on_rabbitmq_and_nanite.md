@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Smalltalk on RabbitMQ and Nanite
 topics: ruby messaging rabbitmq
 ---

@@ -1,6 +1,6 @@
 ---
 title: A Short Story on Human Error
-layout: post
+layout: single
 topics: operations humanerror
 ---
 A few weeks back I came across a post that struck home in several ways. ["How I

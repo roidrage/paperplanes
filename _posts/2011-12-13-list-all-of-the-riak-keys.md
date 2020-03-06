@@ -2,7 +2,7 @@
 title: List All of the Riak Keys
 topics: riak nosql
 comments_disabled: true
-layout: post
+layout: single
 ---
 ![Key rack](https://img.skitch.com/20111213-tkydhksqa79dwhc5ikb9n9g14j.png)
 

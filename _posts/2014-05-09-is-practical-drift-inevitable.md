@@ -1,7 +1,7 @@
 ---
 title: Is Practical Drift Inevitable?
 topics: ops humanfactors
-layout: post
+layout: single
 ---
 I've been reading ["Thinking, Fast and Slow"](http://amzn.to/1dktFuE), which is an interesting exploration of how the mind works. The book introduces two systems that make up how we think.
 

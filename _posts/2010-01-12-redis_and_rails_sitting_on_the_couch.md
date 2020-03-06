@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Redis and Rails sitting on the Couch
 topics: rails redis couchdb
 ---

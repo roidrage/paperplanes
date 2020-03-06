@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: When To Redis
 topics: nosql redis
 ---

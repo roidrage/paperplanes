@@ -1,7 +1,7 @@
 ---
 title: Fun with Ruby Block Parameters
 topics: ruby blocks
-layout: post
+layout: single
 comments_disabled: true
 ---
 I always forget what kinds of crazy things you can do with Ruby's blocks and

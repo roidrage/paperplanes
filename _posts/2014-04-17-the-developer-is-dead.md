@@ -1,7 +1,7 @@
 ---
 title: The Developer is Dead, Long Live the Developer
 topics: devops
-layout: post
+layout: single
 ---
 I came across an article called ["How DevOps is Killing the Developer."](http://jeffknupp.com/blog/2014/04/15/how-devops-is-killing-the-developer/) It mourns the rise of DevOps and an ever increasing set of skills a developer has to have to work in the resource-constrained environment of a startup. The assumption is that a developer has to fill all these roles even though his position is at the top of the company's hierarchy and no one else can do what they can.
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Abandon Ship!"
 topics: freelancing miscellany
 ---

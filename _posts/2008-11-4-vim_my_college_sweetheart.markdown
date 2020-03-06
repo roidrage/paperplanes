@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Vim - My College Sweetheart"
 topics: macosx rails thedailygrind
 ---

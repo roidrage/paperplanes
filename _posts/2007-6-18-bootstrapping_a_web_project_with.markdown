@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Bootstrapping a Web Project with Java and Rails"
 topics: java rails
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Catching Up"
 topics: miscellany
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 topics: api development bestpractices
 title: How Not To Design An API
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "RubyFX Script Announced"
 topics: ruby
 ---

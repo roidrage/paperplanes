@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "A Fix for Rails 1.2"
 topics: rails ruby
 ---

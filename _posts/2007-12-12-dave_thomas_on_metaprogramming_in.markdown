@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Dave Thomas on MetaProgramming in Ruby"
 topics: ruby
 ---

@@ -2,7 +2,7 @@
 title: On Drafting an Engineering Strategy
 date: 2020-01-31T15:20:14+01:00
 author: Mathias Meyer
-layout: post
+layout: single
 topics: management leadership strategy engineering
 ---
 

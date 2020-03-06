@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Form Objects with ActiveModel
 topics: rails web
 ---

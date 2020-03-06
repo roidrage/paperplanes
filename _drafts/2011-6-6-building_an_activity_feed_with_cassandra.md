@@ -1,7 +1,7 @@
 ---
 title: Building an Activity Feed with Cassandra
 topics: cassandra nosql ruby
-layout: post
+layout: single
 ---
 In a [recent talk about Redis, Riak and Cassandra](http://nosql-railswaycon-2011.heroku.com/) I showed an example of how
 Cassandra can be used to build an activity feed. After some more investigation it became obvious to me that it was not

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Bratwurst On Rails 2008"
 topics: railsconf
 ---

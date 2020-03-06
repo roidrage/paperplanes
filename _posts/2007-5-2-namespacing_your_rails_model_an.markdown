@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Namespacing Your Rails Model - An Afterthought"
 topics: rails ruby
 ---

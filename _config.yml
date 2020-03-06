@@ -1,4 +1,4 @@
-markdown: redcarpet
+markdown: kramdown
 permalink: /:year/:i_month/:i_day/:title.html
 exclude: [Rakefile, Gemfile, Gemfile.lock, README.markdown, Capfile, bin, s3_website.yml, tmp]
 paginate: 3
@@ -6,3 +6,33 @@ plugins:
   - jekyll-paginate
   - jekyll-include-cache
 theme: minimal-mistakes-jekyll
+masthead_title: Mathias Meyer
+minimal_mistakes_skin: dirt
+title: Mathias meyer
+atom_feed: /feed.xml
+search: false
+twitter:
+  username: roidrage
+
+author:
+  name: "Mathias Meyer"
+  location: "Berlin, Germany"
+
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/roidrage"
+
+words_per_minute: 200
+url: "https://www.paperplanes.de"
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      related: true

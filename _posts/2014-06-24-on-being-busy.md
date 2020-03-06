@@ -1,6 +1,6 @@
 ---
 title: Being Busy, Distractions and Just One More Retweet
-layout: post
+layout: single
 topics: life
 ---
 Thanks to the internet and the wild things our mobile devices can now do, we can

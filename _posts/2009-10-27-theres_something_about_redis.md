@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: There's Something About Redis
 topics: redis nosql
 ---

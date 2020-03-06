@@ -1,7 +1,7 @@
 ---
 topics: nosql documents databases schema
 title: Relational Data, Document Databases and Schema Design
-layout: post
+layout: single
 ---
 By now it should be obvious that I'm quite fond of alternatives data stores (call them NoSQL if you must). I've given
 quite a [few talks](http://www.paperplanes.de/2010/6/22/june_a_month_of_conferences.html) on the subjects recently, and

@@ -1,7 +1,7 @@
 ---
 title: Only The Simplest Tools
 topics: simplicity coffee
-layout: post
+layout: single
 ---
 Over the past couple of years, there's been a curious trend in the world of
 coffee. While espresso is still a thing of expensive machinery to get the most

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 topics: nosql mongodb redis talks
 title: June - A Month of Conferences
 ---

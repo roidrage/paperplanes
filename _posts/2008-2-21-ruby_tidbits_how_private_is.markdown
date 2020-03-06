@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Ruby Tidbits: How Private is Private?"
 topics: ruby
 ---

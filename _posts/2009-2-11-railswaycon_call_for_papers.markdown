@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "RailsWayCon: Call For Papers"
 topics: rails conferences
 ---

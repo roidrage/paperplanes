@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Microsoft announces IronRuby"
 topics: ruby
 ---

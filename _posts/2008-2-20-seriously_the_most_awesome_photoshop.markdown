@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Seriously the Most Awesome Photoshop Tutorials Ever"
 topics: miscellany
 ---

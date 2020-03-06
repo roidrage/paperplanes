@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Write Tests for even the Smallest Projects"
 topics: rails testing
 ---

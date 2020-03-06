@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Random Rails Links"
 topics: links rails ruby
 ---

@@ -1,6 +1,6 @@
 ---
 title: An Alternate Reality for Startups
-layout: post
+layout: single
 topics: startups
 ---
 A reality where success isn't measured in the amount of funding rounds or size

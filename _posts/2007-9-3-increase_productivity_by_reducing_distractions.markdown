@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Increase Productivity by Reducing Distractions"
 topics: macosx productivity
 ---

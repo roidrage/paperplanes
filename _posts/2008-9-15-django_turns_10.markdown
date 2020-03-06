@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Django turns 1.0"
 topics: python
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Continuous Integration for Ruby and Rails"
 topics: rails ruby
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "The Perils of Using final"
 topics: java thedailygrind
 ---

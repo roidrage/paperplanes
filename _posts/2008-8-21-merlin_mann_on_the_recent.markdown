@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Merlin Mann on the recent Gmail Outage"
 topics: productivity
 ---

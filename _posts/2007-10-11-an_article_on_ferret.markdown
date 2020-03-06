@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "An Article on Ferret"
 topics: rails ruby
 ---

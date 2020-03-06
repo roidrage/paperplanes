@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Why Coding Guidelines Don't Matter"
 topics: bestpractices
 ---

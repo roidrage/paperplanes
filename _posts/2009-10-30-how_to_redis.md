@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: How To Redis
 topics: redis
 ---

@@ -1,7 +1,7 @@
 ---
 title: Small Business Never Gets Boring
 topics: smallbiz
-layout: post
+layout: single
 ---
 Things that have been on my mind lately:
 

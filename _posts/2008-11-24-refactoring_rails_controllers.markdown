@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Refactoring Rails Controllers"
 topics: bestpractices rails refactoring ruby testing
 ---

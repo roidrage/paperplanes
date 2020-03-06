@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Serializing Data with ActiveMessaging and Filters"
 topics: activemessaging asynchronous rails ruby
 ---

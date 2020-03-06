@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "MySQL No-Nos: ORDER BY RAND()"
 topics: mysql thedailygrind
 ---

@@ -1,6 +1,6 @@
 ---
 title: The New Technology Fallacy
-layout: post
+layout: single
 topics: smallbiz technology
 ---
 When we set out to build our first product ([Scalarium](https://scalarium.com),

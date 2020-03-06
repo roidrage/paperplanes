@@ -1,6 +1,6 @@
 ---
 title: The Fear of Saying No
-layout: post
+layout: single
 topics: smallbiz
 ---
 For a startup or a small biz in its infancy, every opportunity looks like a pot

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Raising Test-Awareness"
 topics: testing
 ---

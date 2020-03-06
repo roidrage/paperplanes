@@ -1,6 +1,6 @@
 ---
 title: You Can't Replicate Culture
-layout: post
+layout: single
 topics: management culture
 ---
 Listening to the [“This American Life” episode on the GM/Toyota NUMMI plant](http://www.thisamericanlife.org/radio-archives/episode/403/nummi) recently, one particular part struck me as interesting when it comes to culture.

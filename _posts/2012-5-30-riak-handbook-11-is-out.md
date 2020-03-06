@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Riak Handbook 1.1 is out!
 topics: riak handbook nosql
 ---

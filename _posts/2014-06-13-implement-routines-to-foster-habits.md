@@ -1,6 +1,6 @@
 ---
 title: Implement Routines to Foster Habits
-layout: post
+layout: single
 topics: productivity
 ---
 I've been trying to implement daily habits over the past couple of months.

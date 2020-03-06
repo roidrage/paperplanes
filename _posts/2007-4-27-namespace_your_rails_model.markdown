@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Namespace Your Rails Model"
 topics: rails ruby
 ---

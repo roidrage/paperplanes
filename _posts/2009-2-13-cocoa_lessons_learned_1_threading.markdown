@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Cocoa Lessons Learned #1: Threading is Hard"
 topics: cocoa objective-c iphone
 ---

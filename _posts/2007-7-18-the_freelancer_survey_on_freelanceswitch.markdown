@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "The Freelancer Survey on FreelanceSwitch"
 topics: freelancing
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Megazoomer Full-Screens your Mac Applications"
 topics: macosx
 ---

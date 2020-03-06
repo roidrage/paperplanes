@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "JetBrains Releases RubyMine"
 topics: rails ruby
 ---

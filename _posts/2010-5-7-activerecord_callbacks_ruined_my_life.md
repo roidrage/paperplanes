@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: ActiveRecord's Callbacks Ruined My Life
 topics: rails rest
 ---

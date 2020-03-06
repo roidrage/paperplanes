@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Remembering super
 topics: ruby
 ---

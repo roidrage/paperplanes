@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Notes on MongoDB
 topics: nosql mongodb
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Review: \"Continuous Integration: Improving Software Quality and Reducing Risks\""
 topics: books continuousintegration
 ---

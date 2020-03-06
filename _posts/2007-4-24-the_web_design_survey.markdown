@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "The Web Design Survey"
 topics: web
 ---

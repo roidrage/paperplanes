@@ -1,6 +1,6 @@
 ---
 title: The Smallest Distributed System
-layout: post
+layout: single
 topics: distributedsystems, travisci
 ---
 [Travis CI](https://travis-ci.org) started out as an idea, an ideal even. Before

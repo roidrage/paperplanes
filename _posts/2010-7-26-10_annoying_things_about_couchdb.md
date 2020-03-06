@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 topics: couchdb
 title: "10 Annoying Things About CouchDB"
 ---

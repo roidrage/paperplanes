@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Mocking Is So 2008
 topics: testing bdd mocking
 ---

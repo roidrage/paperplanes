@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Spring's New Maintenance Policy"
 topics: miscellany
 ---

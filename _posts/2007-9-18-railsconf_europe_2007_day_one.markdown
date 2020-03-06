@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "RailsConf Europe 2007 Day One"
 topics: rails railsconf ruby thedailygrind
 ---

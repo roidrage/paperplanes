@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Caching Strategies for CouchDB
 topics: couchdb nosql caching databases
 ---

@@ -1,7 +1,7 @@
 ---
 title: Coffee and the Art of Customer Happiness
 topics: coffee customers
-layout: post
+layout: single
 ---
 This essay is an extended version of a talk I gave at [Paperless
 Post](http://www.paperlesspost.com) about coffee and customer happiness. While

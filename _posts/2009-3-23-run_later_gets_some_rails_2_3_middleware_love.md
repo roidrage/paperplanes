@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: run_later Gets Some Rails 2.3 Middleware Love
 topics: run_later rails rack
 ---

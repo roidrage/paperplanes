@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Deploying in a chroot Environment with Capistrano"
 topics: rails ruby
 ---

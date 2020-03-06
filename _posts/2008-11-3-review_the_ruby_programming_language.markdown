@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Review: The Ruby Programming Language"
 topics: books ruby
 ---

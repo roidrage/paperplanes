@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Review: Working Effectively With Legacy Code"
 topics: books
 ---

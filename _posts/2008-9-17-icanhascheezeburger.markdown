@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "\"i\".can.has?(\"cheezeburger\")"
 topics: ruby
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Storing Images with Oracle and Hibernate"
 topics: java oracle
 ---

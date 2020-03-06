@@ -1,6 +1,6 @@
 ---
 title: Running a Small Business is...
-layout: post
+layout: single
 topics: smallbiz
 ---
 For more than a year I've worked (with an awesome team) on taking Travis CI from

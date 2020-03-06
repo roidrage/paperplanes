@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Rails 2.2 To Be Thread-Safe"
 topics: rails
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: The Curious Case Of The Bang Method
 topics: ruby
 ---

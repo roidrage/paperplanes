@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Mocha and RSpec Don't Play Nice"
 topics: mocks rails rspec ruby testing
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Friday Links (14.12.07)"
 topics: links rails ruby
 ---

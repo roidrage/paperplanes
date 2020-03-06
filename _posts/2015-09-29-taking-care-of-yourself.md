@@ -1,7 +1,7 @@
 ---
 title: Taking Care of Business, Taking Care of Yourself
 topic: growth happiness
-layout: post
+layout: single
 ---
 About a year ago, while hanging out with people from a friendly company in San Francisco, one of their junior people asked me a seemingly simple question: “What do you do for fun?”
 

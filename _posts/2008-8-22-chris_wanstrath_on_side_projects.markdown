@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Chris Wanstrath on Side Projects"
 topics: git miscellany ruby
 ---

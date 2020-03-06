@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "10 Things I've been Doing Lately"
 topics: 10things miscellany
 ---

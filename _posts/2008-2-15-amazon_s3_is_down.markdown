@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Amazon S3 is Down"
 topics: miscellany
 ---

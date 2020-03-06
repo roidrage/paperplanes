@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "For The Love Of Light: The Book"
 topics: books photography polaroid
 ---

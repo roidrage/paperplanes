@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "ObjectiveResource: It's Like ActiveResource For Cocoa"
 topics: objective-c cocoa iphone
 ---

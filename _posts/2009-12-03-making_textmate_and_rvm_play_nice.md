@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Making TextMate And rvm Play Nice
 topics: ruby textmate
 ---

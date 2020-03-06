@@ -1,7 +1,7 @@
 ---
 title: "The Most Important Thing About 1:1s (and Building Trust)"
 topics: leadership
-layout: post
+layout: single
 ---
 Slightly more than a year ago, I had no idea what a 1:1 is let alone what purpose it’s serves. The idea of talking to one of our team member seemed so foreign at a time when we structured our team around individual autonomy and the assumption that people will speak up when something’s up.
 

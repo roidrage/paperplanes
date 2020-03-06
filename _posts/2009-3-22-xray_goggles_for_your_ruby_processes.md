@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: XRay Goggles For Your Ruby Processes
 topics: ruby monitoring
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 comments_disabled: true
 topics: infrastructure monitoring
 title: The Virtues of Monitoring

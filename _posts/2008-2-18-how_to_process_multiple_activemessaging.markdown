@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "How to Process Multiple ActiveMessaging Queues Concurrently"
 topics: activemessaging asynchronous rails ruby
 ---

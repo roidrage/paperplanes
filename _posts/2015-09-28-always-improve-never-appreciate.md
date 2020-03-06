@@ -1,7 +1,7 @@
 ---
 title: "Always Improve, Never Stop, Never Pause, Never Appreciate"
 topics: growth, happiness
-layout: post
+layout: single
 ---
 
 Building out a company and a business has been my greatest challenge so far. The company’s mission is built around continuous integration and continuous improvement, the constant drive of always getting better at what you do.

@@ -1,7 +1,7 @@
 ---
 title: Five Habits of an Introverted Leader
 topics: growth leadership
-layout: post
+layout: single
 ---
 Being an introverted person in a leadership position is challenging. The one thing that exhaust you the most is now your main focus, interacting with people.
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Things to Do in 2009"
 topics: miscellany
 ---

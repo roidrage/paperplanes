@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Do Java's Date Classes Make Any Sense?"
 topics: java thedailygrind
 ---

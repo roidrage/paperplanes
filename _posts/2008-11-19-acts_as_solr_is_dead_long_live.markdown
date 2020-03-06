@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "acts_as_solr is Dead, Long Live acts_as_solr"
 topics: rails
 ---

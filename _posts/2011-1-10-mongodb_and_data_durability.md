@@ -2,7 +2,7 @@
 title: MongoDB, Data Durability and Improvements coming in 1.8
 topics: mongodb databases nosql durability
 comments_disabled: true
-layout: post
+layout: single
 ---
 Last weekend I [tweeted two links](http://twitter.com/#!/roidrage/status/23779182852968449) to
 [two](http://twitter.com/#!/mikemaccana/status/23397112360206337)

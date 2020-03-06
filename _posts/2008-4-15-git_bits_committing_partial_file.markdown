@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Git Bits: Committing Partial File Changes"
 topics: git
 ---

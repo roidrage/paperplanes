@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: A Collection Of Redis Use Cases
 topics: nosql redis
 ---

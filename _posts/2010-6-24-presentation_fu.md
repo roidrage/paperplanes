@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 topics: presentations conferences
 title: Presentation Fu
 ---

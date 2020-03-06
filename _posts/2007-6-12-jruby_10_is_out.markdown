@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "JRuby 1.0 is out"
 topics: rails ruby
 ---

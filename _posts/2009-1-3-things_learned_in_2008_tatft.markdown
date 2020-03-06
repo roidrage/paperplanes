@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Things Learned in 2008: TATFT"
 topics: miscellany
 ---

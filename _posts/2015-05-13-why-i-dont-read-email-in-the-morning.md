@@ -1,7 +1,7 @@
 ---
 title: "Why I Don't Read Email in the Morning"
 topics: productivity
-layout: post
+layout: single
 ---
 Early mornings are pristine, they're my favorite time of the day. As the sun
 keeps coming up earlier and earlier, I find myself waking up at 6. Rather than

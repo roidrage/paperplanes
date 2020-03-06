@@ -1,7 +1,7 @@
 ---
 title: Git Commit Messages as a Timeline of Reasoning
 topics: git development
-layout: post
+layout: single
 ---
 We're now more than two years into building, maintaining and growing the code
 base for [Travis CI](https://travis-ci.org). A lot has happened in the code

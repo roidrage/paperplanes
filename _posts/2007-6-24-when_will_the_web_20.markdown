@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "When Will the Web 2.0 Bubble Burst?"
 topics: web
 ---

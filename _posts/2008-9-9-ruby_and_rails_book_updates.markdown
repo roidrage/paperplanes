@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Ruby and Rails Book Updates"
 topics: books
 ---

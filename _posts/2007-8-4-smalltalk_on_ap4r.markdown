@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Smalltalk on AP4R"
 topics: rails ruby
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Why Code Metrics Don't Matter"
 topics: bestpractices
 ---

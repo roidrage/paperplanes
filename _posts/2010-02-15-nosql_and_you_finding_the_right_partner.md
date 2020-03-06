@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: NoSQL And You - Thoughts On Finding Right Partner In Chrime
 topics: nosql
 ---

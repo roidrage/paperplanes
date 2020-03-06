@@ -1,6 +1,6 @@
 ---
 title: EventMachine, How Does It Work?
-layout: post
+layout: single
 topics: ruby eventmachine networking nodejs
 comments_disabled: true
 ---

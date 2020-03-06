@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "CruiseControl in your Menu Bar"
 topics: continuousintegration cruisecontrol macosx
 ---
