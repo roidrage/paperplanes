@@ -1,9 +1,8 @@
 ---
 title: "Dear Founder: Things To Consider When Building a Remote Team"
 date: 2020-02-28T14:58:21+01:00
-author: Mathias Meyer
 layout: single
-topics: remote startups
+tags: remote startups
 ---
 
 Every now and then a fellow founder approaches me looking for advice. The topics range from pricing, positioning products, to building and growing teams. Or in this case, they are questions about what to consider when you’re looking to go remote.

@@ -1,5 +1,4 @@
 ---
-title: "Leadership Coaching"
 layout: single
 permalink: /leadership-coaching/
 ---

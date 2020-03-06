@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 permalink: /subscribe/
 title: Subscribe to Stay Up-to-date
 ---

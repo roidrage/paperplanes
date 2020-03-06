@@ -8,7 +8,7 @@ plugins:
 theme: minimal-mistakes-jekyll
 masthead_title: Mathias Meyer
 minimal_mistakes_skin: dirt
-title: Mathias meyer
+title: Mathias Meyer
 atom_feed: /feed.xml
 search: false
 twitter:
@@ -17,6 +17,12 @@ twitter:
 author:
   name: "Mathias Meyer"
   location: "Berlin, Germany"
+  email: "meyer@paperplanes.de"
+  avatar: /images/mathias_meyer_square.jpg
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/roidrage"
 
 footer:
   links:
@@ -36,3 +42,5 @@ defaults:
       author_profile: true
       read_time: true
       related: true
+
+locale: en-US
