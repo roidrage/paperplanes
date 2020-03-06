@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 permalink: /contact/
 title: Contact Mathias
 ---

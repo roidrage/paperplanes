@@ -5,11 +5,11 @@ paginate: 3
 plugins:
   - jekyll-paginate
   - jekyll-include-cache
+  - jekyll-archives
 theme: minimal-mistakes-jekyll
 masthead_title: Mathias Meyer
-minimal_mistakes_skin: dirt
 title: Mathias Meyer
-atom_feed: /feed.xml
+atom_feed: /atom.xml
 search: false
 twitter:
   username: roidrage
@@ -17,18 +17,26 @@ twitter:
 author:
   name: "Mathias Meyer"
   location: "Berlin, Germany"
-  email: "meyer@paperplanes.de"
   avatar: /images/mathias_meyer_square.jpg
+  bio: "Engineering Leader, Executive Coach for Tech Leaders and CTOs"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/roidrage"
+    - label: "Contact Me"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "/contact/"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/roidrage"
+    - label: "Contact Me"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "/contact/"
+    - label: "Legal"
+      url: "/legal/"
 
 words_per_minute: 200
 url: "https://www.paperplanes.de"
@@ -44,3 +52,15 @@ defaults:
       related: true
 
 locale: en-US
+
+tag_archive:
+  type: jekyll-archives
+  path: /tags/
+
+jekyll-archives:
+  enabled:
+    - tags
+  layouts:
+    tag: archive-taxonomy
+  permalinks:
+    tag: /tags/:name/
