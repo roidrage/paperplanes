@@ -14,7 +14,8 @@ search: false
 twitter:
   username: roidrage
 
-minimal_mistakes_skin: air
+minimal_mistakes_skin: contrast
+search: true
 
 author:
   name: "Mathias Meyer"
