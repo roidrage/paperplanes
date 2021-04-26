@@ -4,7 +4,13 @@
 
 @charset "utf-8";
 
-$paragraph-indent: true;
+$paragraph-indent: false;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+h2 {
+  a {
+    text-decoration: none;
+  }
+}
