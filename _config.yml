@@ -50,6 +50,7 @@ defaults:
       author_profile: true
       read_time: true
       related: true
+      classes: wide
 
 locale: en-US
 
