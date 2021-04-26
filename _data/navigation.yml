@@ -1,7 +1,7 @@
 main:
-  - title: "Home"
-    url: "/"
   - title: "About Me"
     url: "/about-me/"
-  - title: "The Intentional Organization"
+  - title: "Coaching"
+    url: "/coaching/"
+  - title: "My Book: The Intentional Organization"
     url: "https://intentionalorganization.com"

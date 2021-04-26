@@ -7,8 +7,8 @@ plugins:
   - jekyll-include-cache
   - jekyll-archives
 theme: minimal-mistakes-jekyll
-masthead_title: Mathias Meyer
-title: Mathias Meyer
+masthead_title: Home
+title: Mathias Meyer - Executive Leadership Coach
 atom_feed: /atom.xml
 search: false
 twitter:
