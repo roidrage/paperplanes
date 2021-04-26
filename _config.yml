@@ -20,7 +20,7 @@ author:
   name: "Mathias Meyer"
   location: "Berlin, Germany"
   avatar: /images/mathias_meyer_square.jpg
-  bio: "Engineering Leader, Executive Coach for Tech Leaders and CTOs"
+  bio: "Executive Leadership Coach to Founders and CTOs"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -28,6 +28,9 @@ author:
     - label: "Contact Me"
       icon: "fas fa-fw fa-envelope-square"
       url: "/contact/"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/mathias-meyer-50a753aa/"
 
 footer:
   links:
