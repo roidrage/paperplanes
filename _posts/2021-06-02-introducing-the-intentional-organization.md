@@ -1,6 +1,6 @@
 ---
 title: "Introducing: The Intentional Organization"
-date: 2021-02-06
+date: 2021-06-02
 author: Mathias Meyer
 layout: post
 topics: book coaching "the intentional organization"
