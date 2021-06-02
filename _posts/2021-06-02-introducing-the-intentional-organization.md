@@ -5,7 +5,7 @@ author: Mathias Meyer
 layout: post
 topics: book coaching "the intentional organization"
 ---
-# Introducing: The Intentional Organization
+![](https://intentionalorganization.com/img/ba3bd4a2-1200.png)
 
 Today, my business partner and former CEO, [Sara Hicks](https://twitter.com/saralouhicks), and myself, are thrilled to introduce our new venture: The Intentional Organization, a coaching practice and a forthcoming book.
 
