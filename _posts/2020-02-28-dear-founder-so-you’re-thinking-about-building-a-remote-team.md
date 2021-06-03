@@ -3,13 +3,15 @@ title: "Dear Founder: Things To Consider When Building a Remote Team"
 date: 2020-02-28T14:58:21+01:00
 layout: post
 tags: remote startups
+excerpt: "Every now and then a fellow founder approaches me looking for advice. The topics range from pricing, positioning products, to building and growing teams. Or in this case, they are questions about what to consider when you’re looking to go remote. A founder building a startup in Europe recently asked me for advice on building a remote team. I’ve been working in distributed teams for ten years now. Those teams have spanned from Europe to the US west coast. Sometimes they went beyond that, covering almost 24 hours of timezones."
 ---
-
 Every now and then a fellow founder approaches me looking for advice. The topics range from pricing, positioning products, to building and growing teams. Or in this case, they are questions about what to consider when you’re looking to go remote.
 
 A founder building a startup in Europe recently asked me for advice on building a remote team.
 
 I’ve been working in distributed teams for ten years now. Those teams have spanned from Europe to the US west coast. Sometimes they went beyond that, covering almost 24 hours of timezones.
+
+<!--more-->
 
 Here I focus on those downsides more than I do on the general advantages of working in a remote team. They tend to be things that founders and business don’t really focus on when building remote teams. For instance, thinking about how it impacts the individuals in your team and their personal and work lives.
 

@@ -1,7 +1,7 @@
 ---
 title: Why is my team not doing what I expect from them?
 date: 2019-06-17T18:04:37+02:00
-
+excerpt: "Leaders who find themselves wondering why their teams aren’t making important decisions on their own tend to be leaders who are constantly pulled into many different discussions. Their calendars are filled to the brim, leaving little time for longer term work. This can seem like you’re contributing as a manager, like you’re doing important work and keeping yourself busy. It also means that you’ll have less time to focus on strategic work. "
 layout: post
 tags: leadership management
 ---
@@ -67,7 +67,7 @@ There’s another benefit from setting clear expectations for your team and then
 
 ## Setting expectations helps you scale
 
-Delegating more work to your team has a benefit for you as their manager too. Instead of always bringing them the answers, you step out of a cycle. Your team gets used to coming to you for answers and decisions because you always provide them. 
+Delegating more work to your team has a benefit for you as their manager too. Instead of always bringing them the answers, you step out of a cycle. Your team gets used to coming to you for answers and decisions because you always provide them.
 
 Instead you focus on setting the right context and the outcomes rather than be involved in the discussion and decision making. That gives you more time to focus on other things.
 

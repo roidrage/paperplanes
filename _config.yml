@@ -12,9 +12,6 @@ theme: jekyll-theme-so-simple
 masthead_title: Home
 title: "Mathias Meyer - Leadership Coaching"
 description: "Executive leadership coach to founders, executives, and entrepreneurs."
-atom_feed: /atom.xml
-feed:
-  path: /atom.xml
 twitter:
   username: roidrage
 
@@ -63,17 +60,5 @@ defaults:
       share: false
 
 locale: en-US
-
-tag_archive:
-  type: jekyll-archives
-  path: /tags/
-
-jekyll-archives:
-  enabled:
-    - tags
-  layouts:
-    tag: archive-taxonomy
-  permalinks:
-    tag: /tags/:name/
 
 copyright: 2007-2021 Mathias Meyer
