@@ -1,0 +1,16 @@
+{% if page.masthead == true %}
+<header class="masthead">
+  <div class="wrap">
+    <a href="/" class="site-logo" rel="home" title="{{ site.title }}">
+      <img src="{{ site.logo }}" class="site-logo-img animated fadeInDown" alt="{{ site.title }}">
+    </a>
+
+    <div class="site-title animated fadeIn"><a href="/">{{ site.title }}</a></div>
+
+    <p class="site-description animated fadeIn" itemprop="description">{{ site.description }}</p>
+
+  </div>
+</header>
+{% else %}
+<p></p>
+{% endif %}

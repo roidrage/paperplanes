@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-<img src="https://intentionalorganization.com/img/4a7e5de4-400.jpeg" class="align-right" width="300" alt="">
+<img src="https://intentionalorganization.com/img/4a7e5de4-400.jpeg" class="align-right" style="border-radius: 50%;" width="300" alt="">
 
 Mathias is an executive leadership coach and advisor to founders and CTOs. He started his career as an engineer who was mostly good at debugging and fixing production code and keeping things up and running. Over the years as an engineer, he also built up an interest in company culture, organization behaviours and psychology, and what it means to build companies where great products come first and foremost from people who are nurtured, supported, and able to contribute broadly.
 

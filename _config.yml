@@ -1,4 +1,3 @@
-markdown: kramdown
 permalink: /:year/:i_month/:i_day/:title.html
 exclude: [Rakefile, Gemfile, Gemfile.lock, README.markdown, Capfile, bin, s3_website.yml, tmp]
 paginate: 5
@@ -10,8 +9,9 @@ plugins:
   - jekyll-archives
 theme: jekyll-theme-so-simple
 masthead_title: Home
-title: "Mathias Meyer - Leadership Coaching"
-description: "Executive leadership coach to founders, executives, and entrepreneurs."
+title: "Mathias Meyer"
+logo: "https://intentionalorganization.com/img/a3ded2d0-400.jpeg"
+description: "Executive leadership coaching for founders, executives, and entrepreneurs<br/>based on inclusion, clarity, and learning."
 twitter:
   username: roidrage
 

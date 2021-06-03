@@ -1,4 +1,5 @@
-
+- title: "Home"
+  url: "/"
 - title: "About Me"
   url: "/about.html"
 - title: "Archives"
