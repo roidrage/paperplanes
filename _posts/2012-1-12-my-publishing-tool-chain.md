@@ -1,7 +1,7 @@
 ---
 title: My Publishing Tool Chain
-topics: writing publishing tools
-layout: single
+tags: writing publishing tools
+layout: post
 comments_disabled: true
 ---
 Update: Added paragraph on the [e-commerce platform](#fulfillment) I'm using.

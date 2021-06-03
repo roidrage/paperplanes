@@ -1,7 +1,7 @@
 ---
 title: Running a Small Business is...
-layout: single
-topics: smallbiz
+layout: post
+tags: smallbiz
 ---
 For more than a year I've worked (with an awesome team) on taking Travis CI from
 an [continuous integration platform for open source

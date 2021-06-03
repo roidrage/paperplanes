@@ -1,7 +1,7 @@
 ---
 title: Monitoring for Humans
-layout: single
-topics: operations monitoring
+layout: post
+tags: operations monitoring
 ---
 Hi, I'm Mathias, and I'm a developer. Other than a lot of you at this
 conference, I'm far from being a monitoring expert. If anything, I'm a user, a

@@ -1,7 +1,7 @@
 ---
 title: What Adopting Blameless Post-Mortems Has Taught Me About Culture
-layout: single
-topics: ops
+layout: post
+tags: ops
 ---
 A couple of years ago, I was introduced to the idea and practice of post-mortems
 through a talk by [John Allspaw](http://kitchensoap.com). I do owe him a lot,

@@ -1,7 +1,7 @@
 ---
 title: The Virtues of Monitoring, Redux
-layout: single
-topics: monitoring operations
+layout: post
+tags: monitoring operations
 ---
 Two years ago, I wrote about [the virtues of
 monitoring](/2011/1/5/the_virtues_of_monitoring.html). A lot has changed, a lot

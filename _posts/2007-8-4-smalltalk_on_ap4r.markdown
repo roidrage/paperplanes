@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "Smalltalk on AP4R"
-topics: rails ruby
+tags: rails ruby
 ---
 After playing around with [AP4R](http://ap4r.rubyforge.org/wiki/wiki.pl?HomePage), the new kid on the asynchronous Ruby block, for a little while, I held a small presentation at last week's meeting of the [Ruby User Group Berlin](http://www.rug-b.com). While it is more of an introduction than a field report I put up the [slides as PDF](http://www.paperplanes.de/files/AP4R.pdf) anyway.
 

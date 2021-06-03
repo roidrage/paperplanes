@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "10 Things I've been Doing Lately"
-topics: 10things miscellany
+tags: 10things miscellany
 ---
 1. Integrating [Ferret](http://ferret.davebalmain.com/trac), a very nice search engine for Ruby, in a project with [acts\_as\_ferret](http://projects.jkraemer.net/acts_as_ferret/wiki).
 2. [Learning ten finger typing](http://www.paperplanes.de/archives/2007/7/23/learning_ten_finger_typing/).

@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: Upcoming Conference Talks
-topics: conferences talks
+tags: conferences talks
 ---
 June is a busy month when it comes to me speaking at conferences, you should drop by at least one of my talks, if you're
 in the area.

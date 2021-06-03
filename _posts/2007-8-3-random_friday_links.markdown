@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "Random Friday Links"
-topics: links miscellany
+tags: links miscellany
 ---
  * [WestCIV](http://www.westciv.com/), makers of the fabulous [Style Master CSS Editor](http://www.westciv.com/style_master/index.html), introduced a neat tool called [XRAY](http://www.westciv.com/xray/index.html) to inspect any website in your browser without any extra tools. While I'm perfectly aware that FireBug can do that too, let me just state that I don't use Firefox as my main browser. XRAY might come in pretty handy, if you don't have the tools you normally use, at hand.
  * [Amy Newell](http://www.thirdbit.net/) sums up [10 things you should know about method_missing](http://www.thirdbit.net/articles/2007/08/01/10-things-you-should-know-about-method_missing/) rather nicely.

@@ -1,7 +1,7 @@
 ---
 title: A Plea for Client Library Instrumentation
-topics: monitoring
-layout: single
+tags: monitoring
+layout: post
 ---
 The need to measure everything that moves in a distributed system or even simple
 web apps is becoming the basis for thorough monitoring of an application.

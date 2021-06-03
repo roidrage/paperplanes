@@ -1,6 +1,6 @@
 ---
-layout: single
-topics: api development bestpractices
+layout: post
+tags: api development bestpractices
 title: How Not To Design An API
 ---
 I've had the dubious pleasure of working with a certain library. It's a layer to talk to most of the Amazon Web Services APIs. While working with web services usually is a particular awful experience, this library doesn't make much of an effort to hide their awkwardness, in fact, in some ways it even makes it worse. It's pretty old news that I enjoy bitching about code I don't like, but I also like to keep it positive in at least thinking about how it could be improved.

@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "Keep It Simple"
-topics: kiss scaling performance
+tags: kiss scaling performance
 ---
 It seems to be common sense these days to throw a search engine, a database slave or an external cache at your application in even the earliest stages of a project. Let me just give you my two cents on the issue, and why I think that's a bad idea.
 

@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "Rails/Ruby Books Galore"
-topics: books rails ruby
+tags: books rails ruby
 ---
 The book market is being swamped with new books. It seems like every day I discover a new announcement for an upcoming book on Ruby or Rails. Let's see what's currently in stock, and what's waiting for us next year.
 

@@ -1,6 +1,6 @@
 ---
-layout: single
-topics: legacy code
+layout: post
+tags: legacy code
 title: There's Something About Legacy Code
 ---
 While [preparing my talk](http://www.slideshare.net/mattmatt/mein-freund-der-legacy-code-1947495) for the [German Rails-Konferenz](http://www.rails-konferenz.de) on legacy code I thought about why we still have to deal with bad code. Why do people still write code that sucks, code that's close to being unmaintainable, code that's so insanely tangled, code that's untested?

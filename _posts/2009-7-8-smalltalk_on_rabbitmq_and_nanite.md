@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: Smalltalk on RabbitMQ and Nanite
-topics: ruby messaging rabbitmq
+tags: ruby messaging rabbitmq
 ---
 Last week at the Berlin Ruby User Group, I talked a bit about my current tools of the trade, [RabbitMQ](http://www.rabbitmq.com) and [Nanite](http://github.com/ezmobius/nanite). Here's the slides.
 

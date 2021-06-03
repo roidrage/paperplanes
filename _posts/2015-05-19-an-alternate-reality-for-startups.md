@@ -1,7 +1,7 @@
 ---
 title: An Alternate Reality for Startups
-layout: single
-topics: startups
+layout: post
+tags: startups
 ---
 A reality where success isn't measured in the amount of funding rounds or size
 of acquisitions but in terms of [monthly revenue and positive cash

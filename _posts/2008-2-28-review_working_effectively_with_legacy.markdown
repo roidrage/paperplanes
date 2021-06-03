@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "Review: Working Effectively With Legacy Code"
-topics: books
+tags: books
 ---
 <img src="http://img.skitch.com/20080227-8dgga7ebmg2whyq759xjfkty6n.jpg" alt="legacy_code" style="float:right"/>
 

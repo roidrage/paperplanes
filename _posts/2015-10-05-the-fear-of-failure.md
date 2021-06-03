@@ -1,7 +1,7 @@
 ---
 title: The Fear of Failure Can Be Paralyzing
 topic: smallbiz growth
-layout: single
+layout: post
 ---
 A friend recently approached me, asking how he could overcome a feeling of paralysis. He felt stuck figuring out what the next steps are in getting his product out and front of customers.
 

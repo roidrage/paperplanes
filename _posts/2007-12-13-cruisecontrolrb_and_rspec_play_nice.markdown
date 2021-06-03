@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "CruiseControl.rb and RSpec Play Nice"
-topics: continuousintegration cruisecontrol rails rspec ruby testing
+tags: continuousintegration cruisecontrol rails rspec ruby testing
 ---
 When using [CruiseControl.rb](http://cruisecontrolrb.thoughtworks.com/) for continuous integration, and RSpec for testing, the defaults of CruiseControl.rb don't play that nice with RSpec. However, that can be remedied pretty simply.
 

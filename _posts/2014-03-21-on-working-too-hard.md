@@ -1,7 +1,7 @@
 ---
 title: On Working (Too) Hard
-layout: single
-topics: work smallbiz
+layout: post
+tags: work smallbiz
 ---
 There's a prevailing idea when it comes to startups and building and running
 your own business.

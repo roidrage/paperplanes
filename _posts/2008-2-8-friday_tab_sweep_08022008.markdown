@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "Friday Tab Sweep (08.02.2008)"
-topics: links rails ruby
+tags: links rails ruby
 ---
 Another week, another sweep.
 

@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "Do Java's Date Classes Make Any Sense?"
-topics: java thedailygrind
+tags: java thedailygrind
 ---
 I just spent the last hour banging my head on my desk trying to get any kind of date type (whether `java.util.Date` or a simple timestamp) from the current time and a timezone identifier (something along the lines of Etc/GMT+12). You'd think this is an easy task. Obviously the `GregorianCalendar` takes a timezone as a constructor argument, so it really should be.
 

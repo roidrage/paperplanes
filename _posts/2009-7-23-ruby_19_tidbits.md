@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: Ruby 1.9 Tidbits
-topics: ruby
+tags: ruby
 ---
 Things that don't really justify their own separate posts.
 

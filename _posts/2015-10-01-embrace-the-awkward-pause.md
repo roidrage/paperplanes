@@ -1,7 +1,7 @@
 ---
 title: "To Be a Better Listener, Embrace the Awkward Pause"
-layout: single
-topics: leadership
+layout: post
+tags: leadership
 ---
 About a year ago I met one of our team members in person for the first time. We hung out for the entire day, talking about all kinds of things, problems we were facing with our company at the time were amongst them.
 

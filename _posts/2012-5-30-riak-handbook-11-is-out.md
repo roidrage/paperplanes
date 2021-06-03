@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: Riak Handbook 1.1 is out!
-topics: riak handbook nosql
+tags: riak handbook nosql
 ---
 I'm happy to report that the [Riak Handbook](http://riakhandbook.com/?pp) has
 hit a major update, bringing a whopping 43 pages of new content with it. If you

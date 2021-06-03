@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "Why an IDE for Rails?"
-topics: rails thedailygrind
+tags: rails thedailygrind
 ---
 Several friends tried out Ruby and Rails over the last months. Apart from the fact that most of them like it, but have to get used to the different syntax, there's one question that popped up several times, and that I've already discussed with several long-time Rails users: What IDE are you using?
 

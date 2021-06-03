@@ -1,7 +1,7 @@
 ---
 title: "Giving Back: Travis CI's Charitable Giving in 2014"
-topics: smallbiz
-layout: single
+tags: smallbiz
+layout: post
 ---
 One of my core beliefs is that a business needs to care about more than just
 their customers and their people. They need to care for the local environment

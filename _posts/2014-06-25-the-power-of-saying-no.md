@@ -1,7 +1,7 @@
 ---
 title: The Power of Saying No (To Sugar)
-layout: single
-topics: justsayno
+layout: post
+tags: justsayno
 ---
 Over the last couple of weeks, I've been avoiding sugar. Not just avoiding
 eating spoon-fulls of crystal sugar, but avoiding food and drink that contains

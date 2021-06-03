@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "Git Community Book"
-topics: git
+tags: git
 ---
 [Great community resource](http://book.git-scm.com/) for Git started by [Scott Chacon](http://jointheconversation.org). Looks pretty good so far. Even downloadable as PDF.
 

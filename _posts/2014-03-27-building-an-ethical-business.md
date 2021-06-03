@@ -1,7 +1,7 @@
 ---
 title: Building an Ethical Business
-layout: single
-topics: smallbiz
+layout: post
+tags: smallbiz
 ---
 With our own company growing, both in terms of our team size and our customer
 base, I keep finding myself thinking more about what kind of company we want it

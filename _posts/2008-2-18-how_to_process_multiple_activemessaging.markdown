@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "How to Process Multiple ActiveMessaging Queues Concurrently"
-topics: activemessaging asynchronous rails ruby
+tags: activemessaging asynchronous rails ruby
 ---
 The title totally overemphasizes the topic, but here we go. By default [ActiveMessaging](http://code.google.com/p/activemessaging/) will process all your queues in one thread. All messages from all queues will be processes sequentially. This isn't always what you want. Especially in scenarios where you have both long-running tasks being kicked off through messages, and rather short-lived tasks that you just fire and forget.
 

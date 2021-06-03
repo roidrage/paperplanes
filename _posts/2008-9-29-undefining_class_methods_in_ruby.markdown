@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "Undefining Class Methods in Ruby"
-topics: ruby
+tags: ruby
 ---
 To get a weird RSpec mock error working again, I tried to look for a solution to dynamically add and remove methods on each spec run due to some odd ends in the current RSpec edge version. Sounds weird I know, but what are you gonna do. I went for a different solution in the end, but still this was good to know.
 

@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "Friday Tab Sweep (01.02.2008)"
-topics: java links rails ruby
+tags: java links rails ruby
 ---
  * [Routes recognition in rails and why speed matters](http://novemberain.com/2008/1/17/routes-recognition)
 

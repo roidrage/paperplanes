@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: There's Something About Redis
-topics: redis nosql
+tags: redis nosql
 ---
 I like to think that there's never been a more exciting time when it comes to playing with new technologies. Sure, that's a bit selfish, but that's just how I feel. Doing Java after I got my diploma was interesting, but it wasn't exciting. Definitely not compared to the tools that keep popping up everywhere.
 

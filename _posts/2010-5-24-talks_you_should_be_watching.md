@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: Conference Talks You Should Be Watching
-topics: video rubyish
+tags: video rubyish
 ---
 Thanks to the guys from Confreaks, there's a whole bunch of video material from
 conferences for the rest of us to enjoy. I've been watching quite a few recently, so

@@ -1,7 +1,7 @@
 ---
 title: The Simple Magic of Consistent Hashing
-topics: nosql riak
-layout: single
+tags: nosql riak
+layout: post
 comments_disabled: true
 ---
 The simplicity of consistent hashing is pretty mind-blowing. Here you have a

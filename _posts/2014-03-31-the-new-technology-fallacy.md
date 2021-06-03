@@ -1,7 +1,7 @@
 ---
 title: The New Technology Fallacy
-layout: single
-topics: smallbiz technology
+layout: post
+tags: smallbiz technology
 ---
 When we set out to build our first product ([Scalarium](https://scalarium.com),
 now better known as Amazon [OpsWorks](https://aws.amazon.com/opsworks/), we

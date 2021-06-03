@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "Write Tests for even the Smallest Projects"
-topics: rails testing
+tags: rails testing
 ---
 For [Bratwurst on Rails](http://www.bratwurst-on-rails.com) I implemented a small application to allow for easy signup. We could've used something like upcoming or wevent, but first we wanted to give people an opportunity to tell us what they like to eat and second, we needed to have room for our sponsors.
 

@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "Friday Rails Links"
-topics: links rails rspec ruby
+tags: links rails rspec ruby
 ---
 The [RSpec](http://rspec.rubyforge.org/) and [Behaviour-Driven Development](http://dannorth.net/introducing-bdd) edition:
 * [Behaviour-Driven Development](http://www.ibm.com/developerworks/web/library/wa-rspec/). An excellent introduction to RSpec and BDD by Bruce Tate.

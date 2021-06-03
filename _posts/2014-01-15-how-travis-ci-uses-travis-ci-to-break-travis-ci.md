@@ -1,7 +1,7 @@
 ---
 title: How Travis CI uses Travis CI to break Travis CI
-topics: travisci smallbiz
-layout: single
+tags: travisci smallbiz
+layout: post
 ---
 This is the essay version of a talk I gave at [Jimdo](http://jimdo.com).
 

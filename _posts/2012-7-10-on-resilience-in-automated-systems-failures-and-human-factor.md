@@ -1,6 +1,6 @@
 ---
 title: On Resilience in Automated Systems, Failures and the Human Factor
-layout: single
+layout: post
 tags:
   - failure
   - resilience

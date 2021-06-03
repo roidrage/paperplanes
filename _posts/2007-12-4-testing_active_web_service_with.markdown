@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "Testing Active Web Service with RSpec"
-topics: rspec testing
+tags: rspec testing
 ---
 I recently started picking up RSpec for a current project. Not too far along the way I found myself wanting to test a SOAP web service written with Active Web Service with it.
 

@@ -1,7 +1,7 @@
 ---
 title: "Dear Founder: Things To Consider When Building a Remote Team"
 date: 2020-02-28T14:58:21+01:00
-layout: single
+layout: post
 tags: remote startups
 ---
 

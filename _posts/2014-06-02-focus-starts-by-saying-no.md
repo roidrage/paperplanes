@@ -1,7 +1,7 @@
 ---
 title: Focus Starts With Saying No
-layout: single
-topics: featuritis
+layout: post
+tags: featuritis
 ---
 Every product out there is riddled by a thousand customers' requests for a
 thousand features. Every single one of them has an idea on what would make your

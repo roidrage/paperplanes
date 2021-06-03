@@ -1,7 +1,7 @@
 ---
 title: On Pager Duty
-topics: operations
-layout: single
+tags: operations
+layout: post
 ---
 Over the last year, as we started turning [Travis CI](http://travis-ci.org) into
 a [hosted product](http://travis-ci.com), we added a ton of metrics and

@@ -1,7 +1,7 @@
 ---
 title: Failure is Always an Option
-layout: single
-topics: operations culture
+layout: post
+tags: operations culture
 ---
 Failure is still one of the most undervalued things in our business, in most
 businesses really. We still tend to point fingers elsewhere, blame the other

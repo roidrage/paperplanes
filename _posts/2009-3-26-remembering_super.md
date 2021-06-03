@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: Remembering super
-topics: ruby
+tags: ruby
 ---
 Yehuda Katz recently wrote a [post](http://yehudakatz.com/2009/03/06/alias_method_chain-in-models/) about good old `super`, probably one of the most underused keywords in Ruby, sadly enough. What can I say, it hit right home. It pretty much nailed what's wrong with `alias_method_chain`, and pretty much put in words how I felt about it too. It helped to explain why I get a weird feeling in my stomach when I see how plugins like authlogic implement some of their functionality. To sum up: it just feels wrong.
 

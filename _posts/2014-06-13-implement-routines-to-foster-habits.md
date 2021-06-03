@@ -1,7 +1,7 @@
 ---
 title: Implement Routines to Foster Habits
-layout: single
-topics: productivity
+layout: post
+tags: productivity
 ---
 I've been trying to implement daily habits over the past couple of months.
 Writing, push-ups, taking a walk, writing a diary. Those are my key habits that

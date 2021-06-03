@@ -1,7 +1,7 @@
 ---
 title: "How to do Vacation Right: All It Takes is to Flip a Switch"
-layout: single
-topics: vacation
+layout: post
+tags: vacation
 ---
 ![](https://farm4.staticflickr.com/3942/15594269722_9f1bf4e6df_h_d.jpg)
 

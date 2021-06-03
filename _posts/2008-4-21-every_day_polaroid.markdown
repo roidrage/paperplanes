@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "Every Day Polaroid"
-topics: photography polaroid
+tags: photography polaroid
 ---
 My friend [Deborah](http://ddot.wordpress.com) from Sydney started a blog called ["everyday polaroid"](http://everydaypolaroid.wordpress.com/) some weeks ago. She asked me to contribute my every day 'roids for this week. Come on over, have a look, and say hi!
 

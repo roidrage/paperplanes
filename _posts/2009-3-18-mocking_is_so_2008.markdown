@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: Mocking Is So 2008
-topics: testing bdd mocking
+tags: testing bdd mocking
 ---
 Pat Maddox recently published a blog post on mocking called ["You Probably Don't Get Mocks."](http://www.patmaddox.com/blog/you-probably-dont-get-mocks) I wanted to write something on my experiences with mocks for a while now, so here's good reason to finally do so. I'm a recovering mock addict, if you will, so this is my retribution of things I learned over the last 18 months, and how my testing workflow changed with them.
 

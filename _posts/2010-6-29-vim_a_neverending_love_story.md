@@ -1,6 +1,6 @@
 ---
-layout: single
-topics: vim
+layout: post
+tags: vim
 title: Vim - A Never-ending Love Story
 ---
 About eighteen months ago [I wrote about going back to Vim as my daily text

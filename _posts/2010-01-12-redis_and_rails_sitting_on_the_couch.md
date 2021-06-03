@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: Redis and Rails sitting on the Couch
-topics: rails redis couchdb
+tags: rails redis couchdb
 ---
 I've been spending some quality time with two of my new favorite tools lately ([CouchDB](http://couchdb.apache.org/) and [Redis](http://code.google.com/p/redis), duh!), and while integrating them into [Scalarium](http://scalarium.com) some needs and as a result some smaller hacks emerged. I don't want to deprive the world of their joy, so here they are.
 

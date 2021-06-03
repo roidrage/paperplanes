@@ -1,7 +1,7 @@
 ---
 title: On Notifications, Log Subscribers, and Bringing Sanity to Rails' Logging
-topics: rails logging
-layout: single
+tags: rails logging
+layout: post
 ---
 Wherein I write about Rails' current implementation of logging and ActiveSupport's
 greatest feature that was added in 3.0.

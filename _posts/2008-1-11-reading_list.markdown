@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "Reading List"
-topics: books links
+tags: books links
 ---
 I bought a nice stack of books recently, and I'm planning on buying some more. There's a lot of good stuff, not only new books, but also some older books (as in from 2004, I'm not talking about the C++ books on my shelf).
 

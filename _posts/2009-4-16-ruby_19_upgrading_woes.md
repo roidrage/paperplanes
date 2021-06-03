@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "Ruby 1.9 Upgrading Woes"
-topics: ruby
+tags: ruby
 ---
 Actually, not so much woes, as general musings. I just finished upgrading a project I've been maintaining for the last 15 months or so to Ruby 1.9, and I thought I'd share some of my experiences with the process. Looking back it wasn't so hard after all, but there were some pitfalls.
 

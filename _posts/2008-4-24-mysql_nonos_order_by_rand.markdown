@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "MySQL No-Nos: ORDER BY RAND()"
-topics: mysql thedailygrind
+tags: mysql thedailygrind
 ---
 It's a classic. You want to return random rows from a table, say a collection of random users in your social network. Easy, MySQL's `ORDER BY RAND()` to the rescue. After all, everybody's doing it. At least on my last search on that topic, all the PHP kids did it.
 

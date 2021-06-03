@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: XRay Goggles For Your Ruby Processes
-topics: ruby monitoring
+tags: ruby monitoring
 ---
 The guys over at [Pivotal Labs](http://pivotallabs.com/) wrote a [small piece](http://pivotallabs.com/users/steve/blog/articles/746-inspect-running-ruby-processes-using-xray-and-kill-3) on a neat tool called [XRay](http://xray.rubyforge.org/). It hooks into your Ruby code to provide Java-like signal handlers which dump the current stack trace into whatever log file seems fit. Using Passenger that'll be your Apache's error log file.
 

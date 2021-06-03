@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: RailsWayCon Slides
 ---
 I'm having a great time at RailsWayCon in Berlin. The line-up of speakers is pretty neat, and even though the venue has some flaws, it's still a cool conference. I'm glad it's also in Berlin.

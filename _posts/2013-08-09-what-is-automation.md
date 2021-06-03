@@ -1,7 +1,7 @@
 ---
 title: What is Automation?
-topics: operations
-layout: single
+tags: operations
+layout: post
 ---
 In our circles, automation is most frequently associated with infrastructure,
 tools like Puppet and Chef, automating away your server provisioning and

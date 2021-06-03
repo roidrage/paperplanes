@@ -1,7 +1,7 @@
 ---
 title: A Standing Desk Love Affair
-topics: office
-layout: single
+tags: office
+layout: post
 ---
 ![](http://i.imgur.com/Kw1UhwF.jpg)
 

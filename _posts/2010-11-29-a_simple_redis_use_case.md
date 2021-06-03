@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: A Simple Redis Use Case for Sorted Sets
-topics: redis
+tags: redis
 ---
 _Interested in Redis? You might be interested in the [Redis Handbook](http://redishandbook.com) I'm currently working on._
 

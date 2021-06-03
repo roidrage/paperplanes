@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: Making TextMate And rvm Play Nice
-topics: ruby textmate
+tags: ruby textmate
 ---
 After being annoyed with running multiple versions of Ruby just by using MacPorts I finally gave in and tried out [rvm, the Ruby Version Manager](http://rvm.beginrescueend.com/). That stuff got even more annoying when I tried to make [Bundler](http://github.com/wycats/bundler/) behave well with multiple Ruby versions, because it just doesn't by default. It's not really a problem with normal gems, but Bundler falls apart with its defaults when you're trying to run gems with native extensions. Hint: Set bundle\_path to include RUBY_VERSION and make some links from one cache directory to another to not have every gem cached for every Ruby version.
 

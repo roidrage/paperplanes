@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "Smalltalk about BackgrounDRb"
-topics: rails ruby
+tags: rails ruby
 ---
 I held a small presentation about BackgrounDRb yesterday at the meeting of the Ruby User Group Berlin. It wasn't a very big presentation, since actually, there's not a lot to say about BackgrounDRb. But if you want to check it out, you can get the <a href="/files/BackgrounDRb.pdf">slides</a> and the little sample <a href="/files/backgroundrb_demo.zip">application</a>.
 

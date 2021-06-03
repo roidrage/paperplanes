@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "Rails 2.0: It's Done"
-topics: rails ruby thedailygrind
+tags: rails ruby thedailygrind
 ---
 After more than two days of removing deprecation warnings, adding plugins, fixing some custom additions, going through the whole application, it's finally done. We're running Rails 2.0. Nothing more gratifying than seeing this, well except for the application running without problems:
 

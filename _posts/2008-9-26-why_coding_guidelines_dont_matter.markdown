@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "Why Coding Guidelines Don't Matter"
-topics: bestpractices
+tags: bestpractices
 ---
 I've been on a lot of projects, where people put an awful lot of time into coming up with the right coding style. Everyone of course wants to have his knack for a certain way of doing things included: "I want my opening curly brace at the end of the line." Or: "A single space between if and the following opening brace."
 

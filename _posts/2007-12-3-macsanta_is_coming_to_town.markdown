@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "MacSanta is Coming to Town"
-topics: macosx
+tags: macosx
 ---
 Just like last year, [MacSanta](http://www.macsantadeals.com/) opened its doors right on time for the holiday season. They have some pretty good deals on some excellent Mac shareware. I stacked up already during last year's sale, but their daily deals are well worth keeping an eye on.
 

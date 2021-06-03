@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "The End of an Era"
-topics: photography polaroid
+tags: photography polaroid
 ---
 On February 9th 2008 the [Polaroid Corporation](http://www.washingtonpost.com/wp-dyn/content/article/2008/02/08/AR2008020803598.html?hpid=topnews) announced what will most likely be the demise of an era in photography. They're closing down all their factories, and they will stop producing the famous instant film, after they made enough to last until 2009.
 

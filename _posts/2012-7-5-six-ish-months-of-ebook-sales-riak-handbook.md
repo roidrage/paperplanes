@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Six-ish Months of eBook Sales: Riak Handbook"
 topic: riak smallbiz products
 ---

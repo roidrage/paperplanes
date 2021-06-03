@@ -1,7 +1,7 @@
 ---
 title: A Culture of Failure
-layout: single
-topics: operations humans failure
+layout: post
+tags: operations humans failure
 ---
 <a href="http://www.flickr.com/photos/nnova/2970063644/in/photostream/"><img src="http://farm4.staticflickr.com/3272/2970063644_d70d643711_d.jpg" width="550"/></a>
 

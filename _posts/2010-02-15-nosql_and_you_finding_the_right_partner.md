@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: NoSQL And You - Thoughts On Finding Right Partner In Chrime
-topics: nosql
+tags: nosql
 ---
 The NoSQL landscape is a fickle thing, new tools popping up every week, broadening a spectrum that's already close to being ungraspable, especially when you're totally new to the whole thing. There's a couple of common misconceptions and wrong-doings that people who've been playing with the tools already tend to tell newbies in the landscape.
 

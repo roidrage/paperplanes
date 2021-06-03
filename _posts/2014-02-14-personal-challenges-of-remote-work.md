@@ -1,7 +1,7 @@
 ---
 title: Personal Challenges of Working Remotely
-layout: single
-topics: remote
+layout: post
+tags: remote
 ---
 Remote work is at the core of our [little company](https://travis-ci.com). I've
 written about how we improve our tool set to [foster and improve communication

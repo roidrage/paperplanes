@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 comments_disabled: true
-topics: infrastructure monitoring
+tags: infrastructure monitoring
 title: The Virtues of Monitoring
 ---
 Over the last year I haven't only grown [very fond of coffee](http://holgarific.net/?p=642), but also of infrastructure.

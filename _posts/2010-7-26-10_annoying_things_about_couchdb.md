@@ -1,6 +1,6 @@
 ---
-layout: single
-topics: couchdb
+layout: post
+tags: couchdb
 title: "10 Annoying Things About CouchDB"
 ---
 Hi, I'm Mathias, and I'm a [CouchDB](http://couchdb.apache.org/) user. I've been using it for almost a year now, and we

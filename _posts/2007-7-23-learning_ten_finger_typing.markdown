@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "Learning Ten Finger Typing"
-topics: productivity
+tags: productivity
 ---
 For ten years now, I've been rather successful with my own typing style, using mostly my index fingers. I am pretty fast this way, but over the last months this lead to more and more pain in my wrists and my knuckles which can be rather unpleasant, especially when you type for a living. Learning to use all ten fingers for typing has been on my list for quite a while now, so now I finally got over myself and started learning it.
 

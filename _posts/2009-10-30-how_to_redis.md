@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: How To Redis
-topics: redis
+tags: redis
 ---
 We've covered some good ground already, some blabber about Redis in general, and also some thoughts on when using it could be beneficial. The other big question is: How do I integrate that stuff in my application? How do I get my objects to be stored neatly in Redis?
 

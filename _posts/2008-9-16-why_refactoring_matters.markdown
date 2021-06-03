@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "Why Refactoring Matters"
-topics: bestpractices refactoring
+tags: bestpractices refactoring
 ---
 It's hard to believe, but for some people it still doesn't. I've heard something along the lines of "The refactoring is done, now we can code again" or "I can't refactor that code right now, I'll just add a little code here and be done with it" far too often over the last months and years. The irrational but persistent thought that refactoring is a once-in-a-product-lifecycle activity is an annoyingly sticky idiom. Refactoring is not a one time thing, it is (or at least should be) an important part of your development process, equally important as coding and testing.
 

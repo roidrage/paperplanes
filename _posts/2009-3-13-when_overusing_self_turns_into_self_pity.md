@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: When Overusing self Turns Into self.pity
-topics: ruby
+tags: ruby
 ---
 There's something I see in lots of projects is an overuse of `self`. Sure, it looks a lot nicer than `this`, but its overuse can clutter code quite easily. Here's a rather simple example.
 

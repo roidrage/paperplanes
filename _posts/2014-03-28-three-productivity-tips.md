@@ -1,7 +1,7 @@
 ---
 title: Three Simple yet Incredibly Hard Productivity Tips
-layout: single
-topics: productivity
+layout: post
+tags: productivity
 ---
 Our working days (even our spare time and holidays) are filled with
 distractions. Every social network that we used is fighting for our attention.

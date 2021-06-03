@@ -1,7 +1,7 @@
 ---
 title: September Reading List
-topics: reading books
-layout: single
+tags: reading books
+layout: post
 ---
 Been a while since the last reading list ([here's a handy
 link](/2012/6/29/june-reading-list.html), in case you're looking for more to

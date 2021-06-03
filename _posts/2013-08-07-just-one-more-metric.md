@@ -1,7 +1,7 @@
 ---
 title: Just One More Metric
-topics: monitoring
-layout: single
+tags: monitoring
+layout: post
 ---
 <img src="http://s3itch.paperplanes.de/Instrument__Librato_Metrics_20130807_171104.jpg" width="530">
 

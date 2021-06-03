@@ -1,7 +1,7 @@
 ---
 title: The Joys of New Technology
-topics: technology learning
-layout: single
+tags: technology learning
+layout: post
 ---
 Just recently I told you to [disregard new and technology unknown to you when
 you're building a product and a business from

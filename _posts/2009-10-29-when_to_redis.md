@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: When To Redis
-topics: nosql redis
+tags: nosql redis
 ---
 A very valid question is: What's a good use case for [Redis](http://code.google.com/p/redis)? There's quite a few, as Redis isn't your every day key-value store, it allows you to keeps lists and sets in your datastore, and to run atomic operations on them, like pushing and popping elements. All that stuff is incredibly fast, as obviously your data is held in memory and only persisted to the hard disk if necessary and to top it off, asynchronously, while not reducing the throughput of the server itself.
 

@@ -1,7 +1,7 @@
 ---
-topics: nosql databases
+tags: nosql databases
 title: The NoSQL Dilemma (with a Happy Ending)
-layout: single
+layout: post
 ---
 Call it [NoSQL](http://voodootikigod.com/nosql-a-modest-proposal), call it [post-relational](http://therealadam.com/archive/2009/08/31/its-not-nosql-its-post-relational/), call it what you like, but it's hard to ignore that hings are happening in the database world. A paradigm shift is not too far ahead, and it's a big one, and I for one am welcoming our post-relational overlords. Whatever you call them, [CouchDB](http://couchdb.apache.org/), [MongoDB](http://www.mongodb.org/) (although you really shouldn't call a database MongoDB), [Cassandra](http://incubator.apache.org/cassandra/), [Redis](http://code.google.com/p/redis/), [Tokyo Cabinet](http://1978th.net/tokyocabinet/), etc. I'm well aware that they're not necessarily all the same, but they do try to fill similar gaps. Making data storage easy as pie, offering data storage fitting with the kind of evolving data we usually find on the web.
 

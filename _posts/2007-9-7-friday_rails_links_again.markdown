@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "Friday Rails Links"
-topics: links macosx rails
+tags: links macosx rails
 ---
 Have a RESTful weekend with some REST-related reading, some of it already a little older, but it's gotten more important to me recently:
 * [Refactoring DayTrader to REST](http://bitworking.org/news/201/RESTify-DayTrader). An article on refactoring an existing application to use REST.

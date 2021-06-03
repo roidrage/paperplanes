@@ -1,8 +1,8 @@
 ---
 title: Why I Love and Hate Distributed Systems
-topics: distributed databases algorithms
+tags: distributed databases algorithms
 comments_disabled: true
-layout: single
+layout: post
 ---
 Let me go ahead and say it: I love distributed systems. Why? Simply because they bend my brain. Yesterday I tweeted
 "Distributed databases are my happy place." One response I got was along the lines of: "then you're probably not running

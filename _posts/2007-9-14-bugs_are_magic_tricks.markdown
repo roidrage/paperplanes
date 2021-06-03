@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "Bugs are Magic Tricks"
-topics: thedailygrind
+tags: thedailygrind
 ---
 [Says Steven Frank](http://stevenf.com/2007/09/bugs_are_magic_tricks.php) (of [Panic Software](http://www.panic.com/), of [Transmit](http://www.panic.com/transmit/) fame):
 

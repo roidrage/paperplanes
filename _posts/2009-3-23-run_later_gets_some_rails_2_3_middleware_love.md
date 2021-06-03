@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: run_later Gets Some Rails 2.3 Middleware Love
-topics: run_later rails rack
+tags: run_later rails rack
 ---
 Apart from the awesome new features for users of the framework, Rails 2.3 got a lot of love on the inside too. It's no secret it's running on Rack now, and that switch made some of the internal code a lot easier on the eyes. They also added a Rails-internal middleware stack, on which some of the framework's functionality builds already.
 

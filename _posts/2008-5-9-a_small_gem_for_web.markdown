@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "A Small Gem For Web Development on Mac OS X"
-topics: macosx
+tags: macosx
 ---
 I've been using [xScope](http://iconfactory.com/software/xscope) for a while now, and I highly recommend it for everyone pushing around pixels, divs and whatnot. Its rulers and the loupe have become invaluable for me.
 

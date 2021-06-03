@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: Web Operations 101 For Developers
-topics: operations
+tags: operations
 comments_disabled: true
 ---
 This post is not about devops, it's not about lean startups, it's not about web

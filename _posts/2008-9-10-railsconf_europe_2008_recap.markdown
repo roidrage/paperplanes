@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "RailsConf Europe 2008 Recap"
-topics: rails railsconf ruby
+tags: rails railsconf ruby
 ---
 RailsConf Europe 2008 is over (and has been for a few days now, I know), so it's time for a recap. In all it was much better than I expected, last year's conference was a bit of a disappointment, so my expectations were low enough to be positively surprised.
 

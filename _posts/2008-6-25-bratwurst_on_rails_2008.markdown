@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "Bratwurst On Rails 2008"
-topics: railsconf
+tags: railsconf
 ---
 So [RailsConf Europe 2008](http://en.oreilly.com/railseurope2008/public/content/home) is upon us, not for another two months, but you gotta be prepared right? You did sign up, right? Good.
 

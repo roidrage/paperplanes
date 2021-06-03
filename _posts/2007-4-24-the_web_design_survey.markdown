@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "The Web Design Survey"
-topics: web
+tags: web
 ---
 They wanted me to spread the word, so that's what I'll do.
 

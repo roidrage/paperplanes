@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "Using Rails-like Environments with Spring"
-topics: java
+tags: java
 ---
 One thing that's nice about Rails is the separation of test, development and production environment right from the beginning. I'm currently working on a Java project with Spring and found myself using MySQL for most of the development and testing and Oracle in production. Using Hibernate that's not a big problem (most of the time that is, unless you're bitten in the ass by another weird Oracle JDBC driver bug), but I don't want to change all the properties for every deployment.
 

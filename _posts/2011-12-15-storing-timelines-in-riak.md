@@ -1,7 +1,7 @@
 ---
 title: Storing User Timelines in Riak
-topics: riak nosql
-layout: single
+tags: riak nosql
+layout: post
 ---
 The idea of building and storing user timelines (think Twitter) in Riak confused
 me at first. It sounds like such a spot-on case for time series databases. Yet

@@ -1,6 +1,6 @@
 ---
-layout: single
-topics: presentations conferences
+layout: post
+tags: presentations conferences
 title: Presentation Fu
 ---
 I've attended my fair [share of conferences this month alone](/2010/6/22/june_a_month_of_conferences.html), plus a

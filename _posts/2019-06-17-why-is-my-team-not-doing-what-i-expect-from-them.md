@@ -1,9 +1,9 @@
 ---
 title: Why is my team not doing what I expect from them?
 date: 2019-06-17T18:04:37+02:00
-author: Mathias Meyer
-layout: single
-topics: leadership management
+
+layout: post
+tags: leadership management
 ---
 
 A question that I’ve come across frequently is why a team is not doing what their manager expects them to do. The flip side of this question could be phrased as:

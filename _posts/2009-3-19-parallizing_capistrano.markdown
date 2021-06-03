@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: Parallelizing Capistrano
-topics: capistrano deployment
+tags: capistrano deployment
 ---
 On a recent project we ran into a situation where we needed a more advanced way of parallelizing Capistrano tasks than just using the parallel method it already sports. To jog your memory, parallel can run arbitrary shell commands in parallel on different servers. So if you wanted your webserver to already restart the processes while you restart your background processes, you can do it like this:
 

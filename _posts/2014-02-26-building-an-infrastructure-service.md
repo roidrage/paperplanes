@@ -1,7 +1,7 @@
 ---
 title: Building an Infrastructure Service on Top of Infrastructure Services
-topics: infrastructure, ops
-layout: single
+tags: infrastructure, ops
+layout: post
 ---
 For the last two years, I've been working on [Travis CI](https://travis-ci.com),
 a hosted continuous integration and deployment platform. It first started out as

@@ -1,7 +1,7 @@
 ---
 title: The Secret to Latte Art
-layout: single
-topics: coffee
+layout: post
+tags: coffee
 ---
 I've been practicing my latte art at home as of late. I have a Rancilio Silvia machine, which packs a decent punch regarding pressure and steam, much better than the Gaggia Classic I had before.
 

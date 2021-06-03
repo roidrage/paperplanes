@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "Seriously the Most Awesome Photoshop Tutorials Ever"
-topics: miscellany
+tags: miscellany
 ---
 Seriously. More screencasts should be like that.
 

@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "Storing Images with Oracle and Hibernate"
-topics: java oracle
+tags: java oracle
 ---
 All I wanted was to store images in the database through Hibernate. It all look so easy. Add a byte array property, add it as a binary type to the Hibernate mapping and off you go. So far so good. I'm developing with MySQL where everything worked the way it's supposed to. Image data goes into the database and comes out when required, no problem.
 

@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "Abandon Ship!"
-topics: freelancing miscellany
+tags: freelancing miscellany
 ---
 Well, not quite. It's been quite around here lately. I've been swamped with work over the last two months which is, of course, not a bad thing. The good thing is that I've seen several projects going live over the last few weeks.
 

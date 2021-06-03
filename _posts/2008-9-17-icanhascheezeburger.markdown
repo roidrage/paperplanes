@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "\"i\".can.has?(\"cheezeburger\")"
-topics: ruby
+tags: ruby
 ---
 Today I wondered, why on earth doesn't Ruby have something where I can just say:
 

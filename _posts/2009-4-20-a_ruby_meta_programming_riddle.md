@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: A Ruby Meta-Programming Riddle
-topics: ruby metaprogramming
+tags: ruby metaprogramming
 ---
 When we were at Scotland on Rails (excellent conference by the way, you should definitely go), and we sat in Dave Thomas' keynote, where he talked about the "Ruby Object Model", funnily enough we ran across a meta-programming wonder in that very session. It has been keeping me busy for a couple of hours, and I'd like to share my revelations. With some of them I'm not completely in the clear, but maybe they'll be a start for discussion. It's more a tale of one of my adventure through the Ruby object model than a fancy tutorial, so if you're up for that kind of thing, keep going. If not, just keep on reading.
 

@@ -1,7 +1,7 @@
 ---
 title: Deploying your Jekyll Site to S3 with Travis CI
-layout: single
-topics: s3 jekyll continuousdeployment
+layout: post
+tags: s3 jekyll continuousdeployment
 ---
 I admit it, I got stung by the urge of not having to maintain my own servers
 anymore. For simple websites like this one, it's become a dreadful task.

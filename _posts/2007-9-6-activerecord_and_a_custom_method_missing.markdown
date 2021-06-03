@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "ActiveRecord and a custom method_missing"
-topics: rails ruby
+tags: rails ruby
 ---
 Don''t be tempted to overwrite `method_missing` in an ActiveRecord-based model class. It will open a can of worms that's hard to close without removing your custom version again.
 

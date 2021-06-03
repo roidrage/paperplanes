@@ -1,8 +1,8 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '~> 4.0', require: nil
+gem 'jekyll', '~> 4.2', require: nil
 gem 'redcarpet'
 gem 'jekyll-paginate'
-gem "minimal-mistakes-jekyll"
+gem "jekyll-theme-so-simple"
 gem 'jekyll-include-cache'
 gem 'jekyll-archives'

@@ -1,7 +1,7 @@
 ---
 title: Three Steps to Finding Your Product's Price
-topics: smallbiz
-layout: single
+tags: smallbiz
+layout: post
 ---
 Once you've figured out what kind of product you want to create, the biggest hurdle to get it in front of customers is finding the right price.
 

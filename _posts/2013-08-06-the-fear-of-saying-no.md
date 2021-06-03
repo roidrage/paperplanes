@@ -1,7 +1,7 @@
 ---
 title: The Fear of Saying No
-layout: single
-topics: smallbiz
+layout: post
+tags: smallbiz
 ---
 For a startup or a small biz in its infancy, every opportunity looks like a pot
 of gold.

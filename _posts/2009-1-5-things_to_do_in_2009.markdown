@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "Things to Do in 2009"
-topics: miscellany
+tags: miscellany
 ---
 So you're still looking for things to do in the new year, eh?
 

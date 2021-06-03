@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "Welcome Aboard"
-topics: miscellany
+tags: miscellany
 ---
 So this is it. My new blog. It doesn't look like much, but I'm working on it. Here's where I'll write about my adventures as a freelancer, things related to Rails and things that bother me, things I like and my view on life as a freelancer and Mac OS X nerd.
 

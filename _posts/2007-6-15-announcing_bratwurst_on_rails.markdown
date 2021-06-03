@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "Announcing Bratwurst On Rails"
-topics: rails ruby
+tags: rails ruby
 ---
 Registration for <a href="http://www.railsconfeurope.com/">RailsConf Europe</a> in Berlin <a href="http://www.railsconfeurope.com/pub/w/61/register.html">opened its doors</a> yesterday. So if you want to have one more reason to come to Berlin, head over there already.
 

@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: Notes on MongoDB
-topics: nosql mongodb
+tags: nosql mongodb
 ---
 For an article in a German magazine I've been researching [MongoDB](http://mongodb.org) over the last week or so. While I didn't need a lot of the information I came across I collected some nicely distilled notes on some of its inner workings. You won't find information on how to get data out of or into MongoDB. The notes deal with the way MongoDB treats and handles your data, a high-low-level view if you will. I tried to keep them as objective as possible, but I added some commentary below.
 

@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: Daily AWS Wtf and German Rails Conference
-topics: rails aws
+tags: rails aws
 ---
 I've started a new blog (don't worry, I have not abandoned this one), specifically targeting experiences, wtf's and workarounds for the latter on Amazon's Web Services. I've been working quite a lot with them recently, and there's heaps of dark corners around, and things you need to be aware of. That's what that blog is about. Head on over to [Daily AWS Wtf](http://dailyawswtf.com) and give it a read. It's powered by the people of [Peritor](http://www.peritor.com), so there'll be other people writing too.
 

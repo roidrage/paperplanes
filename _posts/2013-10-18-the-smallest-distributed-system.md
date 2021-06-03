@@ -1,7 +1,7 @@
 ---
 title: The Smallest Distributed System
-layout: single
-topics: distributedsystems, travisci
+layout: post
+tags: distributedsystems, travisci
 ---
 [Travis CI](https://travis-ci.org) started out as an idea, an ideal even. Before
 its inception, there was a distinct lack of continuous integration systems

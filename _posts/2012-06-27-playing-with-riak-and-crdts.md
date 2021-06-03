@@ -1,7 +1,7 @@
 ---
 title: Playing with Riak and CRDTs - Counters
-topics: riak crdt
-layout: single
+tags: riak crdt
+layout: post
 ---
 I recently spent some quality time with CRDTs, which is short for commutative
 replicated data types. I've gotten curious about them when working on the [Riak

@@ -1,7 +1,7 @@
 ---
 title: Fake Everything Until You Make It
-layout: single
-topics: smallbiz
+layout: post
+tags: smallbiz
 ---
 For the first 15 months of [Travis CI's](https://travis-ci.com) existence as a
 paid product, customer support went a little like this:

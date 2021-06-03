@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: Form Objects with ActiveModel
-topics: rails web
+tags: rails web
 ---
 When I built the billing process for [Travis CI](http://travis-ci.com)'s
 commercial offering, I decided to try out some new things to avoid callbacks in

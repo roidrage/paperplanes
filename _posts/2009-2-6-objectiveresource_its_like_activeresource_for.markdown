@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "ObjectiveResource: It's Like ActiveResource For Cocoa"
-topics: objective-c cocoa iphone
+tags: objective-c cocoa iphone
 ---
 The guys at [Y|Factorial](http://www.yfactorial.com) put it in a lot of effort in a new framework for Cocoa which mimics the functionality of ActiveResource. It's ingeniusly called [ObjectiveResource](http://github.com/yfactorial/objectiveresource/tree/master), and acts as (having a worst Rails plugin names flashback while writing this) a bridge between your Cocoa (yes, that includes iPhone) applications and RESTful Rails applications.
 

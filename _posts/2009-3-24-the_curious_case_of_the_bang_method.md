@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: The Curious Case Of The Bang Method
-topics: ruby
+tags: ruby
 ---
 One of the cool things about Ruby is the possibility to make your method's intent more expressive using the question mark or the bang. There's no need to argue about the use of the question mark method, their intent is to ask something, whether it's the the status of an object or if the current weather is suitable for getting out your longboard. Their result will usually be true or false, including nil or not nil.
 

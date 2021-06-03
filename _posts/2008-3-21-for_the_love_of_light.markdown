@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "For The Love of Light"
-topics: photography polaroid thedailygrind
+tags: photography polaroid thedailygrind
 ---
 [Jenifer Altman](http://nectarandlight.typepad.com/my_weblog), a very talented Polaroid and Hasselblad (did I mention I want one of these?) shooter, is working on a project to celebrate and honour the art of Polaroid photography before it completely dies (I still have high hopes that's not gonna happen) within the next year. The project's titled ["For The Love of Light"](http://www.fortheloveoflight.com), and I was invited to take part in that project, and I'm rather thrilled about that. Around mid-July the project will eventually be turned into a book which will be available to the public. The artists include awesome photographers from 10 different countries, and the result will, no doubt, be awesome.
 

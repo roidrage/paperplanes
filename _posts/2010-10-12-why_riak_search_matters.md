@@ -1,7 +1,7 @@
 ---
 title: Why Riak Search Matters...
-topics: riak search fulltext
-layout: single
+tags: riak search fulltext
+layout: post
 ---
 The awesome dudes at [Basho](http://basho.com) released [Riak 0.13 and with it their first
 version](http://blog.basho.com/2010/10/11/riak-0.13-released/) of [Riak

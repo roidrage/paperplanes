@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "Bratwurst On Rails"
-topics: rails thedailygrind
+tags: rails thedailygrind
 ---
 I can safely say that "Bratwurst On Rails" was a success. A lot of people showed up at the Kalkscheune, ate Bratwurst and had a good time.
 

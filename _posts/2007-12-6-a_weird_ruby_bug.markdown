@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "A Weird Ruby Bug"
-topics: ruby thedailygrind
+tags: ruby thedailygrind
 ---
 I ran across a weird bug the other day that seems to have been fixed in Ruby 1.8.5. It's nonetheless quite an interesting one. When you use a hash as a method parameter, and that hash happens to contain the key `:do` and you call the method without parentheses, like so:
 

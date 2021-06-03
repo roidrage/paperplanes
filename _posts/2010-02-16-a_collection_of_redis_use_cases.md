@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: A Collection Of Redis Use Cases
-topics: nosql redis
+tags: nosql redis
 ---
 _Interested in Redis? You might be interested in the [Redis Handbook](http://redishandbook.com) I'm currently working on._
 

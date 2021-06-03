@@ -1,7 +1,7 @@
 ---
 title: A Short Story on Human Error
-layout: single
-topics: operations humanerror
+layout: post
+tags: operations humanerror
 ---
 A few weeks back I came across a post that struck home in several ways. ["How I
 Fired myself"](https://web.archive.org/web/20130302005214/http://edu.mkrecny.com/thoughts/how-i-fired-myself) (cached version) is a short

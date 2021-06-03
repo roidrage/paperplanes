@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "New Tools For My Toolbox"
-topics: miscellany ruby testing
+tags: miscellany ruby testing
 ---
 For a new project I wanted to try some new things, the moment just seemed right, so let me just give you a quick round-up.
 

@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "Running Webistrano Tasks Using Capistrano"
-topics: ruby
+tags: ruby
 ---
 It's no secret that I totally dig [Webistrano](http://labs.peritor.com/webistrano). It's superior to just using Capistrano in so many ways. Although I'm still working on [Macistrano](http://github.com/mattmatt/macistrano) (it's bound to be released soon as well, I promise), some people I told Webistrano about asked me if they still could use a simple `cap deploy` to fire off a deployment.
 

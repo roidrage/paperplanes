@@ -1,6 +1,6 @@
 ---
-layout: single
-topics: rspec shoulda testing
+layout: post
+tags: rspec shoulda testing
 title: The Shoulda RSpec Extravaganza
 ---
 I don't use RSpec a lot any more these days. I much prefer Shoulda, heck I even started using Rails integration tests again (using Shoulda of course), because sometimes the additional abstraction of Cucumber is just too much. Any way, there's some things I liked about RSpec, and they were not related to the features of the testing DSL itself, but more to the tool RSpec. It has a neat formatter that'll output the ten slowest-running tests. I also found the colored list of full test names to be very helpful.

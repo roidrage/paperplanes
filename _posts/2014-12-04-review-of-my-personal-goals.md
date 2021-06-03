@@ -1,7 +1,7 @@
 ---
 title: Review of my Personal Goals at Travis CI
-layout: single
-topics: goals
+layout: post
+tags: goals
 ---
 I posted this on our company-internal blog at [Travis CI](https://travis-ci.com)
 to share progress on goals I've set myself over the past couple of months with my team.

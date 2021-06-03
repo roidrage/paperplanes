@@ -1,7 +1,7 @@
 ---
 title: Holiday Reading List
-topics: reading
-layout: single
+tags: reading
+layout: post
 comments_disabled: true
 ---
 Here's a list of things I've been reading lately or that I'm about to read, and

@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "Review: The Ruby Programming Language"
-topics: books ruby
+tags: books ruby
 ---
 <a href="http://oreilly.com/catalog/9780596516178/"><img src="http://img.skitch.com/20081102-x1nkyj9j53gx4jd8ififmpuxit.jpg" style="float:right"/></a>
 

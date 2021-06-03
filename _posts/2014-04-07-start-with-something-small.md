@@ -1,7 +1,7 @@
 ---
 title: Start by Building and Selling Small Products 
-topics: smallbiz
-layout: single
+tags: smallbiz
+layout: post
 ---
 We love grand ideas. As engineers in particular, we like the idea of building
 something big that solves an idea we've had. We love sweating the details, we

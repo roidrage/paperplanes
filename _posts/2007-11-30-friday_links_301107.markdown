@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "Friday Links (30.11.07)"
-topics: links rails ruby
+tags: links rails ruby
 ---
 * [QuickLook and TextMate](http://ciaranwal.sh/2007/11/15/quicklook-and-textmate), sitting in a tree. Makes QuickLook even better. It integrates the TextMate syntax highlighting into QuickLook, and integrates QuickLook into TextMate. Looks pretty neat.
 ![TextMate in QuickLook](http://myskitch.com/mattie/picture_1-20071130-154106.jpg)

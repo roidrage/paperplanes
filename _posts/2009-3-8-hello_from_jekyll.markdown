@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: Hello From Jekyll
-topics: blog miscellany
+tags: blog miscellany
 ---
 I got a little sick of having to maintain an unmaintained blog engine (I'm looking at you [SimpleLog](http://simplelog.net)), so I did what all the cool kids are doing, I switched the blog to using Tom Preston-Werner's excellent [Jekyll](http://github.com/mojombo/jekyll). I threw in a few tweaks of my [own](http://github.com/mattmatt/jekyll), and tweaked my Rakefile and Apache to support things that SimpleLog can do, but the static nature of Jekyll can't. Thankfully, the URL format of both is pretty similar, so it was pretty easy to set up redirects from the old URLs to the new ones.
 

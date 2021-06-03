@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "Singing the Paypal Subscription Blues"
-topics: paypal rails ruby thedailygrind
+tags: paypal rails ruby thedailygrind
 ---
 For a recent project I had the pleasure to work with Paypal, especially with the Instant Payment Notification API. I haven't heard a lot of things before I tried to marry it with Rails, but what I'd heard made me assume it wouldn't be a piece of cake. And I was right.
 

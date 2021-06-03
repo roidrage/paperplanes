@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "Continuous Integration for Ruby and Rails"
-topics: rails ruby
+tags: rails ruby
 ---
 Due to some developers not so keen about running the tests I got back to my trusty friend Continuous Integration for a project I'm currently working on. Being a big fan of CruiseControl I looked for similar solutions for the Rails and Ruby market. There are several tools you can use, and they have several ups and downs.
 

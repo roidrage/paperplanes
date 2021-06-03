@@ -1,7 +1,7 @@
 ---
 title: Being Busy, Distractions and Just One More Retweet
-layout: single
-topics: life
+layout: post
+tags: life
 ---
 Thanks to the internet and the wild things our mobile devices can now do, we can
 connect with people anywhere, heck, even on the toilet, what used to be a

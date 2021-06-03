@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "Deploying in a chroot Environment with Capistrano"
-topics: rails ruby
+tags: rails ruby
 ---
 A chroot environment seems to be rare these days. Everything is virtualized, load-balanced and what have you. I recently found myself trying to deploy into a chroot&rsquo;ed Lighttpd environment with Capistrano and immediately ran over several pitfalls. The biggest problem is that Capistrano uses absolute links for directories like `current` and the links to the `log` directory.
 

@@ -1,6 +1,6 @@
 ---
-layout: single
-topics: nosql mongodb redis talks
+layout: post
+tags: nosql mongodb redis talks
 title: June - A Month of Conferences
 ---
 June was an exhausting month for me. I spoke at four different conferences, two of which were not in Berlin. I finished

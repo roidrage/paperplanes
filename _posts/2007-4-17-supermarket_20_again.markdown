@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "Supermarket 2.0"
-topics: miscellany
+tags: miscellany
 ---
 So this is what it looks like:
 

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: page
 permalink: /leadership-coaching/
 ---
 <img src="/images/mathias_meyer_square.jpg" style="float:right; height: auto; width: 30%; margin-left: 10px; margin-bottom: 5px;"/>

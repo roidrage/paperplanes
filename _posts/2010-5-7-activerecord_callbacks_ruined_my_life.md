@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: ActiveRecord's Callbacks Ruined My Life
-topics: rails rest
+tags: rails rest
 ---
 Recently I've been having a foul taste in my mouth, or just a bad feeling, if you will. Whenever I started adding validations and callbacks
 to a model in a Rails application. It just felt wrong. It felt like I'm adding code that shouldn't be there, that makes everything a lot

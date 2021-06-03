@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "Friday Links (07.12.07)"
-topics: java links rails ruby textmate
+tags: java links rails ruby textmate
 ---
 Today's NetNewsWire tab sweep:
 

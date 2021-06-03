@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "Microsoft announces IronRuby"
-topics: ruby
+tags: ruby
 ---
 Now that's something. Microsoft announced IronRuby at their MIX07 conference. IronPython developer Jim Hugunin <a href="http://blogs.msdn.com/hugunin/archive/2007/04/30/a-dynamic-language-runtime-dlr.aspx">provides some details</a> about extensions to the .NET CLR made to improve support for scripting languages. The extension is called Dynamic Language Routine.
 

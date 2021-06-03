@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: "Why Testing Matters"
-topics: testing
+tags: testing
 ---
 Sometimes it's easy to forget, just how important testing has become in the development lifecycle. I recently had to remind myself and others that there are no reasonable excuses not to write tests. I would go as far as saying you're jeopardizing the quality of your software, just because you had no time, were pushed by management, or were just plain lazy.
 
