@@ -75,3 +75,5 @@ jekyll-archives:
     tag: archive-taxonomy
   permalinks:
     tag: /tags/:name/
+
+copyright: 2007-2021 Mathias Meyer
