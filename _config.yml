@@ -29,12 +29,12 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/roidrage"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/mathias-meyer-50a753aa/"
     - label: "Contact Me"
       icon: "fas fa-fw fa-envelope-square"
       url: "/contact/"
-    - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin-square"
-      url: "https://www.linkedin.com/in/mathias-meyer-50a753aa/"
 
 footer_links:
   - title: "Twitter"
@@ -45,6 +45,7 @@ footer_links:
     url: "/contact/"
   - title: "Legal"
     url: "/legal/"
+    icon: "fas fa-fw fa-balance-scale"
 
 url: "https://www.paperplanes.de"
 defaults:
@@ -61,7 +62,7 @@ defaults:
 
 locale: en-US
 
-copyright: 2007-2021 Mathias Meyer
+copyright: 2007-2021 Mathias Meyer ([Legal](/legal/))
 
 google_fonts:
   - name: "Source Sans Pro"
