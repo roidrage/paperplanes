@@ -52,7 +52,7 @@ footer_links:
 
 url: "https://www.paperplanes.de"
 feed:
-  path: atom.xml
+  path: rss.xml
 
 defaults:
   # _posts
