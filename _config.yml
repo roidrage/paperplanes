@@ -7,6 +7,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-seo-tag
   - jekyll-archives
+  - jekyll-feed
 theme: jekyll-theme-so-simple
 masthead_title: Home
 title: "Mathias Meyer"
@@ -26,6 +27,7 @@ author:
   location: "Berlin, Germany"
   picture: https://intentionalorganization.com/img/a3ded2d0-400.jpeg
   bio: "Executive Leadership Coach to Founders and CTOs"
+  twitter: roidrage
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -49,6 +51,9 @@ footer_links:
     icon: "fas fa-fw fa-balance-scale"
 
 url: "https://www.paperplanes.de"
+feed:
+  path: atom.xml
+
 defaults:
   # _posts
   defaults:
