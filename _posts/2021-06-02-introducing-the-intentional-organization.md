@@ -3,6 +3,7 @@ title: "Introducing: The Intentional Organization"
 date: 2021-06-02
 author: Mathias Meyer
 layout: post
+excerpt: "Today, my business partner and former CEO, [Sara Hicks](https://twitter.com/saralouhicks), and myself, are thrilled to introduce our new venture: The Intentional Organization, a coaching practice and a forthcoming book. Learn about our story and what we're building! ![](/images/tio-all-hands.png)"
 topics: book coaching "the intentional organization"
 ---
 ![](/images/tio-all-hands.png)
