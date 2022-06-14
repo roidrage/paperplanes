@@ -4,7 +4,12 @@ permalink: /contact/
 title: Contact Mathias
 ---
 <div class="page-wrapper">
-  <form name="contact" method="POST" data-netlify="true" class="basic-grey">
+  <form name="contact" method="POST" data-netlify="true" class="basic-grey" netlify-honeypot="maverick">
+    <p class="honey">
+      <label>
+        Don’t fill this out if you’re human: <input name="maverick" />
+      </label>
+    </p>
     <p>
       <label>
         <span>Your Name</span>
