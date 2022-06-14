@@ -331,3 +331,8 @@ li {
 .basic-grey .button:hover {
     background: #CF7A7A
 }
+
+.basic-grey .honey {
+    display: none;
+    visibility: hidden;
+}
