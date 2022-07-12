@@ -3,7 +3,7 @@ title: "Breaking Out of an Endless Cycle of Meetings"
 date: 2022-07-12
 layout: post
 ---
-*This is a summary from a recent Twitter thread I shared (which does explain the short paragraphs, I hope).*
+*This is a summary from a [recent Twitter thread](https://twitter.com/roidrage/status/1546823921386807298) I shared (which does explain the short paragraphs, I hope).*
 
 If there‘s one thing I see most companies we work with struggle at is that most communication still happens in meetings. As they push towards a more remote culture, meetings are still the place to disseminate information and make decisions. Why is that?
 
