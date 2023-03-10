@@ -16,6 +16,8 @@ Beyond coaching founders and CTOs through the challenges of growing themselves a
 
 I'm occasionally a guest on podcasts. Here's a selection of my most recent appearances:
 
+* ["How to spend your time as a leader](https://skillerwhale.podbean.com/e/ep-22-how-to-spend-your-time-as-a-leader-feat-mathias-meyer-executive-cto-coach-and-founding-partner-at-the-intentional-organisation/) with Hywel Carver, Skiller Whale
+* ["How to successfully transition from being an IC to Manager"](https://share.transistor.fm/s/df92e597) with Jason Evanish, Get Lighthouse
 * ["Leading by Influence and Creating Intentional Teams"](https://open.spotify.com/episode/1QEVaaROBhv51Nlmy2lexd?si=22acba6fea68491d) with Darja Gutnick and Anthony Reo, Bunch
 * ["On Debugging an Organization"](https://www.stitcher.com/show/dreams-with-deadlines/episode/on-debugging-an-organization-78146891) with Jenny Herald, Gtmhub
 * ["Leading Shoulder-to-shoulder"](https://www.reboot.io/episode/108-leading-shoulder-to-shoulder-with-sara-hicks-and-mathias-meyer/) with my partner Sara Hicks and Jerry Colonna, Reboot
