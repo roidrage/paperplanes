@@ -27,11 +27,7 @@ author:
   location: "Berlin, Germany"
   picture: https://intentionalorganization.com/img/a3ded2d0-400.jpeg
   bio: "Executive Leadership Coach to Founders and CTOs"
-  twitter: roidrage
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/roidrage"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/mathias-meyer-50a753aa/"
@@ -68,7 +64,7 @@ defaults:
 
 locale: en-US
 
-copyright: 2007-2021 Mathias Meyer ([Legal](/legal/))
+copyright: 2007-2024 Mathias Meyer ([Legal](/legal/))
 
 google_fonts:
   - name: "Source Sans Pro"
