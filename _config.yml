@@ -37,8 +37,8 @@ author:
 
 footer_links:
   - title: "Twitter"
-    icon: "fab fa-fw fa-twitter-square"
-    url: "https://twitter.com/roidrage"
+    icon: "fa-brands fa-square-bluesky"
+    url: "https://bsky.app/profile/mathiasmeyer.co"
   - title: "Contact Me"
     icon: "fas fa-fw fa-envelope-square"
     url: "/contact/"
