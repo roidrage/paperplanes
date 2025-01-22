@@ -23,5 +23,3 @@ The most important thing is to actually listen to the feedback and bring about c
 A healthy response to feedback requires curiosity and the assumption that things probably aren’t working as well as you think. It also requires you to listen with patience rather than respond immediately. Our fight our flight responses are easily triggered by critical feedback. We’re keen to explain ourselves instead of just listening, asking more questions, and then reflecting on what we’ve heard.
 
 Getting there may require that you, at least for a while, ask for feedback anonymosly. When folks see that their feedback has an effect, they may just start trusting you again and open up more directly.
-
-#_context/fleeting
