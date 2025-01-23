@@ -2,7 +2,9 @@
 title: "How Can I Change a Culture of Anomymous Feedback?"
 date: 2025-01-22
 layout: post
-topics: shorts
+categories:
+  - Shorts
+  - Feedback
 ---
 When I ask my team for feedback, should I allow them to submit anonymously? Especially when asking for potentially critical feedback or hoping you’ll find out how teams and projects are doing, this is a tricky question.
 
