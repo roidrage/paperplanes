@@ -21,6 +21,6 @@ In my latest essay, I talk about the different types of CTO personas that I’ve
 
 The goal is for these personas to help form a much clearer vision of what your role looks like now and how it can evolve over time. Personas are abstractions, but they do help identify the things that help the business the most and that also fulfill the personals wants and needs of a CTO.
 
-I hope this can serve as a useful framework for CTOS as they explore their current and future roles!
+I hope this can serve as a useful framework for CTOs as they explore their current and future roles!
 
 [Read the full article](https://intentionalorganization.com/journal/whats-my-role-as-cto-different-personas/).
