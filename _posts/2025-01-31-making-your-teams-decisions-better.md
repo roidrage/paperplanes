@@ -5,6 +5,7 @@ layout: post
 categories:
   - CTO
   - Coaching
+  - Shorts
 ---
 
 It’s easy to get frustrated when your team is making decisions you don’t agree with. They’re picking the wrong tools, the wrong level of complexity, or decide to do that rewrite despite the unpredictable effort and likely ballooning scope.
