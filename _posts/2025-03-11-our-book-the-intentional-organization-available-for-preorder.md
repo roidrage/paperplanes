@@ -8,7 +8,7 @@ categories:
 ---
 ![](/images/tio-book-cover.png)
 
-🎉🚨 The short and sweet: the book Sara and I have been working on since 2020 is officially available for preorder and launching on April 8, 2025! You [can learn more about it, request a sample chapter, and preorder the book on our site](https://intentionalorganization.comhttps://intentionalorganization.com/journal/we-wrote-a-book-you-can-preorder-now/)!
+🎉🚨 The short and sweet: the book Sara and I have been working on since 2020 is officially available for preorder and launching on April 8, 2025! You [can learn more about it, request a sample chapter, and preorder the book on our site](https://intentionalorganization.com/book/)!
 
 We now live in a time when billionaires are stating that companies need more “masculine energy.” Diversity, inclusion, and equity are removed from an entire country’s vocabulary. Books are removed from libraries because they don’t match someone’s narrow view of the world. Science funding is pulled back from projects when they just mention certain words in their proposals and abstracts.
 
@@ -26,4 +26,4 @@ That’s what this book is about. We want to shine a light on the struggles of m
 
 We’re thrilled that the book is now available for preorder! We hope it’s useful to you and your team as you journey deeper into management and leadership.
 
-Our cover embodies this spirit more than anything. Go read our blog post on what’s behind it.
+Our cover embodies this spirit more than anything. Go read our [blog post](https://intentionalorganization.com/journal/we-wrote-a-book-you-can-preorder-now/) on what’s behind it.
