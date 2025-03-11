@@ -16,7 +16,7 @@ Publishing this book couldn’t seem more timely.
 
 It seems more important that a book on management and leadership highlights the importance of fostering participation, of diverse perspectives, and a collective energy that comes from collaboration, open communication, and leadership principles built on clarity and continuous improvement.
 
-All of these were the things that brought Sara and I together in the first place. They are the guiding principles of “The Intentional Organization,” both the company and the book that’s now available for preorder.
+All of these were the things that brought [Sara](https://saralouhicks.com) and I together in the first place. They are the guiding principles of “The Intentional Organization,” both the company and the book that’s now available for preorder.
 
 While the book seems timely, it has also been a labor of love for us. We set out to write for our past selves. It represents the level of support we felt was missing when we started out as founders. We wanted to know what someone’s tried, why they’ve tried it, and how it worked out. We didn’t want a blueprint that we could copy to the letter, because that almost never works. We just wanted to take inspiration from the experience other folks had already accumulated. But try as we might, there weren’t a lot of books out there that fit the bill.
 
