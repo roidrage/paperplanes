@@ -1,5 +1,5 @@
 ---
-title: 'Our Book "The Intentional Organization" Is Available for Preorder!"
+title: 'Our Book "The Intentional Organization" Is Available for Preorder!'
 date: 2025-03-11
 layout: post
 categories:
